@@ -239,7 +239,8 @@ public class BaselineFileGenerator {
 		 * Note that a match will not be found unless there is a trailing space. We add
 		 * a leading space just in case it is needed.
 		 */
-		jcas.setDocumentText(" " + line + " ");
+		line = " " + line + " ";
+		jcas.setDocumentText(line);
 		/*
 		 * add a sentence annotation -- this is required by the ConceptMapper aggregate
 		 * engine
