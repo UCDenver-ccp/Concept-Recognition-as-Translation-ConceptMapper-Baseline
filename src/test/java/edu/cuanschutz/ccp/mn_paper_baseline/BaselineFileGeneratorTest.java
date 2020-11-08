@@ -34,35 +34,66 @@ package edu.cuanschutz.ccp.mn_paper_baseline;
  * OF THE POSSIBILITY OF SUCH DAMAGE.
  * #L%
  */
-
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import java.io.File;
+import java.io.IOException;
+import java.util.Iterator;
 
+import org.apache.uima.UIMAException;
+import org.apache.uima.analysis_engine.AnalysisEngine;
+import org.apache.uima.fit.util.JCasUtil;
+import org.apache.uima.jcas.JCas;
+import org.junit.Rule;
 import org.junit.Test;
+import org.junit.rules.TemporaryFolder;
 
-import edu.cuanschutz.ccp.mn_paper_baseline.BaselineFileGenerator;
 import edu.cuanschutz.ccp.mn_paper_baseline.BaselineFileGenerator.Input;
 import edu.cuanschutz.ccp.mn_paper_baseline.BaselineFileGenerator.Ontology;
+import edu.ucdenver.ccp.common.io.ClassPathUtil;
+import edu.ucdenver.ccp.nlp.core.uima.annotation.CCPTextAnnotation;
 
 public class BaselineFileGeneratorTest {
+
+	@Rule
+	public TemporaryFolder folder = new TemporaryFolder();
 
 	@Test
 	public void testGetInputFileCore() {
 		File dataDirectory = new File("/home/baseline/data");
 		File inputFile = BaselineFileGenerator.getInputFile(dataDirectory, Input.CORE, Ontology.CHEBI);
 		File expectedInputFile = new File("/home/baseline/data/input/core/gs_CHEBI_combo_src_file.txt");
-		
+
 		assertEquals(expectedInputFile, inputFile);
 	}
-	
+
 	@Test
 	public void testGetInputFileExt() {
 		File dataDirectory = new File("/home/baseline/data");
 		File inputFile = BaselineFileGenerator.getInputFile(dataDirectory, Input.EXT, Ontology.CHEBI);
 		File expectedInputFile = new File("/home/baseline/data/input/ext/gs_CHEBI_EXT_combo_src_file.txt");
-		
+
 		assertEquals(expectedInputFile, inputFile);
+	}
+
+	@Test
+	public void testHygromycinMatch() throws IOException, UIMAException {
+		File dictionaryDirectory = folder.newFolder("dictionaries", "core");
+		ClassPathUtil.copyClasspathResourceToDirectory(getClass(), "cmDict-CHEBI.xml", dictionaryDirectory);
+
+		File craftBaseDirectory = folder.newFolder("craft");
+		File chebiOboDirectory = new File(craftBaseDirectory, "concept-annotation/CHEBI/CHEBI");
+		chebiOboDirectory.mkdirs();
+		ClassPathUtil.copyClasspathResourceToDirectory(getClass(), "CHEBI.obo.zip", chebiOboDirectory);
+
+		AnalysisEngine conceptMapperEngine = BaselineFileGenerator.createConceptMapperEngine(Ontology.CHEBI, Input.CORE,
+				dictionaryDirectory, craftBaseDirectory);
+
+		/* note that hygromycin does not match unless we add a trailing space */
+		String line = "hygromycin ";
+		JCas jcas = BaselineFileGenerator.processLine(conceptMapperEngine, line);
+
+		assertEquals(1, JCasUtil.select(jcas, CCPTextAnnotation.class).size());
 	}
 
 }

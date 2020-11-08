@@ -150,7 +150,8 @@ public class BaselineFileGenerator {
 		return tsd;
 	}
 
-	private static AnalysisEngine createConceptMapperEngine(Ontology ont, Input input, File dictionaryDirectory,
+	@VisibleForTesting
+	protected static AnalysisEngine createConceptMapperEngine(Ontology ont, Input input, File dictionaryDirectory,
 			File craftBaseDirectory) throws UIMAException, IOException {
 
 		List<AnalysisEngineDescription> conceptMapperAeDescriptions = EntityFinder
@@ -196,24 +197,57 @@ public class BaselineFileGenerator {
 			for (StreamLineIterator lineIter = new StreamLineIterator(inputFile, CharacterEncoding.UTF_8); lineIter
 					.hasNext();) {
 				String line = lineIter.next().getText();
-				JCas jcas = JCasFactory.createJCas(TYPE_SYSTEM_DESCRIPTION);
-				jcas.setDocumentText(line);
-				// add a sentence annotation
-				Sentence sentenceAnnot = new Sentence(jcas, 0, line.length());
-				sentenceAnnot.addToIndexes();
-				conceptMapper.process(jcas);
-				Set<String> ids = new HashSet<String>();
-				for (Iterator<CCPTextAnnotation> annotIter = JCasUtil.iterator(jcas, CCPTextAnnotation.class); annotIter
-						.hasNext();) {
-					CCPTextAnnotation annotation = annotIter.next();
-					ids.add(processId(annotation.getClassMention().getMentionName()));
-				}
-				List<String> sortedIds = new ArrayList<String>(ids);
-				Collections.sort(sortedIds);
-				String outStr = CollectionsUtil.createDelimitedString(sortedIds, "|");
+				JCas jcas = processLine(conceptMapper, line);
+				String outStr = extractMatchedIdentifiers(jcas);
 				writer.write(outStr + "\n");
 			}
 		}
+	}
+
+	/**
+	 * @param jcas
+	 * @return a pipe-delimited string of matched ontology identifiers
+	 */
+	private static String extractMatchedIdentifiers(JCas jcas) {
+		Set<String> ids = new HashSet<String>();
+		for (Iterator<CCPTextAnnotation> annotIter = JCasUtil.iterator(jcas, CCPTextAnnotation.class); annotIter
+				.hasNext();) {
+			CCPTextAnnotation annotation = annotIter.next();
+			ids.add(processId(annotation.getClassMention().getMentionName()));
+		}
+		List<String> sortedIds = new ArrayList<String>(ids);
+		Collections.sort(sortedIds);
+		String outStr = CollectionsUtil.createDelimitedString(sortedIds, "|");
+		return outStr;
+	}
+
+	/**
+	 * processes the input line with the ConceptMapper engine, adding annotations to
+	 * the JCas for all matches
+	 * 
+	 * @param conceptMapper
+	 * @param line
+	 * @return
+	 * @throws UIMAException
+	 * @throws AnalysisEngineProcessException
+	 */
+	@VisibleForTesting
+	protected static JCas processLine(AnalysisEngine conceptMapper, String line)
+			throws UIMAException, AnalysisEngineProcessException {
+		JCas jcas = JCasFactory.createJCas(TYPE_SYSTEM_DESCRIPTION);
+		/*
+		 * Note that a match will not be found unless there is a trailing space. We add
+		 * a leading space just in case it is needed.
+		 */
+		jcas.setDocumentText(" " + line + " ");
+		/*
+		 * add a sentence annotation -- this is required by the ConceptMapper aggregate
+		 * engine
+		 */
+		Sentence sentenceAnnot = new Sentence(jcas, 0, line.length());
+		sentenceAnnot.addToIndexes();
+		conceptMapper.process(jcas);
+		return jcas;
 	}
 
 	/**
@@ -233,7 +267,10 @@ public class BaselineFileGenerator {
 	}
 
 	/**
-	 *  mvn exec:java -Dexec.mainClass=edu.cuanschutz.ccp.mn_paper_baseline.BaselineFileGenerator -Dexec.args="/home/baseline/CRAFT-4.0.1 /home/baseline/dictionaries /home/baseline/data"
+	 * mvn exec:java
+	 * -Dexec.mainClass=edu.cuanschutz.ccp.mn_paper_baseline.BaselineFileGenerator
+	 * -Dexec.args="/home/baseline/CRAFT-4.0.1 /home/baseline/dictionaries
+	 * /home/baseline/data"
 	 * 
 	 * @param args args[0] = craft base directory path <br>
 	 *             s args[1] = dictionary directory path
@@ -241,7 +278,7 @@ public class BaselineFileGenerator {
 	public static void main(String[] args) {
 
 		File craftBaseDirectory = new File(args[0]);
-		File dictionaryDirectory = new File(args[1]);
+		File dictionaryDirectoryBase = new File(args[1]);
 		File dataDirectory = new File(args[2]);
 
 		try {
@@ -267,6 +304,8 @@ public class BaselineFileGenerator {
 //			}
 
 			for (Input input : Input.values()) {
+				File dictionaryDirectory = new File(dictionaryDirectoryBase, input.name());
+				dictionaryDirectory.mkdir();
 				for (Ontology ont : Ontology.values()) {
 
 					System.out.println("PROCESSING " + input.name() + " -- " + ont.name());
