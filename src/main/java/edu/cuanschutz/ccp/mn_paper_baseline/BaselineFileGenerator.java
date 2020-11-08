@@ -84,8 +84,8 @@ public class BaselineFileGenerator {
 	public enum Ontology {
 		CHEBI("CHEBI.obo.zip", "CHEBI+extensions.obo.zip", DictionaryNamespace.CHEBI),
 		CL("CL.obo.zip", "CL+extensions.obo.zip", DictionaryNamespace.CL),
-		GO_BP("GO_BP.obo.zip", "GO_BP+extensions.obo.zip", DictionaryNamespace.GO_BP),
-		GO_CC("GO_CC.obo.zip", "GO_CC+extensions.obo.zip", DictionaryNamespace.GO_CC),
+		GO_BP("GO.obo.zip", "GO+GO_BP_extensions.obo.zip", DictionaryNamespace.GO_BP),
+		GO_CC("GO.obo.zip", "GO+GO_CC_extensions.obo.zip", DictionaryNamespace.GO_CC),
 		GO_MF("GO_MF_stub.obo.zip", "GO_MF_stub+GO_MF_extensions.obo.zip", DictionaryNamespace.GO_MF),
 		MOP("MOP.obo.zip", "MOP+extensions.obo.zip", DictionaryNamespace.OBO),
 		NCBITaxon("NCBITaxon.obo.zip", "NCBITaxon+extensions.obo.zip", DictionaryNamespace.NCBI_TAXON),
