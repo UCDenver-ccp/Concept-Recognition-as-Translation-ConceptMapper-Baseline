@@ -95,5 +95,21 @@ public class BaselineFileGeneratorTest {
 
 		assertEquals(1, JCasUtil.select(jcas, CCPTextAnnotation.class).size());
 	}
+	
+	@Test
+	public void testProcessId() {
+		
+		String id = "http://purl.obolibrary.org/obo/CL_0000000";
+		String processedId = BaselineFileGenerator.processId(id);
+		String expectedId = "CL:0000000";
+		
+		assertEquals(expectedId, processedId);
+		
+		id = "http://purl.obolibrary.org/obo/UBERON_EXT#_cell_clump_or_cluster_or_group_or_mass_or_population";
+		processedId = BaselineFileGenerator.processId(id);
+		expectedId = "UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population";
+		
+		assertEquals(expectedId, processedId);
+	}
 
 }

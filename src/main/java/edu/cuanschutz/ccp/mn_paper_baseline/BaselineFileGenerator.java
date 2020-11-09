@@ -154,6 +154,22 @@ public class BaselineFileGenerator {
 	protected static AnalysisEngine createConceptMapperEngine(Ontology ont, Input input, File dictionaryDirectory,
 			File craftBaseDirectory) throws UIMAException, IOException {
 
+		/*
+		 * The initialization code below builds a ConceptMapper dictionary for each
+		 * ontology unless one already exists. Because UBERON and MOP annotations were
+		 * added to CRAFT after the EntityFinder code was originally built, we use the
+		 * generic "OBO" DictionaryNamespace when processing those two ontologies. The
+		 * dictionary file created when using the OBO namespace is named cmDict-OBO.xml.
+		 * Because the code can't easily tell if this dictionary contains MOP or UBERON
+		 * data, we delete any existing cmDict-OBO.xml file each time and force the
+		 * dictionary to be recreated.
+		 */
+
+		File oboDictFile = new File(dictionaryDirectory, "cmDict-OBO.xml");
+		if (oboDictFile.exists()) {
+			oboDictFile.delete();
+		}
+
 		List<AnalysisEngineDescription> conceptMapperAeDescriptions = EntityFinder
 				.initConceptMapperAggregateDescriptions(TYPE_SYSTEM_DESCRIPTION,
 						ont.getConceptMapperDictionaryNamespace().name(),
@@ -255,12 +271,15 @@ public class BaselineFileGenerator {
 	 * @param mentionName
 	 * @return id with OBO PURL removed
 	 */
-	private static String processId(String id) {
+	@VisibleForTesting
+	protected static String processId(String id) {
 		if (id.startsWith("http://purl.obolibrary.org/obo/")) {
 			id = StringUtils.removePrefix(id, "http://purl.obolibrary.org/obo/");
 		}
 		if (id.contains("EXT_")) {
 			id = id.replace("EXT_", "EXT:");
+		} if (id.contains("EXT#")) {
+			id = id.replace("EXT#_", "EXT:");
 		} else if (id.contains("_")) {
 			id = id.replace("_", ":");
 		}
@@ -285,12 +304,13 @@ public class BaselineFileGenerator {
 		try {
 			// this block used for testing
 //			{
-//			File craftBaseDirectory = new File("/Users/bill/projects/craft-shared-task/craft.git");
-//			File dictionaryDirectory = new File(
-//					"/Users/bill/projects/one-offs/for-mayla-negacy-concept-recognition-paper/data/dictionaries");
-//			File dataDirectory = new File("/Users/bill/projects/one-offs/for-mayla-negacy-concept-recognition-paper/data");
-//				Ontology ont = Ontology.CL;
-//				Input input = Input.CORE;
+//				File craftBaseDirectory = new File("/Users/bill/projects/craft-shared-task/craft.git");
+//				File dictionaryDirectory = new File(
+//						"/Users/bill/projects/one-offs/for-mayla-negacy-concept-recognition-paper/dictionaries");
+//				File dataDirectory = new File(
+//						"/Users/bill/projects/one-offs/for-mayla-negacy-concept-recognition-paper/data");
+//				Ontology ont = Ontology.UBERON;
+//				Input input = Input.EXT;
 //
 //				// create ConceptMapper instance
 //				AnalysisEngine conceptMapper = createConceptMapperEngine(ont, input, dictionaryDirectory,
@@ -310,12 +330,6 @@ public class BaselineFileGenerator {
 				for (Ontology ont : Ontology.values()) {
 
 					System.out.println("PROCESSING " + input.name() + " -- " + ont.name());
-
-					// TODO: Uberon input files are missing. Remove this continue when the Uberon
-					// files are available to complete processing
-					if (ont == Ontology.UBERON) {
-						continue;
-					}
 
 					// create ConceptMapper instance
 					AnalysisEngine conceptMapper = createConceptMapperEngine(ont, input, dictionaryDirectory,

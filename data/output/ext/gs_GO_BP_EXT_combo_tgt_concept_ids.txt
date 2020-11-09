@@ -1,46 +1,46 @@
-GO:EXT#:regulator
-GO:EXT#:regulator
+GO_EXT:regulator
+GO_EXT:regulator
 
 GO:0050890
-GO:EXT#:regulator
-GO:EXT#:regulator
-GO:EXT#:regulator
+GO_EXT:regulator
+GO_EXT:regulator
+GO_EXT:regulator
 
 GO:0050890
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 
 GO:0050890
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0007610|GO:PATO:EXT#:biological:behavior
-GO:EXT#:regulator
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0007610|GO_PATO_EXT:biological_behavior
+GO_EXT:regulator
 
 
 
 GO:0032502
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:EXT#:regulator
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_EXT:regulator
 
 
-GO:EXT#:regulator
+GO_EXT:regulator
 
 
 
-GO:0065007|GO:EXT#:regulator
-GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
+GO_EXT:regulator
 
 
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 GO:0007420|GO:0032502
-GO:EXT#:regulator
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO_EXT:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 GO:0032502
 
 GO:0007420|GO:0032502
-GO:EXT#:regulator
+GO_EXT:regulator
 GO:0032502
 GO:0051179
 
@@ -48,11 +48,11 @@ GO:0009790|GO:0009792|GO:0009793
 GO:0007411
 GO:0032502
 
-GO:EXT#:regulator
-GO:EXT#:regulator
+GO_EXT:regulator
+GO_EXT:regulator
 
 
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
 GO:0051179
 
@@ -70,7 +70,7 @@ GO:0007283
 
 
 GO:0000239
-GO:0006412|GO:0006417|GO:0065007|GO:EXT#:regulator
+GO:0006412|GO:0006417|GO:0065007|GO_EXT:regulator
 GO:0006412
 GO:0007126|GO:0051321
 
@@ -105,17 +105,17 @@ GO:0007281|GO:0032502|GO:0048468
 
 
 GO:0051179
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0006810|GO:0051028
 GO:0051179
 GO:0006412
-GO:0006412|GO:0006417|GO:0065007|GO:EXT#:regulator
+GO:0006412|GO:0006417|GO:0065007|GO_EXT:regulator
 GO:0006412|GO:0009058
 
 GO:0006810
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0045292
 
 
@@ -129,7 +129,7 @@ GO:0007283
 GO:0006412
 
 
-GO:0001171|GO:0006351|GO:EXT#:transcription
+GO:0001171|GO:0006351|GO_EXT:transcription
 
 
 
@@ -163,26 +163,26 @@ GO:0007165|GO:0009293|GO:0014065|GO:0023052
 GO:0014003|GO:0032502
 GO:0007165|GO:0009293|GO:0023052
 GO:0040007
-GO:PATO:EXT#:physiological:process:or:quality
+GO_PATO_EXT:physiological_process_or_quality
 
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 GO:0007165|GO:0009293|GO:0023052
 
 
 
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 GO:0007165|GO:0009293|GO:0023052
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0007165|GO:0009293|GO:0023052
-GO:0007165|GO:0009293|GO:0023052
-
-
 GO:0007165|GO:0009293|GO:0023052
 
-GO:EXT#:fatality:or:lethality
-GO:PATO:EXT#:physiological:process:or:quality
+
 GO:0007165|GO:0009293|GO:0023052
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+
+GO_EXT:fatality_or_lethality
+GO_PATO_EXT:physiological_process_or_quality
+GO:0007165|GO:0009293|GO:0023052
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 GO:0007165|GO:0009293|GO:0023052
 
 GO:0007165|GO:0023052
@@ -194,23 +194,23 @@ GO:0007165|GO:0023052
 
 GO:0007165|GO:0023052
 GO:0007165|GO:0023052
-GO:SO:EXT#:frameshift:entity:or:process
-GO:SO:EXT#:frameshift:entity:or:process
+GO_SO_EXT:frameshift_entity_or_process
+GO_SO_EXT:frameshift_entity_or_process
 GO:0009058|GO:0071897
-GO:EXT#:negative:regulation|GO:EXT#:negative:regulator
+GO_EXT:negative_regulation|GO_EXT:negative_regulator
 
 
 GO:0032502
 GO:0040007
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 GO:0007165|GO:0009293|GO:0023052
 
 GO:0007165|GO:0009293|GO:0023052
 
 
-GO:EXT#:positive:regulation|GO:EXT#:positive:regulator
+GO_EXT:positive_regulation|GO_EXT:positive_regulator
 
 GO:0051179
 
@@ -220,7 +220,7 @@ GO:0051179
 
 
 
-GO:EXT#:positive:regulation|GO:EXT#:positive:regulator
+GO_EXT:positive_regulation|GO_EXT:positive_regulator
 GO:0032502
 
 GO:0042592
@@ -249,20 +249,20 @@ GO:0007165|GO:0009293|GO:0023052
 GO:0007165|GO:0009293|GO:0023052
 GO:0007165|GO:0009293|GO:0023052
 
-GO:EXT#:negative:regulation|GO:EXT#:negative:regulator
+GO_EXT:negative_regulation|GO_EXT:negative_regulator
 
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:EXT#:negative:regulation|GO:EXT#:negative:regulator
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO_EXT:negative_regulation|GO_EXT:negative_regulator
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 
 GO:0007165|GO:0009293|GO:0023052
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 GO:0023052
 GO:0007165|GO:0009293|GO:0023052
 
@@ -274,7 +274,7 @@ GO:0032502|GO:0048468
 GO:0023052
 GO:0023052
 GO:0007165|GO:0009293|GO:0023052
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0007165|GO:0009293|GO:0023052
 
 GO:0007165|GO:0023052
@@ -283,27 +283,27 @@ GO:0007165|GO:0009293|GO:0023052
 GO:0023052
 
 GO:0007165|GO:0023052
-GO:EXT#:negative:regulation|GO:EXT#:negative:regulator
+GO_EXT:negative_regulation|GO_EXT:negative_regulator
 GO:0007165|GO:0023052
 GO:0007165|GO:0009293|GO:0023052
 GO:0007165|GO:0023052
 
 
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 
 GO:0023052
 GO:0023052
 GO:0023052
 GO:0007165|GO:0009293|GO:0023052
-GO:EXT#:regulator
+GO_EXT:regulator
 
 GO:0009058
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 GO:0023052
 GO:0007349
 GO:0023052
-GO:EXT#:fatality:or:lethality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO_EXT:fatality_or_lethality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 
 GO:0023052
 GO:0007165|GO:0009293|GO:0023052
@@ -318,22 +318,22 @@ GO:0032502|GO:0048468
 
 
 GO:0006915|GO:0097194
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
 GO:0007165|GO:0023052
-GO:EXT#:regulator
+GO_EXT:regulator
 
 GO:0007165|GO:0023052
 GO:0007165|GO:0009293|GO:0023052
 GO:0007165|GO:0009293|GO:0023052
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:SO:EXT#:frameshift:entity:or:process
+GO_SO_EXT:frameshift_entity_or_process
 
 
-GO:EXT#:negative:regulation|GO:EXT#:negative:regulator
+GO_EXT:negative_regulation|GO_EXT:negative_regulator
 
 GO:0023052
 GO:0023052
@@ -342,10 +342,10 @@ GO:0023052
 
 GO:0040007
 GO:0040007
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0007165|GO:0009293|GO:0023052
-GO:SO:EXT#:frameshift:entity:or:process
-GO:SO:EXT#:frameshift:entity:or:process
+GO_SO_EXT:frameshift_entity_or_process
+GO_SO_EXT:frameshift_entity_or_process
 
 GO:0051179
 
@@ -353,12 +353,12 @@ GO:0051179
 GO:0051179
 
 GO:0007165|GO:0009293|GO:0023052
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 GO:0001890|GO:0032502
 GO:0009790|GO:0032502
-GO:PATO:EXT#:physiological:process:or:quality
+GO_PATO_EXT:physiological_process_or_quality
 
 
 GO:0006915|GO:0097194
@@ -368,24 +368,24 @@ GO:0000165|GO:0035556|GO:0045840
 GO:0000165
 GO:0007349|GO:0009987
 GO:0008283
-GO:0030154|GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0030154|GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0006915|GO:0097194
-GO:PATO:EXT#:physiological:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO_PATO_EXT:physiological_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 
 GO:0000165
-GO:PATO:EXT#:physiological:process:or:quality
+GO_PATO_EXT:physiological_process_or_quality
 
 GO:0016265
 GO:0007507|GO:0032502
 GO:0032502
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0006351|GO:EXT#:transcription
-GO:EXT#:fatality:or:lethality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0006351|GO_EXT:transcription
+GO_EXT:fatality_or_lethality
 
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0009058
 GO:0001525
 GO:0001890|GO:0009058
@@ -395,22 +395,22 @@ GO:0007507|GO:0032502
 GO:0001525
 GO:0001890|GO:0009058
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0009790|GO:0009792|GO:0009793
 GO:0006412
 GO:0006412
-GO:EXT#:breeding
-GO:EXT#:fatality:or:lethality
+GO_EXT:breeding
+GO_EXT:fatality_or_lethality
 GO:0009790|GO:0009792|GO:0009793
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 
 
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0045292
 GO:0045292
-GO:SO:EXT#:frameshift:entity:or:process
+GO_SO_EXT:frameshift_entity_or_process
 
 
 GO:0040007
@@ -427,7 +427,7 @@ GO:0007114|GO:0032502
 GO:0009790|GO:0009792|GO:0009793
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0009790|GO:0032502
 
 
@@ -491,29 +491,29 @@ GO:0032502
 
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0001890|GO:0032502
 GO:0001525
 GO:0032502
 GO:0032502
-GO:EXT#:fatality:or:lethality
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
+GO_EXT:fatality_or_lethality
 GO:0001890|GO:0032502
 GO:0001525
 GO:0040007
 
 GO:0040007
 GO:0032502
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0001890|GO:0032502
-GO:EXT#:killing
+GO_EXT:killing
 
 GO:0006915|GO:0097194
 GO:0032502
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0023052
 GO:0032502
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0032502
 GO:0000165|GO:0023052
 GO:0001525
@@ -539,8 +539,8 @@ GO:0032502
 GO:0007507|GO:0032502
 
 
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 GO:0007507|GO:0032502
 
 GO:0007507|GO:0032502
@@ -553,19 +553,19 @@ GO:0001525
 GO:0006915|GO:0097194
 
 GO:0006915|GO:0097194
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 
 
 
 GO:0001525
 GO:0001890|GO:0032502
-GO:0006915|GO:0042981|GO:0065007|GO:0097194|GO:EXT#:regulator
+GO:0006915|GO:0042981|GO:0065007|GO:0097194|GO_EXT:regulator
 GO:0023052
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 
 
@@ -574,128 +574,128 @@ GO:0007620
 
 GO:0008219|GO:0016265
 
-GO:EXT#:breeding
+GO_EXT:breeding
 
-GO:EXT#:fatality:or:lethality
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+GO_EXT:fatality_or_lethality
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
 
 
 GO:0016246
 GO:0016246
 GO:0009293
-GO:EXT#:fatality:or:lethality
-GO:EXT#:fatality:or:lethality
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
+GO_EXT:fatality_or_lethality
+GO_EXT:fatality_or_lethality
 GO:0009888
 
 
 GO:0040007
 GO:0016311
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
 GO:0016265
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
-GO:EXT#:fatality:or:lethality
+CHEBI_GO_EXT:biological_process_or_quality_or_role
+GO_EXT:fatality_or_lethality
 
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 
 
-GO:EXT#:fatality:or:lethality
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
+GO_EXT:fatality_or_lethality
 
 
 
 GO:0007565
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 
 
 
 GO:0040007
 GO:0040007
-GO:0007349|GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0007349|GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
 GO:0009790|GO:0009792|GO:0009793
 
-GO:EXT#:breeding
+GO_EXT:breeding
 
 
 
 GO:0048513
 
 
-GO:PATO:EXT#:cell:proliferation:or:proliferativity
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+GO_PATO_EXT:cell_proliferation_or_proliferativity
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+CHEBI_GO_EXT:biological_process_or_quality_or_role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
-GO:PATO:EXT#:cell:proliferation:or:proliferativity
+GO_PATO_EXT:cell_proliferation_or_proliferativity
 
 
 GO:0040007
 GO:0040007
 GO:0007165|GO:0023052
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 GO:0051168
 GO:0051170
-GO:EXT#:negative:regulation|GO:EXT#:negative:regulator
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO_EXT:negative_regulation|GO_EXT:negative_regulator
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 GO:0006412
 GO:0006412|GO:0006413
 GO:0051179
 
-GO:EXT#:negative:regulation|GO:EXT#:negative:regulator
+GO_EXT:negative_regulation|GO_EXT:negative_regulator
 
 
 GO:0051179
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:PATO:EXT#:cell:proliferation:or:proliferativity
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO_PATO_EXT:cell_proliferation_or_proliferativity
 
 
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
-GO:EXT#:regulator
+GO_EXT:regulator
 
-GO:EXT#:negative:regulation|GO:EXT#:negative:regulator
+GO_EXT:negative_regulation|GO_EXT:negative_regulator
 
-GO:PATO:EXT#:apoptotic:process:or:quality
-GO:PATO:EXT#:cell:proliferation:or:proliferativity
+GO_PATO_EXT:apoptotic_process_or_quality
+GO_PATO_EXT:cell_proliferation_or_proliferativity
 
 
 GO:0023052
 
-GO:EXT#:regulator
+GO_EXT:regulator
 
 
 GO:0007349
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
 GO:0051179
 
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
-GO:PATO:EXT#:cell:proliferation:or:proliferativity
+GO_PATO_EXT:cell_proliferation_or_proliferativity
 
 
 GO:0019835
@@ -707,22 +707,22 @@ GO:0023052
 GO:0023052
 GO:0016246
 GO:0016246
-GO:EXT#:breeding
+GO_EXT:breeding
 
 
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0006351|GO:EXT#:transcription
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0006351|GO_EXT:transcription
 
-GO:0007568|GO:PATO:EXT#:aging:or:agedness
+GO:0007568|GO_PATO_EXT:aging_or_agedness
 
 
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
 GO:0051179
 
-GO:PATO:EXT#:cell:proliferation:or:proliferativity
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_EXT:cell_proliferation_or_proliferativity
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
@@ -754,7 +754,7 @@ GO:0001541|GO:0032502
 
 GO:0007281|GO:0032502|GO:0048468
 
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 
 
 GO:0009790|GO:0032502
@@ -772,21 +772,21 @@ GO:0000747|GO:0007618|GO:0009291|GO:1990277
 
 
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 
 
 
 GO:0032502
 
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
 GO:0009790|GO:0009792|GO:0009793
 
 GO:0006412|GO:0006413
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 
 
@@ -795,23 +795,23 @@ GO:0007565
 
 
 
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
-GO:0065007|GO:EXT#:regulator
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0065007|GO:EXT#:regulator
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+GO:0065007|GO_EXT:regulator
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0065007|GO_EXT:regulator
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
 GO:0009790|GO:0032502
 
 GO:0007026
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 GO:0007349|GO:0009987
 GO:0007026
 GO:0051301
 GO:0016477
-GO:0000226|GO:0065007|GO:EXT#:regulator
+GO:0000226|GO:0065007|GO_EXT:regulator
 
 GO:0009790|GO:0032502
 
@@ -819,32 +819,32 @@ GO:0009790|GO:0032502
 
 GO:0009790|GO:0032502
 GO:0007049
-GO:0065007|GO:EXT#:regulator
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0065007|GO_EXT:regulator
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 GO:0016311
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0007369
 GO:0008152
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:PATO:EXT#:physiological:process:or:quality
+GO_PATO_EXT:physiological_process_or_quality
 
 GO:0009790|GO:0032502
 
@@ -863,13 +863,13 @@ GO:0009790|GO:0032502
 
 
 GO:0051179
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0051179
 
 
 GO:0051179
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0051325
 GO:0051179
 GO:0051179
@@ -884,49 +884,49 @@ GO:0051325
 
 
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0051179
-GO:EXT#:transfectant:or:tranformant
-GO:0051179
-
-
-
-
-GO:EXT#:transfectant:or:tranformant
-
-
+GO_EXT:transfectant_or_tranformant
 GO:0051179
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+
+
+
+GO_EXT:transfectant_or_tranformant
+
+
 GO:0051179
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO:0051179
+
+GO_EXT:transfectant_or_tranformant
 GO:0007026
 
 GO:0051325
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0051179
 GO:0051179
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0007019
 
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 GO:0007026
-GO:0000226|GO:0065007|GO:0070507|GO:EXT#:regulator
+GO:0000226|GO:0065007|GO:0070507|GO_EXT:regulator
 GO:0007369
 
 GO:0007369
-GO:EXT#:responder
-GO:0065007|GO:EXT#:regulator
+GO_EXT:responder
+GO:0065007|GO_EXT:regulator
 GO:0008610|GO:0009058
 
 GO:0009790|GO:0032502
@@ -934,7 +934,7 @@ GO:0009790|GO:0032502
 
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0009653
 
 
@@ -947,24 +947,24 @@ GO:0051013
 
 GO:0000910
 GO:0048870
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 GO:0007067
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 
 
-GO:0065007|GO:EXT#:regulator
-GO:PATO:EXT#:physiological:process:or:quality
+GO:0065007|GO_EXT:regulator
+GO_PATO_EXT:physiological_process_or_quality
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0051325
 
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0006412|GO:0043687|GO:SO:EXT#:post:translational:modification:entity:or:process
-GO:0065007|GO:EXT#:regulator
-GO:PATO:EXT#:physiological:process:or:quality
-GO:0000226|GO:0065007|GO:0070507|GO:EXT#:regulator
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0006412|GO:0043687|GO_SO_EXT:post_translational_modification_entity_or_process
+GO:0065007|GO_EXT:regulator
+GO_PATO_EXT:physiological_process_or_quality
+GO:0000226|GO:0065007|GO:0070507|GO_EXT:regulator
 GO:0007049
 GO:0016477
 GO:0007026
@@ -977,240 +977,240 @@ GO:0007369
 GO:0016477
 GO:0000226
 
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0065007|GO:EXT#:regulator
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0065007|GO_EXT:regulator
 GO:0009790|GO:0032502
-GO:0000226|GO:0065007|GO:EXT#:regulator
+GO:0000226|GO:0065007|GO_EXT:regulator
 
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0046903|GO_EXT:secretion_entity_or_process
 GO:0023052
 GO:0023052
 GO:0031099
 
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
 
-GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0023052
 
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0040007
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:EXT#:responder
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_EXT:responder
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-
-
-GO:0009058
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-
-
-GO:0009058|GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-
-GO:0065007|GO:EXT#:regulator
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0010467|GO:EXT#:gene:expresser
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 GO:0009058
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0065007|GO:EXT#:regulator
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0065007|GO:EXT#:regulator
-GO:0009058|GO:EXT#:muscle:structure:or:tissue:development
+GO:0009058|GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:EXT#:muscle:structure:or:tissue:development
-GO:0009058
+GO:0065007|GO_EXT:regulator
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0010467|GO_EXT:gene_expresser
 
-GO:EXT#:muscle:structure:or:tissue:development
-
-
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:EXT#:muscle:structure:or:tissue:development
-
-
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-
-GO:EXT#:muscle:structure:or:tissue:development
-GO:0009058|GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 
 GO:0009058
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0065007|GO_EXT:regulator
 
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0065007|GO_EXT:regulator
+GO:0009058|GO_EXT:muscle_structure_or_tissue_development
+
+GO_EXT:muscle_structure_or_tissue_development
+GO:0009058
+
+GO_EXT:muscle_structure_or_tissue_development
+
+
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_EXT:muscle_structure_or_tissue_development
+
+
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+
+GO_EXT:muscle_structure_or_tissue_development
+GO:0009058|GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+
+GO:0009058
+
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 GO:0009058
 GO:0023052
 GO:0009058
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0023052
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:muscle:structure:or:tissue:development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:muscle_structure_or_tissue_development
 
 GO:0040007
-GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:EXT#:muscle:structure:or:tissue:development
+GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_EXT:muscle_structure_or_tissue_development
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-
-
-GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:muscle:structure:or:tissue:development
-
-GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:muscle_structure_or_tissue_development
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:EXT#:muscle:structure:or:tissue:development
+GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_EXT:muscle_structure_or_tissue_development
 GO:0051450
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0006915|GO:0097194
-GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:responder
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:responder
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0040007
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0040007
 GO:0040007
 GO:0040007
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0023052
-GO:EXT#:responder
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO_EXT:responder
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 
 
 
 GO:0040007
 GO:0007049
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0040007
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
-GO:EXT#:muscle:structure:or:tissue:development
+GO_EXT:muscle_structure_or_tissue_development
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 GO:0040007
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0040007
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
 GO:0023052
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
 
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-
-
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0051179
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 GO:0023052
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
 
 GO:0023052
 
@@ -1220,252 +1220,252 @@ GO:0009888
 GO:0023052
 
 
-GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:muscle:structure:or:tissue:development
+GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:muscle_structure_or_tissue_development
 GO:0023052
-GO:EXT#:muscle:structure:or:tissue:development
-
-GO:0023052
-
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:0009058|GO:EXT#:muscle:structure:or:tissue:development
-
-
-
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO_EXT:muscle_structure_or_tissue_development
 
 GO:0023052
 
-
-
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO:0009058|GO_EXT:muscle_structure_or_tissue_development
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-
-
-GO:0009058|GO:EXT#:muscle:structure:or:tissue:development
+GO:0023052
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
 
-GO:0009058|GO:EXT#:muscle:structure:or:tissue:development
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
+GO:0009058|GO_EXT:muscle_structure_or_tissue_development
+
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+
+GO:0009058|GO_EXT:muscle_structure_or_tissue_development
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
 
 GO:0040007
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:0060384|GO:UBERON:EXT#:innervation:entity:or:process
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO:0060384|GO_UBERON_EXT:innervation_entity_or_process
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
 GO:0040007
 
 GO:0023052
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
 GO:0040007
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
 GO:0023052
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0040007
-GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:responder
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:responder
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0023052
-GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0040007
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 GO:0023052
-GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:EXT#:muscle:structure:or:tissue:development
+GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_EXT:muscle_structure_or_tissue_development
 GO:0023052
-GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 
 GO:0023052
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
 GO:0023052
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0023052
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:EXT#:muscle:structure:or:tissue:development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO_EXT:muscle_structure_or_tissue_development
 GO:0006915|GO:0097194
 GO:0008219|GO:0016265
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0023052
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
 GO:0008219|GO:0016265
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
 GO:0006915|GO:0097194
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:EXT#:responder
-GO:0065007|GO:EXT#:regulator
-
-
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_EXT:responder
+GO:0065007|GO_EXT:regulator
 
 
-GO:EXT#:responder
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:muscle:structure:or:tissue:development
-
-GO:EXT#:muscle:structure:or:tissue:development
-
-GO:EXT#:responder
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
-GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_EXT:responder
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:muscle_structure_or_tissue_development
+
+GO_EXT:muscle_structure_or_tissue_development
+
+GO_EXT:responder
+
+
+GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0023052
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
-GO:EXT#:responder
+GO_EXT:responder
 GO:0040007
 
-GO:PATO:EXT#:cell:proliferation:or:proliferativity
-GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_EXT:cell_proliferation_or_proliferativity
+GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:EXT#:muscle:structure:or:tissue:development
+GO_EXT:muscle_structure_or_tissue_development
 
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
-GO:EXT#:muscle:structure:or:tissue:development
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
+GO_EXT:muscle_structure_or_tissue_development
 GO:0040007
-GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:muscle:structure:or:tissue:development
+GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:muscle_structure_or_tissue_development
 GO:0040007
-GO:PATO:EXT#:cell:proliferation:or:proliferativity
-GO:PATO:EXT#:cell:proliferation:or:proliferativity
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_EXT:cell_proliferation_or_proliferativity
+GO_PATO_EXT:cell_proliferation_or_proliferativity
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:EXT#:responder
-GO:EXT#:muscle:structure:or:tissue:development
+GO_EXT:responder
+GO_EXT:muscle_structure_or_tissue_development
 
 
-GO:EXT#:muscle:structure:or:tissue:development
+GO_EXT:muscle_structure_or_tissue_development
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 GO:0023052
 GO:0051450
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0051450
 GO:0040007
-GO:EXT#:muscle:structure:or:tissue:development
+GO_EXT:muscle_structure_or_tissue_development
 GO:0040007
-GO:PATO:EXT#:cell:proliferation:or:proliferativity
-GO:EXT#:muscle:structure:or:tissue:development
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_EXT:cell_proliferation_or_proliferativity
+GO_EXT:muscle_structure_or_tissue_development
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0023052
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
 GO:0023052
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0023052
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:0007519|GO:EXT#:muscle:structure:or:tissue:development
-GO:EXT#:transfectant:or:tranformant
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO:0007519|GO_EXT:muscle_structure_or_tissue_development
+GO_EXT:transfectant_or_tranformant
 
 
 
-GO:EXT#:muscle:structure:or:tissue:development
+GO_EXT:muscle_structure_or_tissue_development
 
 GO:0040007
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0040007
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+CHEBI_GO_EXT:biological_process_or_quality_or_role
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0040007
 
 
-GO:0007568|GO:PATO:EXT#:aging:or:agedness
-GO:PATO:EXT#:physiological:process:or:quality
+GO:0007568|GO_PATO_EXT:aging_or_agedness
+GO_PATO_EXT:physiological_process_or_quality
 
 GO:0006096
 GO:0008152
-GO:0065007|GO:EXT#:regulator
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
 
 
 GO:0006099
@@ -1479,10 +1479,10 @@ GO:0008152
 
 GO:0008152
 GO:0008152
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
 GO:0008152
-GO:PATO:EXT#:physiological:process:or:quality
+GO_PATO_EXT:physiological_process_or_quality
 
 GO:0023052
 GO:0023052
@@ -1490,23 +1490,23 @@ GO:0023052
 GO:0008152
 
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 GO:0008152
 
 
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 GO:0006810|GO:0015758
 GO:0006006|GO:0008152
 GO:0040007
 GO:0006810
 GO:0006810
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
-GO:0006351|GO:EXT#:transcription
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
+GO:0006351|GO_EXT:transcription
 
 
 
@@ -1522,16 +1522,16 @@ GO:0008152
 GO:0006096
 GO:0005980
 GO:0006099
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
-GO:EXT#:responder
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
+GO_EXT:responder
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 
 GO:0008152|GO:0045333
 
 
 GO:0036268
 GO:0036268
-GO:EXT#:responder
+GO_EXT:responder
 
 
 
@@ -1547,25 +1547,25 @@ GO:0051301
 
 
 GO:0046323|GO:0098657
-GO:EXT#:responder
+GO_EXT:responder
 
-GO:0006096|GO:0065007|GO:EXT#:regulator
-GO:PATO:EXT#:physiological:process:or:quality
+GO:0006096|GO:0065007|GO_EXT:regulator
+GO_PATO_EXT:physiological_process_or_quality
 
-GO:EXT#:macromolecule:denaturation
+GO_EXT:macromolecule_denaturation
 GO:0008152
 GO:0036268
 GO:0008152
 
 
 
-GO:0010467|GO:EXT#:gene:expresser
-GO:0010467|GO:EXT#:gene:expresser
-GO:0001171|GO:0006351|GO:EXT#:transcription
+GO:0010467|GO_EXT:gene_expresser
+GO:0010467|GO_EXT:gene_expresser
+GO:0001171|GO:0006351|GO_EXT:transcription
 
-GO:0001171|GO:0006351|GO:EXT#:transcription
-GO:0010467|GO:EXT#:gene:expresser
-GO:0010467|GO:EXT#:gene:expresser
+GO:0001171|GO:0006351|GO_EXT:transcription
+GO:0010467|GO_EXT:gene_expresser
+GO:0010467|GO_EXT:gene_expresser
 
 GO:0006810
 
@@ -1586,16 +1586,16 @@ GO:0008152
 GO:0008152|GO:0045333
 GO:0007595
 GO:0006099
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 
 GO:0036268
 GO:0036268
 
 GO:0031099
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 
 
 GO:0006457
@@ -1615,7 +1615,7 @@ GO:0007165|GO:0023052
 GO:0023052
 GO:0008283
 GO:0040007
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 GO:0040007
 
@@ -1626,9 +1626,9 @@ GO:0040007
 
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:PATO:EXT#:apoptotic:process:or:quality
+GO_PATO_EXT:apoptotic_process_or_quality
 
 
 GO:0006412|GO:0006413
@@ -1640,10 +1640,10 @@ GO:0040007
 
 GO:0006915|GO:0097194
 
-GO:PATO:EXT#:apoptotic:process:or:quality
+GO_PATO_EXT:apoptotic_process_or_quality
 GO:0006915|GO:0097194
-GO:PATO:EXT#:apoptotic:process:or:quality
-GO:0065007|GO:EXT#:regulator
+GO_PATO_EXT:apoptotic_process_or_quality
+GO:0065007|GO_EXT:regulator
 GO:0006915|GO:0097194
 
 
@@ -1654,22 +1654,22 @@ GO:0008283
 
 
 
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 GO:0023052
 GO:0007165|GO:0023052
 GO:0040007
-GO:EXT#:negative:regulation|GO:EXT#:negative:regulator
+GO_EXT:negative_regulation|GO_EXT:negative_regulator
 GO:0007165|GO:0023052
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 GO:0006915|GO:0097194
-GO:PATO:EXT#:physiological:process:or:quality
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO_PATO_EXT:physiological_process_or_quality
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 GO:0006915|GO:0097194
 GO:0006915|GO:0097194
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 GO:0016246|GO:0016458
 
@@ -1680,7 +1680,7 @@ GO:0040007
 GO:0006915|GO:0097194
 
 GO:0006915|GO:0097194
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 
 GO:0006915|GO:0097194
 GO:0016265
@@ -1690,49 +1690,49 @@ GO:0007507|GO:0032502
 GO:0016265
 
 GO:0007565
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
-GO:EXT#:breeding
+CHEBI_GO_EXT:biological_process_or_quality_or_role
+GO_EXT:breeding
 
 GO:0032502
 GO:0032502|GO:0060840
 GO:0007507|GO:0032502
 GO:0032502|GO:0048538
 GO:0048513
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0009790|GO:0009792|GO:0009793|GO:0032502
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0040007
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0009790|GO:0009792|GO:0009793
 
 
-GO:EXT#:fatality:or:lethality
-GO:EXT#:breeding
+GO_EXT:fatality_or_lethality
+GO_EXT:breeding
 GO:0040007
 
 GO:0007507|GO:0032502
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0032502
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
 
-GO:0060343|GO:PATO:UBERON:EXT#:trabeculation:entity:or:process:or:quality
-GO:0060343|GO:PATO:UBERON:EXT#:trabeculation:entity:or:process:or:quality
+GO:0060343|GO_PATO_UBERON_EXT:trabeculation_entity_or_process_or_quality
+GO:0060343|GO_PATO_UBERON_EXT:trabeculation_entity_or_process_or_quality
 GO:0007565
 GO:0007565
 GO:0007565
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0007565
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 
-GO:EXT#:breeding
+GO_EXT:breeding
 GO:0007565
 GO:0007507|GO:0032502
 
@@ -1741,18 +1741,18 @@ GO:0032502|GO:0060840
 GO:0032502|GO:0048538
 GO:0007507|GO:0032502
 GO:0032502|GO:0048538
-GO:PATO:EXT#:apoptotic:process:or:quality
+GO_PATO_EXT:apoptotic_process_or_quality
 GO:0006915|GO:0097194
-GO:0043277|GO:PATO:EXT#:apoptotic:process:or:quality
+GO:0043277|GO_PATO_EXT:apoptotic_process_or_quality
 GO:0007507|GO:0032502
-GO:PATO:EXT#:apoptotic:process:or:quality
-GO:0043277|GO:PATO:EXT#:apoptotic:process:or:quality
+GO_PATO_EXT:apoptotic_process_or_quality
+GO:0043277|GO_PATO_EXT:apoptotic_process_or_quality
 GO:0032502
 GO:0007507|GO:0032502
 GO:0007507|GO:0032502
 GO:0007507|GO:0032502
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 GO:0051179
 
 
@@ -1762,14 +1762,14 @@ GO:0007049
 GO:0051325
 GO:0007067
 GO:0008219|GO:0016265
-GO:0007610|GO:PATO:EXT#:biological:behavior
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+GO:0007610|GO_PATO_EXT:biological_behavior
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
 
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 GO:0007049
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 GO:0051179
 GO:0051301
 GO:0007067
@@ -1778,7 +1778,7 @@ GO:0007067
 GO:0007049
 GO:0051179
 GO:0051179
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 
 
 
@@ -1821,10 +1821,10 @@ GO:0051324
 GO:0000910
 
 
-GO:EXT#:breeding
+GO_EXT:breeding
 
-GO:EXT#:breeding
-GO:EXT#:breeding
+GO_EXT:breeding
+GO_EXT:breeding
 GO:0007067
 GO:0007126|GO:0051321
 
@@ -1844,14 +1844,14 @@ GO:0008219|GO:0016265
 
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0007067
 GO:0051179
 
 GO:0006928|GO:0048870
 GO:0051301
 GO:0008219|GO:0016265
-GO:PATO:EXT#:physiological:process:or:quality
+GO_PATO_EXT:physiological_process_or_quality
 
 
 GO:0007369
@@ -1861,7 +1861,7 @@ GO:0008283
 
 GO:0007067
 GO:0006915|GO:0097194
-GO:0001906|GO:0008219|GO:0019835|GO:0070265|GO:PATO:EXT#:necrosis
+GO:0001906|GO:0008219|GO:0019835|GO:0070265|GO_PATO_EXT:necrosis
 
 GO:0009058
 GO:0007369
@@ -1871,38 +1871,38 @@ GO:0051179
 
 
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 
 GO:0030261
 GO:0030261
 GO:0007067
 
-CHEBI:GO:EXT#:biological:process:or:quality:or:role|GO:0008150
+CHEBI_GO_EXT:biological_process_or_quality_or_role|GO:0008150
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
-CHEBI:GO:EXT#:biological:process:or:quality:or:role|GO:0008150
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO:0007610|GO_PATO_EXT:biological_behavior
+CHEBI_GO_EXT:biological_process_or_quality_or_role|GO:0008150
+CHEBI_GO_EXT:biological_process_or_quality_or_role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0051179
 
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-
-
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:EXT#:breeding
-GO:PATO:EXT#:physiological:process:or:quality
-GO:PATO:EXT#:physiological:process:or:quality
+
+
+GO_EXT:breeding
+GO_PATO_EXT:physiological_process_or_quality
+GO_PATO_EXT:physiological_process_or_quality
 
 
 
@@ -1914,62 +1914,62 @@ GO:0040007
 GO:0009790|GO:0032502
 
 
-GO:0010467|GO:0010468|GO:0065007|GO:EXT#:gene:expresser|GO:EXT#:regulator
+GO:0010467|GO:0010468|GO:0065007|GO_EXT:gene_expresser|GO_EXT:regulator
 
 
 
 
-GO:EXT#:fatality:or:lethality
-
-
-
-
-
-GO:0010467|GO:EXT#:gene:expresser
-GO:0065007|GO:EXT#:regulator
-GO:0010467|GO:EXT#:gene:expresser
-GO:0065007|GO:EXT#:regulator
+GO_EXT:fatality_or_lethality
 
 
 
 
 
+GO:0010467|GO_EXT:gene_expresser
+GO:0065007|GO_EXT:regulator
+GO:0010467|GO_EXT:gene_expresser
+GO:0065007|GO_EXT:regulator
 
-GO:EXT#:responder
+
+
+
+
+
+GO_EXT:responder
 GO:0051179
 
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 
 
 
-GO:EXT#:macromolecule:denaturation
+GO_EXT:macromolecule_denaturation
 GO:0051179
 GO:0006412
 
 
 
-GO:0006351|GO:EXT#:transcription
-GO:EXT#:responder
-GO:EXT#:transfectant:or:tranformant
+GO:0006351|GO_EXT:transcription
+GO_EXT:responder
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-
-
-GO:EXT#:responder
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 
 
-GO:EXT#:breeding
+GO_EXT:responder
+
+
+GO_EXT:breeding
 
 
 
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 
 
 
@@ -1984,19 +1984,19 @@ GO:0007631
 
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 GO:0040007
 GO:0032502|GO:0048468
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
 
-GO:EXT#:negative:regulation|GO:EXT#:negative:regulator
+GO_EXT:negative_regulation|GO_EXT:negative_regulator
 GO:0040007
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 GO:0003094
 GO:0007596|GO:0050817
 
@@ -2006,46 +2006,46 @@ GO:0007596|GO:0050817
 
 
 
-GO:EXT#:responder
+GO_EXT:responder
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:responder
-
-
+GO_EXT:responder
 
 
 
 
-GO:0065007|GO:EXT#:regulator
-GO:EXT#:fatality:or:lethality
+
+
+GO:0065007|GO_EXT:regulator
+GO_EXT:fatality_or_lethality
 
 
 
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 
-GO:EXT#:regulator
-GO:0007610|GO:PATO:EXT#:biological:behavior
-
-
-
-
-GO:0007610|GO:PATO:EXT#:biological:behavior
-GO:0007610|GO:PATO:EXT#:biological:behavior
-
-GO:0010467|GO:EXT#:gene:expresser
-GO:0007610|GO:PATO:EXT#:biological:behavior
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO_EXT:regulator
+GO:0007610|GO_PATO_EXT:biological_behavior
 
 
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
-GO:EXT#:regulator
+GO:0007610|GO_PATO_EXT:biological_behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
+
+GO:0010467|GO_EXT:gene_expresser
+GO:0007610|GO_PATO_EXT:biological_behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
+
+
+
+GO:0007610|GO_PATO_EXT:biological_behavior
+
+GO:0007610|GO_PATO_EXT:biological_behavior
+GO_EXT:regulator
 
 
 
@@ -2054,32 +2054,32 @@ GO:EXT#:regulator
 
 
 GO:0060004|GO:0060013
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 GO:0060004|GO:0060013
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 
 
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
-GO:0007610|GO:PATO:EXT#:biological:behavior
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 GO:0040011
-GO:0007610|GO:PATO:EXT#:biological:behavior
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 
 GO:0060004|GO:0060013
 
@@ -2096,9 +2096,9 @@ GO:0000747|GO:0007618|GO:0009291|GO:1990277
 
 
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
 
 
@@ -2106,20 +2106,20 @@ CHEBI:GO:EXT#:biological:process:or:quality:or:role
 GO:0045292
 
 GO:0045292
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0045292
-GO:SO:EXT#:frameshift:entity:or:process
+GO_SO_EXT:frameshift_entity_or_process
 GO:0045292
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:0010467|GO:EXT#:gene:expresser
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO:0010467|GO_EXT:gene_expresser
 
 
 
 
-GO:0010467|GO:EXT#:gene:expresser
-GO:0007610|GO:PATO:EXT#:biological:behavior
-GO:0007610|GO:PATO:EXT#:biological:behavior
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0010467|GO_EXT:gene_expresser
+GO:0007610|GO_PATO_EXT:biological_behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 
 GO:0051179
 
@@ -2127,19 +2127,19 @@ GO:0051179
 
 
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 GO:0045292
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 
@@ -2151,25 +2151,25 @@ GO:0060004|GO:0060013
 GO:0060004|GO:0060013
 
 GO:0060004|GO:0060013
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 
 
 
 
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 GO:0001764
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 
 
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 GO:0022008
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
@@ -2185,7 +2185,7 @@ GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 GO:0001764
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
@@ -2193,29 +2193,29 @@ GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 
 GO:0050890
 
-GO:0010467|GO:EXT#:gene:expresser
-GO:0006351|GO:EXT#:transcription
+GO:0010467|GO_EXT:gene_expresser
+GO:0006351|GO_EXT:transcription
 
 
 
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
+GO:0006351|GO_EXT:transcription
 
 
 GO:0007399|GO:0007417|GO:0032502|GO:0048731
 GO:0007417|GO:0032502
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0022008
 GO:0022008
 GO:0007049
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0032502
 
 
@@ -2227,7 +2227,7 @@ GO:0032502
 
 GO:0001764
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0009888
 
 
@@ -2243,16 +2243,16 @@ GO:0008219|GO:0016265
 GO:0009888
 
 GO:0022008
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0022008
 GO:0022008
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
@@ -2260,28 +2260,28 @@ GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 
 GO:0007049
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:0010467|GO:EXT#:gene:expresser
-
-
-
-
-
+GO:0010467|GO_EXT:gene_expresser
 
 
 
 
 
-GO:0006351|GO:EXT#:transcription
 
-GO:0006351|GO:EXT#:transcription
+
+
+
+
+GO:0006351|GO_EXT:transcription
+
+GO:0006351|GO_EXT:transcription
 
 
 
@@ -2305,7 +2305,7 @@ GO:0051179
 
 
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 
 
@@ -2318,7 +2318,7 @@ GO:0006351|GO:EXT#:transcription
 
 
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 
 
 
@@ -2329,7 +2329,7 @@ GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regula
 
 
 
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
 
 
@@ -2343,23 +2343,23 @@ GO:0048665
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0065007|GO:EXT#:regulator
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0065007|GO_EXT:regulator
 
 
 
 
-GO:0032502|GO:0048666|GO:EXT#:neuron:development:or:generation
+GO:0032502|GO:0048666|GO_EXT:neuron_development_or_generation
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-
-
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 
 
 
 
 
-GO:EXT#:fatality:or:lethality
+
+
+GO_EXT:fatality_or_lethality
 
 GO:0048665
 
@@ -2373,23 +2373,12 @@ GO:0048665
 
 
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 
 
-GO:0006351|GO:EXT#:transcription
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-
-
-
-
-
-
-
-
-
-
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0006351|GO_EXT:transcription
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
@@ -2400,33 +2389,7 @@ GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 
 
 
-
-
-
-GO:0007610|GO:PATO:EXT#:biological:behavior
-GO:0006351|GO:EXT#:transcription
-
-
-
-
-
-
-GO:0006351|GO:EXT#:transcription
-
-
-
-
-
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-
-
-
-
-
-
-
-
-GO:0032502|GO:0048666|GO:EXT#:neuron:development:or:generation
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
@@ -2440,13 +2403,50 @@ GO:0032502|GO:0048666|GO:EXT#:neuron:development:or:generation
 
 
 
-GO:0006351|GO:EXT#:transcription
+GO:0007610|GO_PATO_EXT:biological_behavior
+GO:0006351|GO_EXT:transcription
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 
 
-GO:0030154|GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+
+
+GO:0006351|GO_EXT:transcription
+
+
+
+
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+
+
+
+
+
+
+
+
+GO:0032502|GO:0048666|GO_EXT:neuron_development_or_generation
+
+
+
+
+
+
+
+
+
+
+
+
+
+GO:0006351|GO_EXT:transcription
+
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+
+
+GO:0030154|GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
@@ -2468,7 +2468,7 @@ GO:0051179
 
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 
 GO:0032502
@@ -2481,9 +2481,9 @@ GO:0032502
 
 
 GO:0022008
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
@@ -2494,7 +2494,7 @@ GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 
 
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 
 
 
@@ -2510,7 +2510,7 @@ GO:0048699
 
 
 
-GO:0032502|GO:0048666|GO:EXT#:neuron:development:or:generation
+GO:0032502|GO:0048666|GO_EXT:neuron_development_or_generation
 
 
 
@@ -2522,17 +2522,17 @@ GO:0032502
 GO:0001764
 
 
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 GO:0001764
 GO:0032502
 GO:0032502
 
 GO:0032502
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0032502
 GO:0032502
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0032502
 GO:0032502
 
@@ -2541,75 +2541,75 @@ GO:0032502
 
 GO:0032502
 GO:0032502
-GO:EXT#:macromolecule:denaturation
-
-GO:0032502
+GO_EXT:macromolecule_denaturation
 
 GO:0032502
 
 GO:0032502
+
+GO:0032502
 GO:0032502
 GO:0032502
 
 GO:0032502
 GO:0032502
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:EXT#:breeding
+GO_EXT:breeding
 GO:0032502
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 GO:0032502
-GO:EXT#:regulator
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
-GO:PATO:EXT#:inflammatory:process:or:quality
+GO_EXT:regulator
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
+GO_PATO_EXT:inflammatory_process_or_quality
 
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 
-GO:0001906|GO:0008219|GO:0019835|GO:0070265|GO:PATO:EXT#:necrosis
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
-GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0001906|GO:0008219|GO:0019835|GO:0070265|GO_PATO_EXT:necrosis
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
+GO_PATO_EXT:inflammatory_process_or_quality
 GO:0040007
 
 GO:0006810
 GO:0006810
 GO:0030168
-GO:PATO:EXT#:inflammatory:process:or:quality
+GO_PATO_EXT:inflammatory_process_or_quality
 
 GO:0006810
 GO:0006810
 GO:0032502
-GO:0065007|GO:EXT#:regulator
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
 GO:0032502
 
-GO:PATO:EXT#:inflammatory:process:or:quality
-GO:0065007|GO:EXT#:regulator
+GO_PATO_EXT:inflammatory_process_or_quality
+GO:0065007|GO_EXT:regulator
 
 GO:0023052
-GO:PATO:EXT#:inflammatory:process:or:quality
+GO_PATO_EXT:inflammatory_process_or_quality
 
 
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 
 
 
 
 GO:0006955
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 
-GO:PATO:EXT#:inflammatory:process:or:quality
-GO:EXT#:regulator
+GO_PATO_EXT:inflammatory_process_or_quality
+GO_EXT:regulator
 
 GO:0040007
 GO:0007165|GO:0023052
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 GO:0006935|GO:0048246
 GO:0007349|GO:0023052
 GO:0006955
@@ -2618,22 +2618,22 @@ GO:0032502
 
 GO:0032502
 GO:0023052
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0023052
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0032502
 GO:0023052
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0032502
-GO:0006351|GO:EXT#:transcription
-GO:0010467|GO:EXT#:gene:expresser
+GO:0006351|GO_EXT:transcription
+GO:0010467|GO_EXT:gene_expresser
 
 GO:0023052
-GO:EXT#:regulator
+GO_EXT:regulator
 GO:0032502
 GO:0045087
 GO:0023052
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 GO:0032502
 
@@ -2658,9 +2658,9 @@ GO:0008152|GO:0016071
 
 
 GO:0016246
-GO:EXT#:fatality:or:lethality
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
+GO_EXT:fatality_or_lethality
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
 
 
 
@@ -2668,29 +2668,29 @@ GO:0065007|GO:EXT#:regulator
 
 
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0051179
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0051179
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0019835
-GO:EXT#:macromolecule:denaturation
+GO_EXT:macromolecule_denaturation
 
-GO:0007568|GO:PATO:EXT#:aging:or:agedness
+GO:0007568|GO_PATO_EXT:aging_or_agedness
 
 GO:0008152
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0006412
 
 
 GO:0045292
 
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 
 
@@ -2701,7 +2701,7 @@ GO:EXT#:transfectant:or:tranformant
 GO:0008152|GO:0016071
 GO:0051179
 GO:0051179
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 GO:0051179
 GO:0051179
@@ -2712,7 +2712,7 @@ GO:0051179
 
 GO:0051179
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0051179
 GO:0051179
 GO:0051179
@@ -2750,11 +2750,11 @@ GO:0045292
 GO:0051168
 GO:0051168
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 
 GO:0008152|GO:0016071
@@ -2765,7 +2765,7 @@ GO:0051168
 GO:0008152
 
 
-GO:0006412|GO:0043687|GO:SO:EXT#:post:translational:modification:entity:or:process
+GO:0006412|GO:0043687|GO_SO_EXT:post_translational_modification_entity_or_process
 
 
 
@@ -2778,7 +2778,7 @@ GO:0045292
 
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 
 
@@ -2791,7 +2791,7 @@ GO:0051168
 
 GO:0051179
 GO:0051168
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0051179
 
 GO:0051179
@@ -2805,91 +2805,91 @@ GO:0051168
 GO:0008152|GO:0016071
 GO:0051168
 
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 GO:0006412|GO:0006413
 GO:0006412|GO:0006415
 GO:0051179
 GO:0051179
 GO:0006810|GO:0051169
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:0007568|GO:PATO:EXT#:aging:or:agedness
+GO:0007568|GO_PATO_EXT:aging_or_agedness
 GO:0051179
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0051179
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0051179
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 
 
 GO:0008152
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0007605
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
-GO:0032502|GO:EXT#:detection:or:sensing:of:stimulus
+GO:0032502|GO_EXT:detection_or_sensing_of_stimulus
 GO:0023052
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0046331
 
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:0030154|GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_EXT:detection_or_sensing_of_stimulus
+GO:0030154|GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0023052
-GO:0032502|GO:EXT#:detection:or:sensing:of:stimulus
-GO:0032502|GO:EXT#:detection:or:sensing:of:stimulus
-GO:0032502|GO:EXT#:detection:or:sensing:of:stimulus
+GO:0032502|GO_EXT:detection_or_sensing_of_stimulus
+GO:0032502|GO_EXT:detection_or_sensing_of_stimulus
+GO:0032502|GO_EXT:detection_or_sensing_of_stimulus
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 GO:0007049
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 
 
 GO:0023052
 GO:0007605
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0007605
 GO:0031099
 GO:0007605
 GO:0007165|GO:0007219|GO:0023052
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0031099
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0007605
 GO:0031099
 GO:0007605
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0007423|GO:0032502|GO:EXT#:detection:or:sensing:of:stimulus
-GO:0007423|GO:0032502|GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0007423|GO:0032502|GO_EXT:detection_or_sensing_of_stimulus
+GO:0007423|GO:0032502|GO_EXT:detection_or_sensing_of_stimulus
 GO:0046331
 GO:0023052
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0046331
 GO:0023052
 GO:0023052
@@ -2899,38 +2899,38 @@ GO:0046331
 GO:0023052
 GO:0046331
 
-GO:0006351|GO:EXT#:transcription
-GO:0030154|GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0006351|GO:EXT#:transcription
-GO:0009058|GO:0048645|GO:EXT#:detection:or:sensing:of:stimulus
-GO:0009058|GO:0048645|GO:EXT#:detection:or:sensing:of:stimulus
-GO:0009058|GO:0048645|GO:EXT#:detection:or:sensing:of:stimulus
+GO:0006351|GO_EXT:transcription
+GO:0030154|GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0006351|GO_EXT:transcription
+GO:0009058|GO:0048645|GO_EXT:detection_or_sensing_of_stimulus
+GO:0009058|GO:0048645|GO_EXT:detection_or_sensing_of_stimulus
+GO:0009058|GO:0048645|GO_EXT:detection_or_sensing_of_stimulus
 GO:0009058
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:0009058|GO:0048645|GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO:0009058|GO:0048645|GO_EXT:detection_or_sensing_of_stimulus
 
 GO:0023052
-GO:0009058|GO:0048645|GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:fatality:or:lethality
+GO:0009058|GO:0048645|GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:fatality_or_lethality
 
-GO:0009058|GO:EXT#:detection:or:sensing:of:stimulus
+GO:0009058|GO_EXT:detection_or_sensing_of_stimulus
 GO:0009058
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:EXT#:detection:or:sensing:of:stimulus
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0023052
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
 
 
 
 
-GO:PATO:EXT#:necrosis:or:necrotic:quality
+GO_PATO_EXT:necrosis_or_necrotic_quality
 
 
 
-GO:EXT#:fatality:or:lethality
-GO:PATO:EXT#:necrosis:or:necrotic:quality
+GO_EXT:fatality_or_lethality
+GO_PATO_EXT:necrosis_or_necrotic_quality
 
 
 
@@ -2947,58 +2947,58 @@ GO:0032502|GO:0043583|GO:0048839
 
 
 
-GO:0009058|GO:EXT#:detection:or:sensing:of:stimulus
+GO:0009058|GO_EXT:detection_or_sensing_of_stimulus
 GO:0032502|GO:0060872
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0007049
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 GO:0009058
 
 
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_EXT:detection_or_sensing_of_stimulus
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
 
 
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0009058|GO:0060876
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0030154|GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0030154|GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
 GO:0009058
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 GO:0009058
-GO:0030154|GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0030154|GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0030154|GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0030154|GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0009058
-GO:0030154|GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0030154|GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0009058
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0032502|GO:EXT#:detection:or:sensing:of:stimulus
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0032502|GO_EXT:detection_or_sensing_of_stimulus
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0007049
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0007049
 
 GO:0007049
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 
 
@@ -3007,172 +3007,172 @@ GO:0006351|GO:EXT#:transcription
 
 
 
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_EXT:detection_or_sensing_of_stimulus
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-
-
-
-GO:EXT#:detection:or:sensing:of:stimulus
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 
 
-GO:EXT#:detection:or:sensing:of:stimulus
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO_EXT:detection_or_sensing_of_stimulus
 
-GO:0009058|GO:EXT#:detection:or:sensing:of:stimulus
+
+GO_EXT:detection_or_sensing_of_stimulus
+
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+
+GO:0009058|GO_EXT:detection_or_sensing_of_stimulus
 GO:0007049
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 GO:0051179
 
 
 
 
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
 
 
 
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-
-
-
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_EXT:detection_or_sensing_of_stimulus
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
-GO:0009058|GO:EXT#:detection:or:sensing:of:stimulus
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+
+
+GO:0009058|GO_EXT:detection_or_sensing_of_stimulus
 
 
 GO:0023052
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:EXT#:detection:or:sensing:of:stimulus
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0007049
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0009058
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_EXT:detection_or_sensing_of_stimulus
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0009058
-GO:0030154|GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:EXT#:detection:or:sensing:of:stimulus
+GO:0030154|GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_EXT:detection_or_sensing_of_stimulus
 
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0007049
 GO:0060026
 GO:0040007
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 
 GO:0051301
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0023052
 GO:0023052|GO:0040007
-GO:0006351|GO:EXT#:transcription
-GO:EXT#:detection:or:sensing:of:stimulus
+GO:0006351|GO_EXT:transcription
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0032502|GO:0043583
 GO:0023052
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0023052
 GO:0023052
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0023052
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0023052
 GO:0023052
 GO:0023052
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:EXT#:cell:proliferation:or:proliferativity
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_EXT:cell_proliferation_or_proliferativity
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0023052
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
 GO:0007165|GO:0016055|GO:0023052
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0023052
 
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0023052
 GO:0023052
 GO:0023052
-GO:0009058|GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
+GO:0009058|GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0023052
-GO:0032502|GO:EXT#:detection:or:sensing:of:stimulus
+GO:0032502|GO_EXT:detection_or_sensing_of_stimulus
 
 GO:0007165|GO:0023052
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:0009058|GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:0009058|GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO:0009058|GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO:0009058|GO_EXT:detection_or_sensing_of_stimulus
 
 
 GO:0007049
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
 GO:0009058
 GO:0060232
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0060384|GO:UBERON:EXT#:innervation:entity:or:process
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0060384|GO_UBERON_EXT:innervation_entity_or_process
 GO:0009058
 GO:0023052
 
 
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:0009058|GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO:0009058|GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0009058|GO:0060876
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 GO:0009058
-GO:0009058|GO:EXT#:detection:or:sensing:of:stimulus
+GO:0009058|GO_EXT:detection_or_sensing_of_stimulus
 GO:0009058
 GO:0009058
 GO:0032502
-GO:0009058|GO:EXT#:detection:or:sensing:of:stimulus
-GO:0009058|GO:EXT#:detection:or:sensing:of:stimulus
+GO:0009058|GO_EXT:detection_or_sensing_of_stimulus
+GO:0009058|GO_EXT:detection_or_sensing_of_stimulus
 GO:0060026
 GO:0060026
 GO:0060026
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0023052
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0023052
 
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0031099
 GO:0007605
 
@@ -3183,13 +3183,13 @@ GO:0000747|GO:0007618|GO:0009291|GO:1990277
 
 
 
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
 GO:0040007
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0045292
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0045292
 GO:0045292
 
@@ -3202,33 +3202,33 @@ GO:0000372|GO:0000373|GO:0000374|GO:0000394|GO:0000398|GO:0045292
 
 GO:0045292
 
-GO:0065007|GO:EXT#:regulator
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
-GO:0006351|GO:EXT#:transcription
+GO:0065007|GO_EXT:regulator
+CHEBI_GO_EXT:biological_process_or_quality_or_role
+GO:0006351|GO_EXT:transcription
 GO:0040007
 GO:0006915|GO:0097194
 GO:0007283
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0040007
 
 GO:0042592
 
 
 
-GO:0001171|GO:0006351|GO:EXT#:transcription
+GO:0001171|GO:0006351|GO_EXT:transcription
 
 
 
-GO:0006351|GO:EXT#:transcription|GO:SO:EXT#:transcriptional:stop:entity:or:process
+GO:0006351|GO_EXT:transcription|GO_SO_EXT:transcriptional_stop_entity_or_process
 
 
 
 GO:0007631
 GO:0007631
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 
 
 GO:0040007
@@ -3237,9 +3237,9 @@ GO:0040007
 
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0045292
 GO:0006412
 
@@ -3263,7 +3263,7 @@ GO:0045292
 
 
 
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
 GO:0040007
 
@@ -3273,21 +3273,21 @@ GO:0040007
 GO:0040007
 
 GO:0040007
-GO:PATO:EXT#:cell:proliferation:or:proliferativity
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO_PATO_EXT:cell_proliferation_or_proliferativity
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 GO:0051179
 
 
 GO:0045292
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0045292
 GO:0045292
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 
 
 GO:0040007
-GO:PATO:EXT#:inflammatory:process:or:quality
+GO_PATO_EXT:inflammatory_process_or_quality
 
 
 GO:0007281|GO:0032502|GO:0048468
@@ -3304,7 +3304,7 @@ GO:0006412
 
 
 GO:0006412
-GO:SO:EXT#:frameshift:entity:or:process
+GO_SO_EXT:frameshift_entity_or_process
 
 GO:0006412
 
@@ -3312,19 +3312,19 @@ GO:0006412
 
 
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 
 GO:0045292
-GO:SO:EXT#:frameshift:entity:or:process
+GO_SO_EXT:frameshift_entity_or_process
 GO:0040007
 GO:0040007
 GO:0016265
 
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0032502
 GO:0048513
 GO:0007369
@@ -3334,41 +3334,41 @@ GO:0007369
 
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0009790|GO:0032502
-GO:PATO:EXT#:physiological:process:or:quality
+GO_PATO_EXT:physiological_process_or_quality
 
 GO:0032502
 GO:0032502
 GO:0007369
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0009790|GO:0009792|GO:0009793
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 
 
-GO:EXT#:breeding
+GO_EXT:breeding
 
 
 
 
 
 GO:0032502|GO:0048565
-GO:PATO:EXT#:physiological:process:or:quality
+GO_PATO_EXT:physiological_process_or_quality
 
 
 
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 
 
 
@@ -3380,38 +3380,38 @@ GO:0000747|GO:0007618|GO:0009291|GO:1990277
 
 
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 
 
 
-GO:EXT#:fatality:or:lethality
-GO:0006351|GO:EXT#:transcription
+GO_EXT:fatality_or_lethality
+GO:0006351|GO_EXT:transcription
 
 GO:0048513
-GO:PATO:EXT#:physiological:process:or:quality
+GO_PATO_EXT:physiological_process_or_quality
 
 
 
 
 
-GO:EXT#:breeding
-GO:EXT#:breeding
+GO_EXT:breeding
+GO_EXT:breeding
 
-GO:EXT#:breeding
+GO_EXT:breeding
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 
-GO:EXT#:breeding
+GO_EXT:breeding
 
 
 
 GO:0030728
-GO:0009058|GO:EXT#:somite:development:or:somitogenesis
+GO:0009058|GO_EXT:somite_development_or_somitogenesis
 GO:0006897
 GO:0009790|GO:0032502
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0016265
 
-GO:0009058|GO:EXT#:somite:development:or:somitogenesis
+GO:0009058|GO_EXT:somite_development_or_somitogenesis
 GO:0009790|GO:0032502
 GO:0009058
 GO:0009058
@@ -3435,15 +3435,15 @@ GO:0009790|GO:0032502
 
 
 GO:0006412
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
-GO:EXT#:fatality:or:lethality
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
+GO_EXT:fatality_or_lethality
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 
@@ -3459,13 +3459,13 @@ GO:0000747|GO:0007618|GO:0009291|GO:1990277
 GO:0007369
 
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0009058
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 GO:0009058
 GO:0009653
 GO:0009058
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
@@ -3478,9 +3478,9 @@ GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 
 
 GO:0001707|GO:0009058
-GO:0001756|GO:EXT#:somite:development:or:somitogenesis
+GO:0001756|GO_EXT:somite_development_or_somitogenesis
 GO:0009058
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0007369
 
 GO:0040007
@@ -3491,8 +3491,8 @@ GO:0009058
 GO:0006810
 GO:0006810
 
-GO:EXT#:fatality:or:lethality
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
+GO_EXT:fatality_or_lethality
 
 
 GO:0009653
@@ -3501,17 +3501,17 @@ GO:0009653
 
 GO:0007369
 GO:0006897
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 
 
 
 
 GO:0051179
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 
 GO:0009790|GO:0032502
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0006412|GO:0006413
 GO:0006412
 
@@ -3538,8 +3538,8 @@ GO:0000747|GO:0007618|GO:0009291|GO:1990277
 GO:0006810
 
 GO:0007566
-GO:0006351|GO:EXT#:transcription
-GO:0010467|GO:EXT#:gene:expresser
+GO:0006351|GO_EXT:transcription
+GO:0010467|GO_EXT:gene_expresser
 GO:0030431
 
 GO:0030431
@@ -3553,44 +3553,44 @@ GO:0032196
 
 
 
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 GO:0008218
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:0065007|GO:EXT#:regulator
-GO:0006351|GO:EXT#:transcription
-GO:0010467|GO:EXT#:gene:expresser
+GO:0065007|GO_EXT:regulator
+GO:0006351|GO_EXT:transcription
+GO:0010467|GO_EXT:gene_expresser
 GO:0030431
 
-GO:EXT#:transfectant:or:tranformant
-GO:0065007|GO:EXT#:regulator
+GO_EXT:transfectant_or_tranformant
+GO:0065007|GO_EXT:regulator
 
 
-GO:EXT#:fatality:or:lethality
-GO:0010467|GO:EXT#:gene:expresser
+GO_EXT:fatality_or_lethality
+GO:0010467|GO_EXT:gene_expresser
 
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 
 
 
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0030431
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0045292
 
 GO:0032196
 GO:0045292
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 GO:0045292
 GO:0045292
 GO:0006412
@@ -3598,9 +3598,9 @@ GO:0006412|GO:0006413
 GO:0045292
 GO:0045292
 
-GO:0010467|GO:EXT#:gene:expresser
-GO:0065007|GO:EXT#:regulator
-GO:EXT#:transfectant:or:tranformant
+GO:0010467|GO_EXT:gene_expresser
+GO:0065007|GO_EXT:regulator
+GO_EXT:transfectant_or_tranformant
 
 
 GO:0045292
@@ -3608,13 +3608,13 @@ GO:0045292
 
 GO:0045292
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0045292
 
 GO:0045292
 
-GO:0065007|GO:EXT#:regulator
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
+GO:0065007|GO_EXT:regulator
 
 
 
@@ -3632,8 +3632,8 @@ GO:0006281
 
 GO:0032196
 
-GO:EXT#:fatality:or:lethality
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
+GO_EXT:fatality_or_lethality
 
 
 
@@ -3660,10 +3660,10 @@ GO:0045292
 GO:0045292
 
 
-GO:0065007|GO:EXT#:regulator
-GO:0065007|GO:EXT#:regulator
-GO:0065007|GO:EXT#:regulator
-GO:EXT#:responder
+GO:0065007|GO_EXT:regulator
+GO:0065007|GO_EXT:regulator
+GO:0065007|GO_EXT:regulator
+GO_EXT:responder
 
 
 
@@ -3695,30 +3695,30 @@ GO:0045292
 
 
 GO:0006412
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 
 GO:0007631
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0045292
 
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 
 
 
 GO:0032196
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0032196
 
 
 
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 GO:0045292
 
 
@@ -3744,32 +3744,32 @@ GO:0006412
 
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 
 
 
 
-GO:0010467|GO:EXT#:gene:expresser
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
-GO:EXT#:fatality:or:lethality
+GO:0010467|GO_EXT:gene_expresser
+CHEBI_GO_EXT:biological_process_or_quality_or_role
+GO_EXT:fatality_or_lethality
 
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
 
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 
 GO:0045292
-GO:0006351|GO:EXT#:transcription
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
+GO:0006351|GO_EXT:transcription
 
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 
 GO:0019835
 GO:0019835
@@ -3785,7 +3785,7 @@ GO:0006412
 
 GO:0019835
 GO:0007631
-GO:EXT#:breeding
+GO_EXT:breeding
 
 
 
@@ -3794,56 +3794,56 @@ GO:0045292
 GO:0045292
 GO:0045292
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0045292
 
 GO:0006412
-GO:0065007|GO:EXT#:regulator
-GO:EXT#:transfectant:or:tranformant
+GO:0065007|GO_EXT:regulator
+GO_EXT:transfectant_or_tranformant
 
 
 
-GO:EXT#:breeding
+GO_EXT:breeding
 
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
-GO:0006351|GO:EXT#:transcription
-
-
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 
-
-
+GO:0006351|GO_EXT:transcription
 
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 
 
-GO:0065007|GO:EXT#:regulator
-GO:0065007|GO:EXT#:regulator
-GO:0065007|GO:EXT#:regulator
-GO:0065007|GO:EXT#:regulator
+
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+
+
+GO:0065007|GO_EXT:regulator
+GO:0065007|GO_EXT:regulator
+GO:0065007|GO_EXT:regulator
+GO:0065007|GO_EXT:regulator
 
 
 
 GO:0032502
 GO:0007165|GO:0023052
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 
 
 GO:0001501|GO:0032502
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0032502
 GO:0032502
 GO:0023052
@@ -3851,7 +3851,7 @@ GO:0023052
 
 
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
-GO:0001503|GO:0009058|GO:EXT#:bone:development:or:ossification
+GO:0001503|GO:0009058|GO_EXT:bone_development_or_ossification
 GO:0032502
 
 GO:0009058
@@ -3859,7 +3859,7 @@ GO:0009058
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
@@ -3870,50 +3870,50 @@ GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0032502
 
 
 
 
 
-GO:0032502|GO:0060348|GO:EXT#:bone:development:or:ossification
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0032502|GO:0060348|GO_EXT:bone_development_or_ossification
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0040007
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-
-
-GO:0065007|GO:EXT#:regulator
-
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0065007|GO:EXT#:regulator
-
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0065007|GO_EXT:regulator
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0065007|GO_EXT:regulator
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+
+
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0051179
 
-GO:0065007|GO:EXT#:regulator
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 GO:0023052
 GO:0023052
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 
 
@@ -3927,137 +3927,137 @@ GO:0065007|GO:EXT#:regulator
 
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0051179
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 
 GO:0051179
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0065007|GO:EXT#:regulator
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0065007|GO_EXT:regulator
 
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 GO:0051179
 GO:0051179
 GO:0051179
 
 GO:0023052
-GO:0032502|GO:0060348|GO:EXT#:bone:development:or:ossification
+GO:0032502|GO:0060348|GO_EXT:bone_development_or_ossification
 GO:0051179
-GO:0065007|GO:EXT#:regulator
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:trypsinization
-GO:EXT#:transfectant:or:tranformant
+GO:0065007|GO_EXT:regulator
+GO_EXT:transfectant_or_tranformant
+GO_EXT:trypsinization
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 
 
 
 GO:0032502
-GO:0032502|GO:0060348|GO:EXT#:bone:development:or:ossification
+GO:0032502|GO:0060348|GO_EXT:bone_development_or_ossification
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 GO:0001503
-GO:EXT#:fatality:or:lethality
-GO:0006351|GO:EXT#:transcription
-GO:0006351|GO:EXT#:transcription
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_EXT:fatality_or_lethality
+GO:0006351|GO_EXT:transcription
+GO:0006351|GO_EXT:transcription
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0040007
 
 
 
 
 
-GO:0032502|GO:0060348|GO:EXT#:bone:development:or:ossification
+GO:0032502|GO:0060348|GO_EXT:bone_development_or_ossification
 
-GO:0001503|GO:0009058|GO:EXT#:bone:development:or:ossification
+GO:0001503|GO:0009058|GO_EXT:bone_development_or_ossification
 GO:0023052
 GO:0051179
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0032502
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0065007|GO:EXT#:regulator
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0065007|GO_EXT:regulator
 GO:0001503
 GO:0016264
 GO:0023052
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0007165|GO:0009293|GO:0023052
 GO:0023052
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0000187
 GO:0051179
 GO:0006897
 GO:0006897
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0006897
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0007165|GO:0009293|GO:0023052
 GO:0023052
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0006897|GO:0072583
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0065007|GO:EXT#:regulator
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0065007|GO:EXT#:regulator
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0065007|GO_EXT:regulator
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0065007|GO_EXT:regulator
 
-GO:0065007|GO:EXT#:regulator
-GO:0065007|GO:EXT#:regulator
-
-
+GO:0065007|GO_EXT:regulator
+GO:0065007|GO_EXT:regulator
 
 
-GO:0065007|GO:EXT#:regulator
-GO:0065007|GO:EXT#:regulator
+
+
+GO:0065007|GO_EXT:regulator
+GO:0065007|GO_EXT:regulator
 
 
 
 GO:0006897
 
-GO:0065007|GO:EXT#:regulator
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:0065007|GO:EXT#:regulator
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
+GO:0065007|GO_EXT:regulator
 
 GO:0009790|GO:0032502
 
 
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 
-GO:EXT#:trypsinization
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:trypsinization
+GO_EXT:transfectant_or_tranformant
 
 
 
@@ -4065,23 +4065,21 @@ GO:EXT#:transfectant:or:tranformant
 
 GO:0019835
 GO:0019835
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:trypsinization
-GO:EXT#:transfectant:or:tranformant
-
-
+GO_EXT:transfectant_or_tranformant
+GO_EXT:trypsinization
+GO_EXT:transfectant_or_tranformant
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 
 
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
@@ -4090,20 +4088,14 @@ GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-
-
-
-
-GO:EXT#:transfectant:or:tranformant
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
@@ -4111,60 +4103,68 @@ GO:EXT#:transfectant:or:tranformant
 
 
 
-GO:0051179
-GO:EXT#:transfectant:or:tranformant
-
-GO:0051179
-GO:0051179
+GO_EXT:transfectant_or_tranformant
 
 
-GO:0065007|GO:EXT#:regulator
-GO:EXT#:transfectant:or:tranformant
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
-GO:EXT#:transfectant:or:tranformant
-GO:0051179
-GO:0051179
 
 
 
 
 
 GO:0051179
-GO:0065007|GO:EXT#:regulator
+GO_EXT:transfectant_or_tranformant
+
+GO:0051179
+GO:0051179
+
+
+GO:0065007|GO_EXT:regulator
+GO_EXT:transfectant_or_tranformant
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
+GO_EXT:transfectant_or_tranformant
+GO:0051179
+GO:0051179
+
+
+
+
+
+GO:0051179
+GO:0065007|GO_EXT:regulator
 
 
 
 GO:0006897
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 GO:0007605
 GO:0007605
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 
-GO:PATO:EXT#:inflammatory:process:or:quality
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO_PATO_EXT:inflammatory_process_or_quality
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
-GO:PATO:EXT#:inflammatory:process:or:quality
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO_PATO_EXT:inflammatory_process_or_quality
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 GO:0007605
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
-GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
+GO_PATO_EXT:inflammatory_process_or_quality
 GO:0007605
 GO:0032502
 GO:0007605
 
-GO:0006351|GO:EXT#:transcription
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
+GO:0006351|GO_EXT:transcription
 GO:0007605
 GO:0007605
 
 
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0009566
 
 
@@ -4173,24 +4173,22 @@ GO:0009566
 
 GO:0001503
 
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
-GO:PATO:EXT#:inflammatory:process:or:quality
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
+GO_PATO_EXT:inflammatory_process_or_quality
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 
-GO:PATO:EXT#:inflammatory:process:or:quality
-GO:PATO:EXT#:inflammatory:process:or:quality
-GO:PATO:EXT#:inflammatory:process:or:quality
-
-
+GO_PATO_EXT:inflammatory_process_or_quality
+GO_PATO_EXT:inflammatory_process_or_quality
+GO_PATO_EXT:inflammatory_process_or_quality
 
 
-GO:PATO:EXT#:necrosis:or:necrotic:quality
-GO:PATO:EXT#:inflammatory:process:or:quality
 
 
-GO:PATO:EXT#:inflammatory:process:or:quality
+GO_PATO_EXT:necrosis_or_necrotic_quality
+GO_PATO_EXT:inflammatory_process_or_quality
 
 
+GO_PATO_EXT:inflammatory_process_or_quality
 
 
 
@@ -4200,36 +4198,38 @@ GO:PATO:EXT#:inflammatory:process:or:quality
 
 
 
-GO:PATO:EXT#:inflammatory:process:or:quality
 
-GO:PATO:EXT#:inflammatory:process:or:quality
-GO:0006351|GO:EXT#:transcription
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+
+GO_PATO_EXT:inflammatory_process_or_quality
+
+GO_PATO_EXT:inflammatory_process_or_quality
+GO:0006351|GO_EXT:transcription
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 GO:0006955
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0007165|GO:0023052
 GO:0032502|GO:0048468
 GO:0008283
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
-GO:PATO:EXT#:cell:proliferation:or:proliferativity
+GO_PATO_EXT:cell_proliferation_or_proliferativity
 
 GO:0023052
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0065007|GO:EXT#:regulator
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0065007|GO_EXT:regulator
 
 GO:0023052
 
 GO:0051179
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 
 
 
@@ -4239,23 +4239,23 @@ GO:0007165|GO:0023052
 
 GO:0023052
 
-GO:0006351|GO:EXT#:transcription
-GO:EXT#:positive:regulation|GO:EXT#:positive:regulator
-GO:EXT#:positive:regulation|GO:EXT#:positive:regulator
+GO:0006351|GO_EXT:transcription
+GO_EXT:positive_regulation|GO_EXT:positive_regulator
+GO_EXT:positive_regulation|GO_EXT:positive_regulator
 GO:0023052
 GO:0023052
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 
 GO:0007165|GO:0023052
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:0065007|GO:EXT#:regulator
-GO:0006351|GO:EXT#:transcription
-GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0065007|GO_EXT:regulator
+GO:0006351|GO_EXT:transcription
+GO_PATO_EXT:inflammatory_process_or_quality
 GO:0007165|GO:0023052
-GO:PATO:EXT#:inflammatory:process:or:quality
+GO_PATO_EXT:inflammatory_process_or_quality
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 GO:0060004
 GO:0060004
@@ -4263,24 +4263,24 @@ GO:0060004
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
-GO:0007568|GO:PATO:EXT#:aging:or:agedness
+GO:0007568|GO_PATO_EXT:aging_or_agedness
 
 
-GO:0007568|GO:PATO:EXT#:aging:or:agedness
+GO:0007568|GO_PATO_EXT:aging_or_agedness
 
 
 
-GO:EXT#:regulator
+GO_EXT:regulator
 GO:0040007
 GO:0023052
 
 GO:0032502
 GO:0040007
 GO:0030879|GO:0032502|GO:0048732
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0023052
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
 GO:0023052
 GO:0030879|GO:0032502|GO:0048732
 GO:0030879|GO:0032502|GO:0048732
@@ -4295,47 +4295,47 @@ GO:0009653
 
 GO:0009653
 GO:0007349
-GO:EXT#:regulator
+GO_EXT:regulator
 GO:0023052
-GO:0009725|GO:0040007|GO:0065007|GO:EXT#:regulator
+GO:0009725|GO:0040007|GO:0065007|GO_EXT:regulator
 GO:0030879|GO:0032502|GO:0048732
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 GO:0023052
 GO:0009653
 GO:0040007
 GO:0040007
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 
 
 GO:0000003
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0000003
 GO:0040007
 GO:0023052
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0006476
-GO:0006351|GO:EXT#:transcription
-GO:0006351|GO:EXT#:transcription
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
+GO:0006351|GO_EXT:transcription
+GO:0006351|GO_EXT:transcription
 GO:0051235
-GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO_EXT:detection_or_sensing_of_stimulus
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0023052
-GO:0009725|GO:0040007|GO:0065007|GO:EXT#:regulator
-GO:0006351|GO:EXT#:transcription
+GO:0009725|GO:0040007|GO:0065007|GO_EXT:regulator
+GO:0006351|GO_EXT:transcription
 GO:0006950|GO:0007349|GO:0033554
 GO:0007349|GO:0007584|GO:0031670
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 
 GO:0016265
 GO:0040007
@@ -4343,14 +4343,14 @@ GO:0023052
 
 GO:0000003
 GO:0009653
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 GO:0040007
 
 GO:0009653
 
 GO:0009653
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 GO:0016265
 
@@ -4358,26 +4358,26 @@ GO:0016265
 GO:0009653
 GO:0007595
 
-GO:EXT#:regulator
+GO_EXT:regulator
 GO:0023052
 GO:0030879|GO:0032502|GO:0048732
 GO:0023052
-GO:0065007|GO:EXT#:regulator
-GO:EXT#:breeding
-GO:EXT#:breeding
+GO:0065007|GO_EXT:regulator
+GO_EXT:breeding
+GO_EXT:breeding
 GO:0040007
 
-GO:PATO:EXT#:apoptotic:process:or:quality
+GO_PATO_EXT:apoptotic_process_or_quality
 GO:0040007
 
 
-GO:EXT#:breeding
+GO_EXT:breeding
 
 
 
 GO:0040007
 GO:0040007
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0006302
 GO:0006302
 GO:0040007
@@ -4385,12 +4385,12 @@ GO:0040007
 
 GO:0023052
 GO:0007595
-GO:EXT#:impregnation
+GO_EXT:impregnation
 
-GO:EXT#:fatality:or:lethality
-GO:EXT#:impregnation
+GO_EXT:fatality_or_lethality
+GO_EXT:impregnation
 GO:0007567
-GO:0001967|GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0001967|GO:0007610|GO_PATO_EXT:biological_behavior
 
 
 GO:0007595
@@ -4417,7 +4417,7 @@ GO:0009653
 GO:0040007
 
 GO:0007595
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 GO:0007567
 GO:0007595
 GO:0009653
@@ -4435,31 +4435,31 @@ GO:0030879|GO:0032502|GO:0048732
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0009653
 GO:0008283|GO:0050673
-GO:0030154|GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0030154|GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 GO:0030879|GO:0032502|GO:0048732
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0008283
 GO:0006915|GO:0097194
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0000003
 
 GO:0006915|GO:0097194
-GO:PATO:EXT#:apoptotic:process:or:quality
+GO_PATO_EXT:apoptotic_process_or_quality
 GO:0007595
-GO:PATO:EXT#:apoptotic:process:or:quality
+GO_PATO_EXT:apoptotic_process_or_quality
 GO:0007595
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 GO:0032502
 GO:0007595
@@ -4469,7 +4469,7 @@ GO:0007595
 GO:0007595
 GO:0009653
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0007595
 GO:0009653
 GO:0009653
@@ -4484,50 +4484,50 @@ GO:0009653
 
 GO:0008283|GO:0050673
 GO:0007595
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0023052
 
 GO:0007595
 
 
-GO:EXT#:negative:regulation|GO:EXT#:negative:regulator
+GO_EXT:negative_regulation|GO_EXT:negative_regulator
 
 
-GO:EXT#:regulator
+GO_EXT:regulator
 GO:0007165|GO:0023052
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0007595
 GO:0042592
 GO:0009653
 GO:0007349
 
-GO:0065007|GO:EXT#:regulator
-GO:0010467|GO:EXT#:gene:expresser
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
+GO:0010467|GO_EXT:gene_expresser
+GO:0065007|GO_EXT:regulator
 
-GO:0065007|GO:EXT#:regulator
-
-
-
-GO:EXT#:negative:regulation|GO:EXT#:negative:regulator
+GO:0065007|GO_EXT:regulator
 
 
-GO:0065007|GO:EXT#:regulator
+
+GO_EXT:negative_regulation|GO_EXT:negative_regulator
+
+
+GO:0065007|GO_EXT:regulator
 
 
 
 GO:0023052
 
 GO:0023052
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
 
 
-GO:0007610|GO:PATO:EXT#:biological:behavior
+GO:0007610|GO_PATO_EXT:biological_behavior
 
 GO:0023052
 
@@ -4539,14 +4539,14 @@ GO:0023052
 GO:0009653
 GO:0023052
 
-GO:EXT#:regulator
+GO_EXT:regulator
 GO:0023052
 GO:0009653
 GO:0042592
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 GO:0023052
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0007595
 
 GO:0042592
@@ -4554,53 +4554,53 @@ GO:0023052
 
 GO:0007165|GO:0023052
 GO:0007165|GO:0023052
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:0006351|GO:EXT#:transcription
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO:0006351|GO_EXT:transcription
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0040007
 
 
 
 GO:0007165|GO:0023052
 GO:0007165|GO:0023052
-GO:EXT#:regulator
+GO_EXT:regulator
 GO:0008152
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0040007
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0040007
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0040007
-GO:EXT#:positive:regulation|GO:EXT#:positive:regulator
+GO_EXT:positive_regulation|GO_EXT:positive_regulator
 
 
 
 
 GO:0040007
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 
 GO:0042592
 GO:0042592
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0042697
 
-GO:EXT#:regulator
+GO_EXT:regulator
 GO:0009653
 GO:0023052
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 GO:0009653
 GO:0023052
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0030879|GO:0032502|GO:0048732
 
 GO:0000003
@@ -4608,39 +4608,39 @@ GO:0000003
 GO:0032502
 GO:0009790|GO:0032502
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0032502
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 GO:0032502
 GO:0009653
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 GO:0023052
 GO:0008283|GO:0050673
-GO:0030154|GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:EXT#:regulator
+GO:0030154|GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO_EXT:regulator
 
-GO:EXT#:regulator
+GO_EXT:regulator
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0042592
 GO:0007349
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 GO:0023052
 
 GO:0030879|GO:0032502|GO:0048732
-GO:EXT#:regulator
+GO_EXT:regulator
 GO:0023052
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0009653
 GO:0040007
 GO:0040007
@@ -4648,10 +4648,10 @@ GO:0040007
 GO:0040007
 GO:0023052
 
-GO:0065007|GO:EXT#:regulator
-GO:0001906|GO:0008219|GO:0019835|GO:0070265|GO:PATO:EXT#:necrosis
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
-GO:0007568|GO:PATO:EXT#:aging:or:agedness
+GO:0065007|GO_EXT:regulator
+GO:0001906|GO:0008219|GO:0019835|GO:0070265|GO_PATO_EXT:necrosis
+CHEBI_GO_EXT:biological_process_or_quality_or_role
+GO:0007568|GO_PATO_EXT:aging_or_agedness
 
 GO:0040007
 GO:0040007
@@ -4676,55 +4676,55 @@ GO:0006915|GO:0097194|GO:1904019
 GO:0007595
 
 GO:0007595
-GO:PATO:EXT#:apoptotic:process:or:quality
+GO_PATO_EXT:apoptotic_process_or_quality
 GO:0023052
 
 
-GO:EXT#:regulator
+GO_EXT:regulator
 GO:0040007
 GO:0023052
 GO:0009653
 GO:0040007
 GO:0023052
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
 
 GO:0040007
 
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 GO:0040007
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
-GO:0065007|GO:EXT#:regulator
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
+GO:0065007|GO_EXT:regulator
 
 GO:0023052
 GO:0009653
 
 GO:0009653
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0007595
-GO:EXT#:breeding
+GO_EXT:breeding
 
 
 GO:0042384
 GO:0007349|GO:0044838
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0051179
 GO:0009058
 
 
 GO:0009058
-GO:0007568|GO:PATO:EXT#:aging:or:agedness
+GO:0007568|GO_PATO_EXT:aging_or_agedness
 GO:0006915|GO:0097194
 
 GO:0042384
 GO:0008152
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0016265
 GO:0009058
 GO:0007349
@@ -4732,8 +4732,8 @@ GO:0008219|GO:0016265
 GO:0042384
 GO:0007605
 GO:0016265
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:EXT#:detection:or:sensing:of:mechanical:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
+GO_EXT:detection_or_sensing_of_mechanical_stimulus
 GO:0009293|GO:0023052
 GO:0009293|GO:0023052
 GO:0009293|GO:0023052|GO:0040007
@@ -4753,16 +4753,16 @@ GO:0009058
 GO:0042384
 GO:0023052
 GO:0009058
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0042384
 GO:0051179
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
-GO:EXT#:detection:or:sensing:of:mechanical:stimulus
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
+GO_EXT:detection_or_sensing_of_mechanical_stimulus
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
 GO:0042384
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 
 GO:0042384
 GO:0042384
@@ -4770,27 +4770,27 @@ GO:0042384
 GO:0051179
 
 GO:0006810
-GO:EXT#:positive:regulation|GO:EXT#:positive:regulator
+GO_EXT:positive_regulation|GO_EXT:positive_regulator
 GO:0042384
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0042384
 
 
-GO:EXT#:responder
-GO:EXT#:biogenesis:or:biosynthesis
-GO:0006351|GO:EXT#:transcription
-GO:EXT#:responder
+GO_EXT:responder
+GO_EXT:biogenesis_or_biosynthesis
+GO:0006351|GO_EXT:transcription
+GO_EXT:responder
 GO:0009058
 GO:0042384
 GO:0009058
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 
 GO:0042384
 
@@ -4801,14 +4801,14 @@ GO:0009058
 GO:0042384
 GO:0042592
 GO:0008152
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0009058
 GO:0006810
-GO:0007568|GO:PATO:EXT#:aging:or:agedness
+GO:0007568|GO_PATO_EXT:aging_or_agedness
 GO:0007349
 GO:0006915|GO:0007349|GO:0097194
 
-GO:PATO:EXT#:apoptotic:process:or:quality
+GO_PATO_EXT:apoptotic_process_or_quality
 
 
 GO:0006915|GO:0097194|GO:1904019
@@ -4820,23 +4820,23 @@ GO:0009058
 GO:0042384
 
 GO:0009058
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:biogenesis:or:biosynthesis
+GO_EXT:transfectant_or_tranformant
+GO_EXT:biogenesis_or_biosynthesis
 GO:0051179
 
 GO:0042384
 GO:0009058
-GO:SO:EXT#:frameshift:entity:or:process
+GO_SO_EXT:frameshift_entity_or_process
 GO:0006810|GO:0042073
 
 
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0009293|GO:0023052
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 GO:0007608
-GO:EXT#:detection:or:sensing:of:mechanical:stimulus
+GO_EXT:detection_or_sensing_of_mechanical_stimulus
 
 GO:0023052
 GO:0040007
@@ -4844,7 +4844,7 @@ GO:0051179
 GO:0051179
 GO:0007165|GO:0009293|GO:0023052
 GO:0009058
-GO:EXT#:detection:or:sensing:of:mechanical:stimulus
+GO_EXT:detection_or_sensing_of_mechanical_stimulus
 GO:0023052
 GO:0016265
 
@@ -4852,27 +4852,27 @@ GO:0016265
 GO:0051179
 
 GO:0006810|GO:0015031
-GO:EXT#:detection:or:sensing:of:stimulus
+GO_EXT:detection_or_sensing_of_stimulus
 
 GO:0008283
 
 GO:0051301
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0006810|GO:0015031
 GO:0023052
 GO:0051301
 GO:0007349|GO:0044838
-GO:PATO:EXT#:apoptotic:process:or:quality
+GO_PATO_EXT:apoptotic_process_or_quality
 
 GO:0023052
 GO:0007349
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 GO:0051179
 GO:0006915|GO:0097194
 
 GO:0009058
-GO:0007568|GO:PATO:EXT#:aging:or:agedness
+GO:0007568|GO_PATO_EXT:aging_or_agedness
 
 GO:0006915|GO:0097194
 
@@ -4883,35 +4883,35 @@ GO:0009058
 GO:0016246
 GO:0016246
 GO:0016246
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:0010467|GO:EXT#:gene:expresser
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:0006351|GO:EXT#:transcription
-GO:0010467|GO:EXT#:gene:expresser
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO:0010467|GO_EXT:gene_expresser
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO:0006351|GO_EXT:transcription
+GO:0010467|GO_EXT:gene_expresser
 GO:0042384
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 
 
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:0006351|GO:EXT#:transcription
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO:0006351|GO_EXT:transcription
 GO:0042384
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:regulator
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:regulator
 GO:0042384
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0016246
 
 GO:0009058
@@ -4920,29 +4920,29 @@ GO:0009058
 
 
 GO:0040007
-GO:0007568|GO:PATO:EXT#:aging:or:agedness
-GO:0010467|GO:EXT#:gene:expresser
-GO:0010467|GO:EXT#:gene:expresser
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO:0007568|GO_PATO_EXT:aging_or_agedness
+GO:0010467|GO_EXT:gene_expresser
+GO:0010467|GO_EXT:gene_expresser
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 
 GO:0006810|GO:0042073
 
 GO:0009058
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
 
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0042384
 
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0042384
-GO:EXT#:detection:or:sensing:of:mechanical:stimulus
-GO:EXT#:biogenesis:or:biosynthesis
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:transfectant:or:tranformant
-GO:EXT#:positive:regulation|GO:EXT#:positive:regulator
+GO_EXT:detection_or_sensing_of_mechanical_stimulus
+GO_EXT:biogenesis_or_biosynthesis
+GO_EXT:transfectant_or_tranformant
+GO_EXT:transfectant_or_tranformant
+GO_EXT:positive_regulation|GO_EXT:positive_regulator
 GO:0042384
 GO:0042384
 
@@ -4950,28 +4950,28 @@ GO:0042384
 GO:0009058
 
 GO:0009058
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 GO:0009058
-GO:EXT#:transfectant:or:tranformant
+GO_EXT:transfectant_or_tranformant
 
 
 
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 GO:0009058
 
 
-GO:PATO:EXT#:apoptotic:process:or:quality
+GO_PATO_EXT:apoptotic_process_or_quality
 
 GO:0006629|GO:0008152
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 
 
-GO:PATO:EXT#:cell:proliferation:or:proliferativity
+GO_PATO_EXT:cell_proliferation_or_proliferativity
 
 GO:0032502
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0007631
 
 
@@ -4979,43 +4979,43 @@ GO:0008152
 GO:0008152
 
 GO:0045444|GO:0060612
-GO:PATO:EXT#:inflammatory:process:or:quality
-GO:0001816|GO:EXT#:cytokine:biosynthesis:or:production
+GO_PATO_EXT:inflammatory_process_or_quality
+GO:0001816|GO_EXT:cytokine_biosynthesis_or_production
 GO:0023052
 GO:0023052
 GO:0006915|GO:0097194
 GO:0045444|GO:0060612
 
-GO:PATO:EXT#:physiological:process:or:quality
+GO_PATO_EXT:physiological_process_or_quality
 
 GO:0045292
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0045444|GO:0060612
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:PATO:EXT#:physiological:process:or:quality
-
-
-
-GO:0008152
-GO:0008152
-
-GO:PATO:EXT#:physiological:process:or:quality
-GO:0008152
+GO_PATO_EXT:physiological_process_or_quality
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:PATO:EXT#:physiological:process:or:quality
-GO:PATO:EXT#:physiological:process:or:quality
-GO:0008152
 
 GO:0008152
-GO:PATO:EXT#:physiological:process:or:quality
+GO:0008152
+
+GO_PATO_EXT:physiological_process_or_quality
+GO:0008152
+
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO_PATO_EXT:physiological_process_or_quality
+GO_PATO_EXT:physiological_process_or_quality
+GO:0008152
+
+GO:0008152
+GO_PATO_EXT:physiological_process_or_quality
 
 
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 GO:0040007
 
 
@@ -5028,26 +5028,26 @@ GO:0040007
 
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0010467|GO:EXT#:gene:expresser
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0010467|GO_EXT:gene_expresser
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
-GO:PATO:EXT#:inflammatory:process:or:quality
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO_PATO_EXT:inflammatory_process_or_quality
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 GO:0009058
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 GO:0008152
-GO:0010467|GO:EXT#:gene:expresser
-GO:0007568|GO:PATO:EXT#:aging:or:agedness
+GO:0010467|GO_EXT:gene_expresser
+GO:0007568|GO_PATO_EXT:aging_or_agedness
 
 
 GO:0006629|GO:0008152
@@ -5056,11 +5056,11 @@ GO:0006629|GO:0008152
 
 GO:0009058
 
-GO:0010467|GO:EXT#:gene:expresser
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0010467|GO_EXT:gene_expresser
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 
 
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 
 GO:0019915|GO:0051235
 GO:0006629|GO:0008152
@@ -5069,35 +5069,35 @@ GO:0006629|GO:0008152
 
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0006094
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 GO:0006094
 
 GO:0006094
-GO:0010467|GO:EXT#:gene:expresser
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO:0010467|GO_EXT:gene_expresser
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 
-GO:0006119|GO:0016310|GO:PATO:EXT#:phosphorylation:process|GO:PATO:EXT#:phosphorylation:process:or:quality
+GO:0006119|GO:0016310|GO_PATO_EXT:phosphorylation_process|GO_PATO_EXT:phosphorylation_process_or_quality
 GO:0006810|GO:0022900
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 GO:0008152
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 GO:0008152
 GO:0007631
 GO:0008152
 
 
-GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 GO:0032502
 GO:0008152
 
@@ -5106,13 +5106,13 @@ GO:0008152
 
 GO:0019915|GO:0051235
 
-GO:PATO:EXT#:physiological:process:or:quality
+GO_PATO_EXT:physiological_process_or_quality
 GO:0042592|GO:0097009
 
-GO:0010467|GO:EXT#:gene:expresser
-GO:0010467|GO:EXT#:gene:expresser
-GO:0010467|GO:EXT#:gene:expresser
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0010467|GO_EXT:gene_expresser
+GO:0010467|GO_EXT:gene_expresser
+GO:0010467|GO_EXT:gene_expresser
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 GO:0009058
 
 GO:0008610
@@ -5122,7 +5122,7 @@ GO:0006006|GO:0008152
 
 
 
-GO:PATO:EXT#:physiological:process:or:quality
+GO_PATO_EXT:physiological_process_or_quality
 GO:0008152
 
 
@@ -5138,28 +5138,28 @@ GO:0008152
 
 
 
-GO:0065007|GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0065007|GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 
 
 
-GO:0010467|GO:EXT#:gene:expresser
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
+GO:0010467|GO_EXT:gene_expresser
 GO:0006810
 GO:0008152
-GO:PATO:EXT#:physiological:process:or:quality
+GO_PATO_EXT:physiological_process_or_quality
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
-GO:0010467|GO:EXT#:gene:expresser
-GO:0010467|GO:EXT#:gene:expresser
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
+GO:0010467|GO_EXT:gene_expresser
+GO:0010467|GO_EXT:gene_expresser
 
 GO:0019915|GO:0051235
 
@@ -5167,89 +5167,89 @@ GO:0008152
 
 GO:0008152
 GO:0008152
-GO:PATO:EXT#:physiological:process:or:quality
-GO:0065007|GO:EXT#:regulator
+GO_PATO_EXT:physiological_process_or_quality
+GO:0065007|GO_EXT:regulator
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 GO:0006094
 GO:0005980|GO:0009056
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 
 
 
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO_EXT:detection_or_sensing_of_stimulus
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
 GO:0023052|GO:0038001
 GO:0023052
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 GO:0006887
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0065007|GO:EXT#:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0065007|GO_EXT:regulator
 GO:0006887
 GO:0001508|GO:0099610
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0065007|GO:EXT#:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0065007|GO_EXT:regulator
 GO:0042592|GO:0042593
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0065007|GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0065007|GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:0030073|GO:0046903|GO:EXT#:secretion:entity:or:process
+GO_EXT:detection_or_sensing_of_stimulus
+GO:0030073|GO:0046903|GO_EXT:secretion_entity_or_process
 
 GO:0006887
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 GO:0001508|GO:0099610
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0065007|GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0065007|GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
 GO:0008152
 
 GO:0006887
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0065007|GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0065007|GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0065007|GO:EXT#:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0065007|GO_EXT:regulator
 
 
 GO:0001508|GO:0099610
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 
 
@@ -5257,233 +5257,233 @@ GO:0065007|GO:EXT#:regulator
 
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:0065007|GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0065007|GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-
-
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
-
-GO:0065007|GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0065007|GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0065007|GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0065007|GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-
-GO:0046903|GO:EXT#:secretion:entity:or:process
-
-GO:0046903|GO:EXT#:secretion:entity:or:process
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0065007|GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0065007|GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 GO:0008152
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-
-
-
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-
-GO:0065007|GO:EXT#:regulator
-GO:0065007|GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-
-GO:0046903|GO:EXT#:secretion:entity:or:process
-
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+GO:0065007|GO_EXT:regulator
+GO:0065007|GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
 
 
 
 
-GO:0065007|GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:PATO:EXT#:physiological:process:or:quality
-GO:0046903|GO:EXT#:secretion:entity:or:process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0065007|GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO_PATO_EXT:physiological_process_or_quality
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+GO:0046903|GO_EXT:secretion_entity_or_process
 GO:0006887
 GO:0006887
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 GO:0006887
 GO:0006887
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0065007|GO:EXT#:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0065007|GO_EXT:regulator
 
 
-
-
-GO:0006887
 
 
 GO:0006887
+
+
 GO:0006887
 GO:0006887
 GO:0006887
 GO:0006887
 GO:0006887
-GO:0065007|GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0006887
+GO:0065007|GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0065007|GO:EXT#:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0065007|GO_EXT:regulator
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
 GO:0007165|GO:0023052|GO:0038001
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 
-GO:0065007|GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0065007|GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-
-
-
-
-GO:0046903|GO:EXT#:secretion:entity:or:process
-
-GO:0046903|GO:EXT#:secretion:entity:or:process
-
-
-GO:0065007|GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
-
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
 
-GO:0065007|GO:EXT#:regulator
-GO:EXT#:regulator
 
-GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+
+GO:0065007|GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+
+
+GO:0065007|GO_EXT:regulator
+GO_EXT:regulator
+
+GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
 GO:0023052
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
 
 
 GO:0006887
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 GO:0006887
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 GO:0008152
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
 
@@ -5491,40 +5491,24 @@ GO:0046903|GO:EXT#:secretion:entity:or:process
 
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 GO:0006887
 GO:0006887
 
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
-CHEBI:GO:EXT#:biological:process:or:quality:or:role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
+CHEBI_GO_EXT:biological_process_or_quality_or_role
 
 
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
-GO:0065007|GO:EXT#:regulator
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0065007|GO_EXT:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-
-
-
-
-
-
-
-
-
-
-GO:0065007|GO:EXT#:regulator
-
-
-GO:0046903|GO:EXT#:secretion:entity:or:process
-
-GO:0065007|GO:EXT#:regulator
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 
 
@@ -5533,38 +5517,54 @@ GO:0065007|GO:EXT#:regulator
 
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
+
+
+GO:0065007|GO_EXT:regulator
+
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+GO:0065007|GO_EXT:regulator
 
 
 
 
 
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0065007|GO:EXT#:regulator
-
-GO:0006887
 
 
+GO:0046903|GO_EXT:secretion_entity_or_process
 
-GO:0006887
-GO:0006887
 
+
+
+
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0065007|GO_EXT:regulator
 
 GO:0006887
 
 
 
+GO:0006887
+GO:0006887
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+GO:0006887
 
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
-GO:0046903|GO:EXT#:secretion:entity:or:process
+
+
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
+GO:0046903|GO_EXT:secretion_entity_or_process
 
 GO:0042592
 
@@ -5574,8 +5574,8 @@ GO:0006955
 
 
 
-GO:PATO:EXT#:inflammatory:process:or:quality
-GO:PATO:EXT#:inflammatory:process:or:quality
+GO_PATO_EXT:inflammatory_process_or_quality
+GO_PATO_EXT:inflammatory_process_or_quality
 GO:0007586
 GO:0006955
 GO:0006955
@@ -5584,17 +5584,17 @@ GO:0051179
 GO:0032502
 
 GO:0016265
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 
 
 
 
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 
 
-GO:EXT#:regulator
+GO_EXT:regulator
 GO:0006915|GO:0097194
-GO:PATO:EXT#:apoptotic:process:or:quality
+GO_PATO_EXT:apoptotic_process_or_quality
 
 GO:0007613
 
@@ -5602,23 +5602,23 @@ GO:0007613
 GO:0006915|GO:0097194
 
 
-GO:0001816|GO:EXT#:cytokine:biosynthesis:or:production
+GO:0001816|GO_EXT:cytokine_biosynthesis_or_production
 
 
 
 
 
-GO:EXT#:killing
+GO_EXT:killing
 
 
 
-GO:EXT#:killing
+GO_EXT:killing
 GO:0032502
 
 
 
 GO:0040007
-GO:EXT#:regulator
+GO_EXT:regulator
 GO:0040007
 GO:0032502
 
@@ -5635,21 +5635,21 @@ GO:0032502
 GO:0006915|GO:0097194
 
 GO:0019882
-GO:EXT#:regulator
+GO_EXT:regulator
 GO:0006915|GO:0097194
 GO:0006915|GO:0097194
-GO:PATO:EXT#:apoptotic:process:or:quality
+GO_PATO_EXT:apoptotic_process_or_quality
 GO:0006915|GO:0097194
-GO:PATO:EXT#:inflammatory:process:or:quality
-GO:PATO:EXT#:inflammatory:process:or:quality
+GO_PATO_EXT:inflammatory_process_or_quality
+GO_PATO_EXT:inflammatory_process_or_quality
 
 GO:0006955
-GO:0001816|GO:EXT#:cytokine:biosynthesis:or:production
-GO:PATO:EXT#:inflammatory:process:or:quality
-GO:EXT#:regulator
+GO:0001816|GO_EXT:cytokine_biosynthesis_or_production
+GO_PATO_EXT:inflammatory_process_or_quality
+GO_EXT:regulator
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:0006351|GO:EXT#:transcription
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO:0006351|GO_EXT:transcription
 
 
 
@@ -5658,7 +5658,7 @@ GO:0006351|GO:EXT#:transcription
 
 GO:0002250|GO:0006955
 
-GO:0030154|GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
+GO:0030154|GO_PATO_RO_EXT:developmental_differentiation_process_or_quality
 
 
 
@@ -5667,12 +5667,12 @@ GO:0030154|GO:PATO:RO:EXT#:developmental:differentiation:process:or:quality
 
 
 
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
 GO:0023052
 
 
-GO:0006954|GO:PATO:EXT#:inflammatory:process:or:quality
-GO:EXT#:regulator
+GO:0006954|GO_PATO_EXT:inflammatory_process_or_quality
+GO_EXT:regulator
 
 
 GO:0006955
@@ -5684,34 +5684,31 @@ GO:0006955
 GO:0019835
 GO:0023052
 
-GO:EXT#:killing
+GO_EXT:killing
 
-GO:EXT#:killing
-GO:0001171|GO:0006351|GO:EXT#:transcription
+GO_EXT:killing
+GO:0001171|GO:0006351|GO_EXT:transcription
 
 
-GO:EXT#:killing
+GO_EXT:killing
 
 GO:0007613
-GO:PATO:EXT#:apoptotic:process:or:quality
-GO:PATO:EXT#:apoptotic:process:or:quality
+GO_PATO_EXT:apoptotic_process_or_quality
+GO_PATO_EXT:apoptotic_process_or_quality
 
 
-GO:PATO:EXT#:apoptotic:process:or:quality
-
-
-
-
-
-GO:EXT#:killing
-
-
-GO:EXT#:killing
-
-GO:EXT#:killing
+GO_PATO_EXT:apoptotic_process_or_quality
 
 
 
+
+
+GO_EXT:killing
+
+
+GO_EXT:killing
+
+GO_EXT:killing
 
 
 
@@ -5720,30 +5717,33 @@ GO:EXT#:killing
 
 
 
-GO:0010467|GO:EXT#:gene:expresser
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:0065007|GO:EXT#:regulator
-GO:0065007|GO:EXT#:regulator
 
-GO:EXT#:regulator
+
+
+GO:0010467|GO_EXT:gene_expresser
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO:0065007|GO_EXT:regulator
+GO:0065007|GO_EXT:regulator
+
+GO_EXT:regulator
 
 
 GO:0006396
 GO:0045292
 GO:0016556
 GO:0006412
-GO:0007610|GO:PATO:EXT#:biological:behavior
-GO:0007268|GO:EXT#:neurotransmission
+GO:0007610|GO_PATO_EXT:biological_behavior
+GO:0007268|GO_EXT:neurotransmission
 GO:0007268
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0006396
-GO:0010467|GO:EXT#:gene:expresser
+GO:0010467|GO_EXT:gene_expresser
 
 
 
 
 GO:0046541
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 
 
 GO:0040007
@@ -5752,10 +5752,10 @@ GO:0040007
 
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 GO:0000747|GO:0007618|GO:0009291|GO:1990277
-GO:EXT#:fatality:or:lethality
-GO:EXT#:regulator
+GO_EXT:fatality_or_lethality
+GO_EXT:regulator
 
 
 GO:0045292
@@ -5780,13 +5780,13 @@ GO:0022008
 
 
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO:0065007|GO_EXT:regulator
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:EXT#:detection:or:sensing:of:stimulus
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO_EXT:detection_or_sensing_of_stimulus
+GO:0065007|GO_EXT:regulator
 GO:0006887
 GO:0007268
 
@@ -5800,27 +5800,27 @@ GO:0045292
 
 
 
-GO:EXT#:fatality:or:lethality
+GO_EXT:fatality_or_lethality
 
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 
 
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:0006351|GO:EXT#:transcription
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO:0006351|GO_EXT:transcription
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 GO:0007268
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
 
 
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 
 
-GO:0065007|GO:EXT#:regulator
+GO:0065007|GO_EXT:regulator
 GO:0045292
 GO:0045292
 GO:0009451
@@ -5828,20 +5828,20 @@ GO:0006412
 GO:0008152|GO:0016070
 GO:0006412
 GO:0006396
-GO:0006351|GO:EXT#:transcription
+GO:0006351|GO_EXT:transcription
 GO:0008152|GO:0016070
 
 
 
 
 
-GO:0001171|GO:0006351|GO:EXT#:transcription
+GO:0001171|GO:0006351|GO_EXT:transcription
 
 GO:0009293
 
 
 
-GO:0065007|GO:EXT#:negative:regulation|GO:EXT#:negative:regulator|GO:EXT#:regulator
-GO:0065007|GO:EXT#:positive:regulation|GO:EXT#:positive:regulator|GO:EXT#:regulator
-GO:0010467|GO:EXT#:gene:expresser
+GO:0065007|GO_EXT:negative_regulation|GO_EXT:negative_regulator|GO_EXT:regulator
+GO:0065007|GO_EXT:positive_regulation|GO_EXT:positive_regulator|GO_EXT:regulator
+GO:0010467|GO_EXT:gene_expresser
 
