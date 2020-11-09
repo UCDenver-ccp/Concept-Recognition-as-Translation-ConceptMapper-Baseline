@@ -1,100 +1,100 @@
 SO:0000771
-SO:EXT#:polymorphism
+SO_EXT:polymorphism
 SO:0000704
 
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000001
-GO:SO:EXT#:chromosome
+GO_SO_EXT:chromosome|SO:0000001
+GO_SO_EXT:chromosome
 SO:0000771
 SO:0000704
 SO:0000781|SO:0000902
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-SO:EXT#:polymorphism
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+SO_EXT:polymorphism
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
-
-SO:0000771
-SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-SO:0000771
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-SO:0000771
-SO:0000771
-SO:0001023
-SO:0000771
-
-SO:0000289|SO:EXT#:microsatellite:unit:or:region
-GO:SO:EXT#:chromosome
-GO:SO:EXT#:chromosome|SO:0000340
-
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-
-SO:0001026
-GO:SO:EXT#:chromosome|SO:0000340
-
-SO:0001026
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001023
-GO:SO:EXT#:chromosome
-SO:0001023
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001023
-
-GO:SO:EXT#:chromosome
-SO:0001023
-GO:SO:EXT#:chromosome
-GO:SO:EXT#:chromosome
-GO:SO:EXT#:chromosome
-SO:0001023
-GO:SO:EXT#:chromosome
-SO:0001023
-GO:SO:EXT#:chromosome
-
-SO:0001023
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001026
-SO:0000771
-GO:SO:EXT#:chromosomal:part:or:position:or:region:or:site
-GO:SO:EXT#:chromosome
-GO:SO:EXT#:chromosome
-GO:SO:EXT#:chromosome
-GO:SO:EXT#:chromosomal:part:or:position:or:region:or:site
-SO:0001023
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-GO:SO:EXT#:chromosome
-GO:SO:EXT#:chromosome
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-GO:SO:EXT#:chromosome
-GO:SO:EXT#:chromosome
-GO:SO:EXT#:chromosome
-GO:SO:EXT#:chromosome
-SO:0000704
-SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
-SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
 
 SO:0000771
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+SO:0000771
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+SO:0000771
+SO:0000771
+SO:0001023
+SO:0000771
+
+SO:0000289|SO_EXT:microsatellite_unit_or_region
+GO_SO_EXT:chromosome
+GO_SO_EXT:chromosome|SO:0000340
+
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+
 SO:0001026
-GO:SO:EXT#:chromosome
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+GO_SO_EXT:chromosome|SO:0000340
+
+SO:0001026
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001023
+GO_SO_EXT:chromosome
+SO:0001023
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001023
+
+GO_SO_EXT:chromosome
+SO:0001023
+GO_SO_EXT:chromosome
+GO_SO_EXT:chromosome
+GO_SO_EXT:chromosome
+SO:0001023
+GO_SO_EXT:chromosome
+SO:0001023
+GO_SO_EXT:chromosome
+
+SO:0001023
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001026
+SO:0000771
+GO_SO_EXT:chromosomal_part_or_position_or_region_or_site
+GO_SO_EXT:chromosome
+GO_SO_EXT:chromosome
+GO_SO_EXT:chromosome
+GO_SO_EXT:chromosomal_part_or_position_or_region_or_site
+SO:0001023
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+GO_SO_EXT:chromosome
+GO_SO_EXT:chromosome
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+GO_SO_EXT:chromosome
+GO_SO_EXT:chromosome
+GO_SO_EXT:chromosome
+GO_SO_EXT:chromosome
+SO:0000704
+SO:0000771
+GO_SO_EXT:chromosome|SO:0000340
+SO:0000771
+GO_SO_EXT:chromosome|SO:0000340
+
+SO:0000771
+SO:0000704
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+SO:0001026
+GO_SO_EXT:chromosome
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 SO:0000771
-GO:SO:EXT#:chromosome
+GO_SO_EXT:chromosome
 SO:0000704
 SO:0001023
 SO:0000771
@@ -102,28 +102,28 @@ SO:0000704
 SO:0000771
 SO:0000001
 SO:0000704
-GO:SO:EXT#:chromosomal:part:or:position:or:region:or:site
+GO_SO_EXT:chromosomal_part_or_position_or_region_or_site
 SO:0000771
 SO:0000771
 SO:0000704
 SO:0000781|SO:0000902
 SO:0000001
 SO:0000771
-GO:SO:EXT#:chromosome
+GO_SO_EXT:chromosome
 SO:0000704
 SO:0000704
 SO:0000704
 SO:0000704
 
-CHEBI:SO:EXT#:alanine|SO:0001435
+CHEBI_SO_EXT:alanine|SO:0001435
 SO:0000704
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000704
 SO:0000704
 SO:0000704
-CHEBI:SO:EXT#:DNA|SO:0000352
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+CHEBI_SO_EXT:DNA|SO:0000352
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000771
 
 SO:0000771
@@ -132,33 +132,33 @@ SO:0000771
 SO:0001026
 SO:0001023
 SO:0000771
-SO:0000991|SO:EXT#:genomic:DNA
-SO:0000289|SO:EXT#:microsatellite:unit:or:region
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0000991|SO_EXT:genomic_DNA
+SO:0000289|SO_EXT:microsatellite_unit_or_region
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0001026
 SO:0000771
 SO:0000771
 
 SO:0000704
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000159
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
-CHEBI:SO:EXT#:proline|SO:0001439
+CHEBI_SO_EXT:proline|SO:0001439
 SO:0000141
 SO:0000704
 SO:0000704
 SO:0001026
 SO:0005858
-GO:SO:EXT#:chromosomal:part:or:position:or:region:or:site
+GO_SO_EXT:chromosomal_part_or_position_or_region_or_site
 SO:0000001
 SO:0000855
 SO:0000856
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0001026
 
 SO:0000704
@@ -172,37 +172,37 @@ SO:0000704
 
 SO:0000704
 
-CHEBI:SO:EXT#:RNA|SO:0000356
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:RNA|SO:0000356
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 SO:0000853
 SO:0000203|SO:0001622
 SO:0000204
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000704
 SO:0000704
 
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
-CHEBI:SO:EXT#:proline|SO:0001439
+CHEBI_SO_EXT:proline|SO:0001439
 SO:0000141
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000704
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0000756|SO:EXT#:cDNA
+CHEBI_SO_EXT:mRNA|SO:0000234
+SO:0000756|SO_EXT:cDNA
 SO:0000317
-SO:0000756|SO:EXT#:cDNA
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
+SO:0000756|SO_EXT:cDNA
 
 SO:0000203
 SO:0000204
 SO:0000236
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
 SO:0000203|SO:0001622
-SO:EXT#:coding:sequence
+SO_EXT:coding_sequence
 SO:0000855
 SO:0000203|SO:0001622
 SO:0000001
@@ -213,38 +213,38 @@ SO:0000856
 SO:0000203|SO:0001622
 SO:0000203|SO:0001622
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
 SO:0000141
-CHEBI:SO:EXT#:proline|SO:0001439
+CHEBI_SO_EXT:proline|SO:0001439
 SO:0000856
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:1000002
 SO:0000159
 SO:0000667|SO:0001522
-CHEBI:SO:EXT#:proline|SO:0001439
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:proline|SO:0001439
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000856
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000141
-CHEBI:SO:EXT#:proline|SO:0001439
+CHEBI_SO_EXT:proline|SO:0001439
 SO:0000856
 SO:0000667|SO:0001522
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 
 SO:0000717
 SO:0000141
 SO:0000001
-SO:EXT#:biological:conservation:process:or:quality
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+SO_EXT:biological_conservation_process_or_quality
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000001
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
 SO:0000001
 SO:0000001
 SO:0001026
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000151
 SO:0001026
 SO:0000001
@@ -256,7 +256,7 @@ SO:0001026
 SO:0000704
 SO:0001026
 SO:0000001
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000001
 SO:0000704
 SO:0000147
@@ -271,17 +271,17 @@ SO:0000188|SO:0001627
 SO:0000704
 SO:0000188|SO:0001627
 SO:0000667|SO:0001522
-CHEBI:SO:EXT#:nucleotide
-SO:0000756|SO:EXT#:cDNA
+CHEBI_SO_EXT:nucleotide
+SO:0000756|SO_EXT:cDNA
 SO:0000001
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000112
 SO:0000188|SO:0001627
 SO:0000001
 SO:0001026
 SO:0000001
 SO:0000704
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000860
 SO:0000704
 
@@ -291,82 +291,82 @@ SO:0000673
 
 SO:0000673
 SO:0000317
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000673
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000051
 SO:0000051
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
 SO:0000704
-SO:EXT#:genomic:DNA
-SO:0000991|SO:EXT#:genomic:DNA
+SO_EXT:genomic_DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000112
 SO:0000188|SO:0001627
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 
 SO:0000141
-CHEBI:SO:EXT#:proline|SO:0001439
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-CHEBI:SO:EXT#:C:terminus:or:C:terminal:region
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:proline|SO:0001439
+CHEBI_SO_EXT:amino_acid|SO:0001237
+CHEBI_SO_EXT:C_terminus_or_C_terminal_region
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:mRNA|SO:0000234
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000704
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000704
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:mRNA|SO:0000234
 
-CHEBI:SO:EXT#:glycine|SO:0001443
+CHEBI_SO_EXT:glycine|SO:0001443
 SO:0000147
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000612
 SO:0001026
 
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000855
 
 SO:0000001
 SO:0000203|SO:0001622
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:proline|SO:0001439
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:proline|SO:0001439
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:RNA|SO:0000356
 
 SO:0000001
 SO:0000856
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000001
 
 SO:0000001
 SO:0000001
 SO:0000853|SO:0000857
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000001
 SO:0000856
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000317
 SO:0000317
-SO:0000756|SO:EXT#:cDNA
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000051
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000112
-SO:0000756|SO:EXT#:cDNA
-CHEBI:SO:EXT#:RNA|SO:0000356
+SO:0000756|SO_EXT:cDNA
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000112
 SO:0000112
 SO:0000006
@@ -379,7 +379,7 @@ SO:0000204
 SO:0000317
 SO:0000317
 SO:0000667|SO:0001522
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000040
 SO:0001026
 SO:0000001
@@ -392,14 +392,14 @@ SO:0000357
 SO:0000147
 SO:0000112
 
-SO:0000991|SO:EXT#:genomic:DNA
-CHEBI:SO:EXT#:DNA|SO:0000352
-GO:SO:EXT#:chromosome|SO:0000340
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-SO:0001249|SO:EXT#:physical:mapping:process
+SO:0000991|SO_EXT:genomic_DNA
+CHEBI_SO_EXT:DNA|SO:0000352
+GO_SO_EXT:chromosome|SO:0000340
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+SO:0001249|SO_EXT:physical_mapping_process
 SO:0000704
 SO:0000673
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000051
 SO:0000051
 SO:0000112
@@ -417,23 +417,23 @@ SO:0000151
 
 SO:0000440
 SO:0000001
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000806
-CHEBI:SO:EXT#:histidine|SO:0001452
+CHEBI_SO_EXT:histidine|SO:0001452
 
-CHEBI:SO:EXT#:peptide:or:peptide:region
+CHEBI_SO_EXT:peptide_or_peptide_region
 SO:0000440
-CHEBI:SO:EXT#:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
 SO:0001023
-CHEBI:SO:EXT#:tyrosine|SO:0001446
-CHEBI:SO:EXT#:phenylalanine|SO:0001441
+CHEBI_SO_EXT:tyrosine|SO:0001446
+CHEBI_SO_EXT:phenylalanine|SO:0001441
 
-CHEBI:SO:EXT#:tyrosine|SO:0001446
-SO:1000008|SO:EXT#:point:mutation:entity:or:process
+CHEBI_SO_EXT:tyrosine|SO:0001446
+SO:1000008|SO_EXT:point_mutation_entity_or_process
 
 
-CHEBI:SO:EXT#:tyrosine|SO:0001446
-CHEBI:SO:EXT#:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
 SO:0000409
 
 SO:0000704
@@ -448,14 +448,14 @@ SO:0001023
 
 
 
-CHEBI:SO:EXT#:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
 SO:0001023
 SO:0001023
 
 
 
 
-CHEBI:SO:EXT#:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
 
 
 
@@ -464,7 +464,7 @@ SO:0000409
 
 
 
-GO:SO:EXT#:frameshift:entity:or:process|SO:0000865|SO:0001589
+GO_SO_EXT:frameshift_entity_or_process|SO:0000865|SO:0001589
 SO:0000319
 SO:0001633
 SO:0000409
@@ -475,7 +475,7 @@ SO:0000409
 
 
 
-GO:SO:EXT#:frameshift:entity:or:process|SO:0000865|SO:0001589
+GO_SO_EXT:frameshift_entity_or_process|SO:0000865|SO:0001589
 
 SO:0001644
 
@@ -488,7 +488,7 @@ SO:0001023
 
 SO:0000409
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 SO:0001023
 
@@ -510,63 +510,63 @@ SO:0000781|SO:0000902
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-SO:0001023
-
-SO:0001023
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-CHEBI:SO:EXT#:mRNA|SO:0000234
-
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 SO:0001023
+
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+
+CHEBI_SO_EXT:mRNA|SO:0000234
+
+
+
+SO:0001023
+SO:0001023
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0001023
 SO:0001023
 
 
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 SO:0000781|SO:0000902
 
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0001023
 
@@ -585,31 +585,31 @@ SO:0000410
 
 
 
-CHEBI:SO:EXT#:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
 
-CHEBI:SO:EXT#:tyrosine|SO:0001446
-
-SO:0000409
-CHEBI:SO:EXT#:tyrosine|SO:0001446
-
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-CHEBI:SO:EXT#:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
 
 SO:0000409
+CHEBI_SO_EXT:tyrosine|SO:0001446
+
+CHEBI_SO_EXT:amino_acid|SO:0001237
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+CHEBI_SO_EXT:tyrosine|SO:0001446
+
+SO:0000409
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 SO:0001023
 
 
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 SO:0001023
@@ -621,7 +621,7 @@ SO:0001023
 
 SO:0000704
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0001023
 SO:0001023
@@ -634,9 +634,9 @@ SO:0001023
 
 
 SO:0001023
-CHEBI:SO:EXT#:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
 
-CHEBI:SO:EXT#:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
 
 
 
@@ -654,18 +654,18 @@ SO:0000704
 SO:0000704
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:1000008|SO:EXT#:point:mutation:entity:or:process
+SO:1000008|SO_EXT:point_mutation_entity_or_process
 
-CHEBI:SO:EXT#:tyrosine|SO:0001446
-CHEBI:SO:EXT#:phenylalanine|SO:0001441
+CHEBI_SO_EXT:tyrosine|SO:0001446
+CHEBI_SO_EXT:phenylalanine|SO:0001441
 
 
-CHEBI:SO:EXT#:isoleucine|SO:0001438
+CHEBI_SO_EXT:isoleucine|SO:0001438
 
 
 
@@ -674,11 +674,11 @@ SO:0001644
 
 SO:0000440
 SO:0000147
-SO:1000008|SO:EXT#:point:mutation:entity:or:process
+SO:1000008|SO_EXT:point_mutation_entity_or_process
 SO:0001644
 SO:0001148
 SO:0000001
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 
 
 SO:0001644
@@ -687,18 +687,18 @@ SO:0001026
 SO:0000001
 SO:0000147
 SO:0000409
-CHEBI:SO:EXT#:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
 
-CHEBI:SO:EXT#:phenylalanine|SO:0001441
+CHEBI_SO_EXT:phenylalanine|SO:0001441
 SO:0001644
 
 
 
-GO:SO:EXT#:frameshift:entity:or:process|SO:0000865|SO:0001589
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+GO_SO_EXT:frameshift_entity_or_process|SO:0000865|SO:0001589
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000319
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0001633
 SO:0000409
 SO:0000151
@@ -706,15 +706,15 @@ SO:0000151
 
 SO:0000781|SO:0000902
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000667|SO:0001522
 
 SO:0000781|SO:0000902
-CHEBI:SO:EXT#:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
 
 SO:0000853|SO:0000857
 
@@ -723,7 +723,7 @@ SO:0001023
 SO:0001023
 SO:0001026
 
-CHEBI:SO:EXT#:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
 SO:0000409
 SO:0001023
 SO:0000409
@@ -731,36 +731,36 @@ SO:0000409
 SO:0001023
 
 SO:0000159
-GO:SO:EXT#:frameshift:entity:or:process|SO:0000865|SO:0001589
+GO_SO_EXT:frameshift_entity_or_process|SO:0000865|SO:0001589
 SO:0000319
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000409
 SO:0001644
 
 SO:0001023
 SO:0000147
 
-CHEBI:SO:EXT#:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
 SO:0001644
 
 SO:0000147
 
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 SO:0001023
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_GO_SO_EXT:enzyme
 SO:0000051
 SO:0000147
-SO:1000008|SO:EXT#:point:mutation:entity:or:process
-GO:SO:EXT#:frameshift:entity:or:process|SO:0000865|SO:0001589
+SO:1000008|SO_EXT:point_mutation_entity_or_process
+GO_SO_EXT:frameshift_entity_or_process|SO:0000865|SO:0001589
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000147
 SO:0000147
 
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_GO_SO_EXT:enzyme
 SO:0001148
 
 SO:0000350
@@ -768,64 +768,64 @@ SO:0000346
 SO:0000051
 SO:0000051
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000151
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-SO:0001023
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 SO:0001023
-SO:0001023
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
 
 
 
 
 SO:0001023
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0001023
 
 
 
-CHEBI:SO:EXT#:tyrosine|SO:0001446
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+SO:0001023
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+
+
+CHEBI_SO_EXT:tyrosine|SO:0001446
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0000704
 SO:0000704
 
 
 
-CHEBI:SO:EXT#:threonine|SO:0001445
+CHEBI_SO_EXT:threonine|SO:0001445
 
-CHEBI:SO:EXT#:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
 
 SO:0000077
-CHEBI:SO:EXT#:oligonucleotide|SO:0000696
+CHEBI_SO_EXT:oligonucleotide|SO:0000696
 SO:0000804
 
 
@@ -855,10 +855,10 @@ SO:0000440
 SO:0000151
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -869,7 +869,7 @@ SO:0000159
 SO:0000704
 SO:0000001
 
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
 SO:0000001|SO:0000246
 SO:0000704
@@ -881,14 +881,14 @@ SO:0000147
 SO:0000147
 SO:0000147
 SO:0000704
-GO:SO:EXT#:frameshift:entity:or:process
+GO_SO_EXT:frameshift_entity_or_process
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -901,24 +901,24 @@ SO:0000704
 
 
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000051
 SO:0001644
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000051
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -926,65 +926,65 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 SO:0000644
-CHEBI:SO:EXT#:RNA|SO:0000051|SO:0000356
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:RNA|SO:0000051|SO:0000356
+CHEBI_SO_EXT:mRNA|SO:0000234
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000644
-CHEBI:SO:EXT#:RNA|SO:0000051|SO:0000356
-CHEBI:SO:EXT#:RNA|SO:0000051|SO:0000356
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:RNA|SO:0000051|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000051|SO:0000356
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000644
-CHEBI:SO:EXT#:RNA|SO:0000051|SO:0000356
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:RNA|SO:0000051|SO:0000356
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -994,15 +994,15 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -1011,48 +1011,48 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 SO:0000644
-CHEBI:SO:EXT#:RNA|SO:0000051|SO:0000356
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:RNA|SO:0000051|SO:0000356
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -1061,46 +1061,46 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -1109,10 +1109,10 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -1121,20 +1121,20 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -1146,26 +1146,26 @@ SO:0000159
 SO:0000001|SO:0000704
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-CHEBI:SO:EXT#:tyrosine|SO:0001446
+
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+CHEBI_SO_EXT:tyrosine|SO:0001446
 SO:0000167
 
 
@@ -1206,16 +1206,16 @@ SO:0000051
 SO:0001644
 SO:0000112
 SO:0000051
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000112
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0000051
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
 
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
 
 SO:0000112
@@ -1224,9 +1224,9 @@ SO:0000151
 SO:0000077
 SO:0000001
 SO:0000167
-CHEBI:SO:EXT#:deoxyribonucleotide
+CHEBI_SO_EXT:deoxyribonucleotide
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 SO:0000151
@@ -1242,12 +1242,12 @@ SO:0001023
 SO:0000814
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000853|SO:0000857
 SO:0000159
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000704
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0001026
 SO:0000159
 
@@ -1262,11 +1262,11 @@ SO:0001023
 SO:0001023
 
 SO:0001023
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000646
 SO:0000646
 SO:0001023
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000704
 
 
@@ -1294,7 +1294,7 @@ SO:0000704
 
 SO:0001023
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
@@ -1304,7 +1304,7 @@ OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
 
 
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000704
 SO:0000188|SO:0001627
 
@@ -1313,7 +1313,7 @@ SO:0000167
 
 SO:0001023
 SO:0000704
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 SO:0000151
@@ -1328,7 +1328,7 @@ SO:0000814
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 
@@ -1342,22 +1342,18 @@ SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-CHEBI:SO:EXT#:mRNA|SO:0000234
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -1379,7 +1375,11 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -1399,7 +1399,7 @@ SO:0001023
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 SO:0000147
@@ -1469,13 +1469,11 @@ SO:0000167
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-
-
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 
@@ -1486,19 +1484,21 @@ SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
 
 
 
-CHEBI:SO:EXT#:threonine|SO:0001445
+
+
+CHEBI_SO_EXT:threonine|SO:0001445
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 SO:0001023
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 SO:0001023
@@ -1511,19 +1511,19 @@ SO:0001023
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 SO:0000704
-CHEBI:SO:EXT#:biomarker
+CHEBI_SO_EXT:biomarker
 
 
 
@@ -1537,11 +1537,11 @@ CHEBI:SO:EXT#:biomarker
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
-CHEBI:SO:EXT#:DNA|SO:0000352
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0001023
 SO:0000112
 SO:0001644
@@ -1550,9 +1550,9 @@ SO:0000051
 SO:0000147
 SO:0000804
 
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000151
 SO:0000804
 SO:0000987
@@ -1560,13 +1560,13 @@ SO:0000051
 SO:0000151
 
 SO:0001023
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 
 SO:0000781|SO:0000902
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000051
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 SO:0001023
 
@@ -1574,13 +1574,13 @@ SO:0000359
 SO:0001023
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-CHEBI:SO:EXT#:DNA|SO:0000352
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000051
 SO:0000112
 SO:0000112
 SO:0000112
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000159
 SO:0001023
 SO:0000112
@@ -1591,45 +1591,45 @@ SO:0000781|SO:0000902
 
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0000756|SO:EXT#:cDNA
+CHEBI_SO_EXT:mRNA|SO:0000234
+SO:0000756|SO_EXT:cDNA
 
 SO:0000147
 SO:0000121
 SO:0000147
 SO:0000147
 SO:0000132
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000006
 SO:0000112
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-CHEBI:SO:EXT#:serine|SO:0001444
-CHEBI:SO:EXT#:serine|SO:0001444
-CHEBI:SO:EXT#:threonine|SO:0001445
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+CHEBI_SO_EXT:serine|SO:0001444
+CHEBI_SO_EXT:serine|SO:0001444
+CHEBI_SO_EXT:threonine|SO:0001445
 
 SO:0000781|SO:0000902
 SO:0000853|SO:0000857
 SO:0000159
-GO:SO:EXT#:chromosome|SO:0000340
-CHEBI:SO:EXT#:RNA|SO:0000356
+GO_SO_EXT:chromosome|SO:0000340
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000646
 SO:0000646
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 SO:0001023
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000147
 SO:0000121
 SO:0000147
 SO:0000132
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 SO:0000704
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000804
 
 
@@ -1649,7 +1649,7 @@ SO:0000051
 SO:0000051
 SO:0000051
 SO:0000112
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000359
 SO:0001023
 
@@ -1660,19 +1660,19 @@ SO:0000051
 
 SO:0000151
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000051
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0000359
 
-CHEBI:SO:EXT#:DNA|SO:0000352
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:DNA|SO:0000352
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000051
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 
 
@@ -1685,7 +1685,7 @@ SO:0000112
 
 
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 
 
@@ -1698,7 +1698,7 @@ SO:0000112
 
 SO:0000159
 SO:0001023
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 
 
@@ -1713,24 +1713,24 @@ SO:0000781|SO:0000902
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
-CHEBI:SO:EXT#:threonine|SO:0001445
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:threonine|SO:0001445
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -1744,7 +1744,7 @@ SO:0001023
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 SO:0000704
 
@@ -1769,8 +1769,8 @@ SO:0000346
 SO:0001026
 SO:0000704
 SO:0000147
-SO:0000147|SO:EXT#:coding:sequence
-SO:0000147|SO:EXT#:coding:sequence
+SO:0000147|SO_EXT:coding_sequence
+SO:0000147|SO_EXT:coding_sequence
 
 
 SO:0000236
@@ -1781,31 +1781,31 @@ SO:0000704
 SO:0000704
 SO:0000346
 SO:0000112
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0001023
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0001023
-SO:0000006
-
-SO:0000112
-
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 SO:0000006
 
 SO:0000112
-CHEBI:SO:EXT#:DNA|SO:0000352
+
+SO:0001023
+SO:0000006
+
+SO:0000112
+CHEBI_SO_EXT:DNA|SO:0000352
 
 
 
 
 
 SO:0000704
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000704
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000704
 SO:0001026
 SO:0000853
@@ -1814,14 +1814,14 @@ SO:0000188|SO:0001627
 SO:0000853
 SO:0000336
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -1842,7 +1842,7 @@ SO:0000704
 SO:0000804
 
 
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000323
 SO:0000141|SO:0000360
 SO:0000804
@@ -1850,7 +1850,7 @@ SO:0000804
 
 SO:0000357
 
-SO:0000314|SO:EXT#:direct:repeat:unit:or:region
+SO:0000314|SO_EXT:direct_repeat_unit_or_region
 
 SO:0000151
 SO:0000151
@@ -1860,9 +1860,9 @@ SO:0000155
 SO:0001026
 SO:0000151
 SO:0000151
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000112
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 SO:0000006
 
@@ -1872,14 +1872,14 @@ SO:0001023
 SO:0000006
 
 SO:0000112
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000781|SO:0000902
 SO:0000781|SO:0000902
 
 SO:0000987
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000804
 SO:0000804
 SO:0000704
@@ -1887,11 +1887,11 @@ SO:0000781|SO:0000902
 
 
 
-SO:EXT#:gene:product
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+SO_EXT:gene_product
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 
-SO:EXT#:gene:product
+SO_EXT:gene_product
 SO:0000704
 SO:0001080
 
@@ -1917,7 +1917,7 @@ SO:0001080
 SO:0000141
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000804
 SO:0000141
 SO:0001080
@@ -1934,7 +1934,7 @@ SO:0000236
 
 SO:0000001
 SO:0000673
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000151
 SO:0001080
 SO:0001080
@@ -1951,24 +1951,24 @@ SO:0000151
 SO:0000804
 
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 SO:0000151
 
 
-CHEBI:SO:EXT#:leucine|SO:0001437
-CHEBI:SO:EXT#:leucine|SO:0001437
+CHEBI_SO_EXT:leucine|SO:0001437
+CHEBI_SO_EXT:leucine|SO:0001437
 
 
 SO:0001080
 
 
 
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000001
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000856
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000853|SO:0000857
 SO:0000730
 
@@ -1980,19 +1980,19 @@ SO:0000804
 
 SO:0000806
 SO:0000001|SO:0000343
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000001
 SO:0000345
 SO:0000704
 SO:0000147
-SO:EXT#:coding:sequence
+SO_EXT:coding_sequence
 SO:0000704
-GO:SO:EXT#:chromosome|SO:0000001|SO:0000340
-SO:0000756|SO:EXT#:cDNA
+GO_SO_EXT:chromosome|SO:0000001|SO:0000340
+SO:0000756|SO_EXT:cDNA
 
 
 SO:0001080
-CHEBI:SO:EXT#:C:terminus:or:C:terminal:region
+CHEBI_SO_EXT:C_terminus_or_C_terminal_region
 SO:0000853|SO:0000857
 SO:0000673
 SO:0000324
@@ -2002,10 +2002,10 @@ SO:0001080
 SO:0000324
 SO:0000804
 SO:0001080
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000151
 SO:0000051
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000673
 SO:0000673
 SO:0000673
@@ -2038,15 +2038,15 @@ SO:0000806
 SO:0000806
 
 
-SO:EXT#:gene:product
+SO_EXT:gene_product
 SO:0000704
 
 SO:0000001
 SO:0000853|SO:0000857
-SO:EXT#:gene:product
+SO_EXT:gene_product
 SO:0000854|SO:0000859
 
-CHEBI:SO:EXT#:peptide:or:peptide:region
+CHEBI_SO_EXT:peptide_or_peptide_region
 SO:0000001
 SO:0000704
 
@@ -2055,8 +2055,8 @@ SO:0000704
 SO:0000853|SO:0000857
 SO:0000141
 SO:0001080
-GO:SO:EXT#:post:translational:modification:entity:or:process|SO:0001089
-SO:EXT#:gene:product
+GO_SO_EXT:post_translational_modification_entity_or_process|SO:0001089
+SO_EXT:gene_product
 SO:0000155
 SO:0000804
 SO:0000440
@@ -2066,58 +2066,58 @@ SO:0000159
 SO:0000440
 SO:0000151
 SO:0000440
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000112
 SO:0000345
 SO:0000001
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000006
 SO:0000151
 SO:0000440
 SO:0000324
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
-SO:0000001|SO:EXT#:coding:sequence
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
+SO:0000001|SO_EXT:coding_sequence
 SO:0000151
 SO:0000440
 
 
 SO:0000151
 SO:0000440
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000151
 
 SO:0000151
-CHEBI:SO:EXT#:leucine|SO:0001437
+CHEBI_SO_EXT:leucine|SO:0001437
 SO:0000151
 SO:0000704
 SO:0000440
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 SO:0000806
 
 SO:0000051
 SO:0000051
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000151
 
 
-SO:EXT#:coding:sequence
+SO_EXT:coding_sequence
 SO:0000987
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_GO_SO_EXT:enzyme
 SO:0000077
 
-CHEBI:SO:EXT#:riboprobe
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:riboprobe
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000051
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000151
 SO:0000440
 SO:0000704
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 SO:0000151
 SO:0000151
@@ -2125,7 +2125,7 @@ SO:0000151
 
 SO:0000151
 SO:0000151
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000077
 SO:0000051
 SO:0000704
@@ -2133,27 +2133,27 @@ SO:0000673
 SO:0000141
 SO:0000704
 
-SO:EXT#:gene:product
+SO_EXT:gene_product
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000704
 
 SO:0000704
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000440
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000704
 SO:0000440
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 SO:0000704
 SO:0000704
@@ -2165,11 +2165,11 @@ SO:0000704
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 
 
@@ -2183,12 +2183,12 @@ SO:0001026
 
 
 
-SO:0000316|SO:EXT#:coding:sequence
-CHEBI:SO:EXT#:mRNA|SO:0000234
+SO:0000316|SO_EXT:coding_sequence
+CHEBI_SO_EXT:mRNA|SO:0000234
 
-CHEBI:SO:EXT#:riboprobe
+CHEBI_SO_EXT:riboprobe
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 
 
 
@@ -2197,9 +2197,9 @@ SO:0000159
 SO:0000704
 
 SO:0000704
-CHEBI:GO:SO:EXT#:enzyme
-CHEBI:GO:SO:EXT#:enzyme
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_GO_SO_EXT:enzyme
+CHEBI_GO_SO_EXT:enzyme
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000159
 SO:0001023
 SO:0000704
@@ -2217,43 +2217,43 @@ SO:0001023
 SO:0000781|SO:0000902
 SO:0000159
 SO:0000159
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0000704
 SO:0000704
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0001185
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_GO_SO_EXT:enzyme
 SO:0000159
-CHEBI:GO:SO:EXT#:enzyme
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_GO_SO_EXT:enzyme
+CHEBI_GO_SO_EXT:enzyme
 
-CHEBI:GO:SO:EXT#:enzyme
-
-
-
-
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-
-CHEBI:GO:SO:EXT#:enzyme
-
-CHEBI:GO:SO:EXT#:enzyme
-CHEBI:GO:SO:EXT#:enzyme
-CHEBI:GO:SO:EXT#:enzyme
-
-
-
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+CHEBI_GO_SO_EXT:enzyme
 
 
 
 
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+CHEBI_GO_SO_EXT:enzyme
+
+CHEBI_GO_SO_EXT:enzyme
+CHEBI_GO_SO_EXT:enzyme
+CHEBI_GO_SO_EXT:enzyme
+
+
+
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+
+
+
+
+
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0000357
 SO:0001023
 SO:0000781|SO:0000902
@@ -2262,13 +2262,13 @@ SO:0001023
 SO:0000781|SO:0000902
 
 SO:0000159
-CHEBI:SO:EXT#:DNA|SO:0000352
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000357
 SO:0000001
 
-CHEBI:SO:EXT#:DNA|SO:0000352
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000112
 SO:0000051
 SO:0000121
@@ -2285,9 +2285,9 @@ SO:0000051
 SO:0001185
 SO:0000704
 SO:0000704
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000112
 SO:0000051
 SO:0000132
@@ -2322,13 +2322,13 @@ SO:0000051
 
 SO:0000704
 
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:GO:SO:EXT#:enzyme
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_GO_SO_EXT:enzyme
+CHEBI_GO_SO_EXT:enzyme
 
 SO:0000704
 
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_GO_SO_EXT:enzyme
 
 
 SO:0001185
@@ -2339,7 +2339,7 @@ SO:0001185
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0000159
 
@@ -2354,17 +2354,12 @@ SO:0000159
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 
 
-CHEBI:GO:SO:EXT#:enzyme
-
-
-
-
-
+CHEBI_GO_SO_EXT:enzyme
 
 
 
@@ -2378,7 +2373,12 @@ CHEBI:GO:SO:EXT#:enzyme
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+
+
+
+
+
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 SO:0000159
@@ -2388,17 +2388,17 @@ SO:0000704
 
 SO:0000704
 SO:0000704
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_GO_SO_EXT:enzyme
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 SO:0001023
 
-CHEBI:SO:EXT#:serine|SO:0001444
-CHEBI:SO:EXT#:threonine|SO:0001445
+CHEBI_SO_EXT:serine|SO:0001444
+CHEBI_SO_EXT:threonine|SO:0001445
 SO:0000141
 
-CHEBI:SO:EXT#:nucleotide
+CHEBI_SO_EXT:nucleotide
 
 SO:0000704
 SO:0000440
@@ -2433,7 +2433,7 @@ SO:0001635
 SO:0000147
 SO:0000704
 SO:0000028
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 SO:0001023
 SO:0000704
@@ -2441,7 +2441,7 @@ SO:0000147
 
 SO:0000704
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000318
 SO:0000147
 
@@ -2479,18 +2479,18 @@ SO:0001023
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 SO:0000814
 SO:0001185
 SO:0001185
 SO:0001185
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-CHEBI:SO:EXT#:RNA|SO:0000356
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000704
 SO:0000409
 
@@ -2499,41 +2499,41 @@ SO:0000409
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0000781|SO:0000902
-SO:EXT#:wild:type:entity:or:quality
-SO:0000781|SO:0000902
-SO:0000781|SO:0000902
-
-
-
-
-
-
-
+SO_EXT:wild_type_entity_or_quality
 SO:0000781|SO:0000902
 SO:0000781|SO:0000902
+
+
+
+
+
+
+
 SO:0000781|SO:0000902
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0000781|SO:0000902
+SO:0000781|SO:0000902
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0001185
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 SO:0001148
 SO:0000704
 SO:0001148
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 SO:0000704
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0000781|SO:0000902
 SO:0000704
 SO:0001026
 SO:0001148
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000101
 SO:0000667|SO:0001522
 SO:0001148
@@ -2557,8 +2557,8 @@ SO:0000704
 SO:0000814
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -2575,11 +2575,11 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -2593,10 +2593,10 @@ SO:0000704
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -2612,25 +2612,22 @@ SO:0000357
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -2638,24 +2635,27 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -2663,19 +2663,19 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 SO:0000704
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 SO:0000704
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 SO:0001023
 SO:0000704
@@ -2689,12 +2689,12 @@ SO:0001148
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 SO:0001148
 SO:0001148
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
@@ -2705,18 +2705,18 @@ OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
 
 
 SO:0000806
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000781|SO:0000902
 SO:0001148
-SO:EXT#:transgenesis
+SO_EXT:transgenesis
 
 SO:0000806
 
 SO:0000781|SO:0000902
 SO:0000781|SO:0000902
 SO:0000806
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
@@ -2726,12 +2726,12 @@ SO:0000324
 SO:0000324
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
-CHEBI:SO:EXT#:DNA|SO:0000352
-GO:SO:EXT#:chromosome|SO:0000340
+CHEBI_SO_EXT:DNA|SO:0000352
+GO_SO_EXT:chromosome|SO:0000340
 
 SO:0000324
 SO:0000806
@@ -2746,7 +2746,7 @@ SO:0000806
 SO:0000781|SO:0000902
 SO:0000806
 
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000806
 
 SO:0000806
@@ -2755,7 +2755,7 @@ SO:0000806
 SO:0000804
 SO:0000141
 SO:0000001
-CHEBI:SO:EXT#:C:terminus:or:C:terminal:region
+CHEBI_SO_EXT:C_terminus_or_C_terminal_region
 SO:0000001
 
 SO:0000806
@@ -2766,7 +2766,7 @@ SO:0000806
 SO:0000781|SO:0000902
 SO:0000806
 SO:0000806
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000806
 SO:0000781|SO:0000902
 SO:0000781|SO:0000902
@@ -2784,9 +2784,9 @@ SO:0000781|SO:0000902
 SO:0000806
 SO:0000806
 SO:0000781|SO:0000902
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000806
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000806
 SO:0000167
 
@@ -2801,9 +2801,9 @@ SO:0000781|SO:0000902
 SO:0000806
 SO:0000781|SO:0000902
 SO:0000781|SO:0000902
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0000806
 SO:0000806
@@ -2814,25 +2814,25 @@ SO:0000781|SO:0000902
 SO:0000806
 SO:0000324
 SO:0001026
-GO:SO:EXT#:chromosome|SO:0000340
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000781|SO:0000902
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000781|SO:0000902
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0001026
-SO:0000316|SO:EXT#:coding:sequence
+SO:0000316|SO_EXT:coding_sequence
 SO:0000704
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000151
 SO:0000151
 SO:0000155
 SO:0000155
-CHEBI:SO:EXT#:oligonucleotide|SO:0000696
+CHEBI_SO_EXT:oligonucleotide|SO:0000696
 SO:0000001
 SO:0000806
 SO:0000151
@@ -2891,9 +2891,9 @@ SO:0000781|SO:0000902
 SO:0000704
 SO:0000781|SO:0000902
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 SO:0000781|SO:0000902
 SO:0000704
@@ -2906,7 +2906,7 @@ SO:0000357
 SO:0000001
 SO:0000781|SO:0000902
 SO:0000167
-SO:EXT#:coding:sequence
+SO_EXT:coding_sequence
 SO:0000704
 SO:0000357
 SO:0000001
@@ -2922,14 +2922,14 @@ SO:0000781|SO:0000902
 SO:0000704
 SO:0000781|SO:0000902
 SO:0000704
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000804
-SO:0000316|SO:EXT#:coding:sequence
+SO:0000316|SO_EXT:coding_sequence
 SO:0000141
 SO:0001528
 
 SO:0000155
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_GO_SO_EXT:enzyme
 SO:0000667|SO:0001522
 SO:0000243
 SO:0000155
@@ -2944,12 +2944,12 @@ SO:0000667|SO:0001522
 SO:0000440
 SO:0000667|SO:0001522
 SO:0000440
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_GO_SO_EXT:enzyme
 SO:0001644
 SO:0000440
 SO:0000987
 SO:0000167
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000151
 SO:0001635
 SO:0001528
@@ -2957,7 +2957,7 @@ SO:0000781|SO:0000902
 SO:0000987
 SO:0001644
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000151
 SO:0000151
 SO:0000151
@@ -2965,16 +2965,16 @@ SO:0000440
 SO:0000988
 SO:0000155
 SO:0000155
-SO:0000316|SO:EXT#:coding:sequence
+SO:0000316|SO_EXT:coding_sequence
 SO:0000440
 SO:0000781|SO:0000902
 SO:0000781|SO:0000902
 SO:0000781|SO:0000902
 SO:0000781|SO:0000902
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
-SO:0000991|SO:EXT#:genomic:DNA
-CHEBI:SO:EXT#:DNA|SO:0000352
+SO:0000991|SO_EXT:genomic_DNA
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000051
 SO:0000001
 SO:0001635
@@ -2984,19 +2984,19 @@ SO:0000051
 SO:0000704
 SO:0000051
 
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000112
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000112
 SO:0001023
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 SO:0000112
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 SO:0000006
 SO:0000667|SO:0001522
@@ -3006,7 +3006,7 @@ SO:0000704
 SO:0000147
 SO:0000346|SO:0000357
 
-SO:0000316|SO:EXT#:coding:sequence
+SO:0000316|SO_EXT:coding_sequence
 SO:0000243
 SO:0000243
 SO:0001635
@@ -3021,9 +3021,9 @@ SO:0000001
 
 SO:0000246
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0001633
-SO:0000316|SO:EXT#:coding:sequence
+SO:0000316|SO_EXT:coding_sequence
 SO:0000159
 SO:0000357
 SO:0000001
@@ -3037,7 +3037,7 @@ SO:0000440
 SO:0000781|SO:0000902
 SO:0000167
 SO:0000151
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0000781|SO:0000902
 SO:0000243
 SO:0000781|SO:0000902
@@ -3167,7 +3167,7 @@ SO:0000704
 SO:0000346
 SO:0000667|SO:0001522
 
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000051
 SO:0000051
 
@@ -3240,7 +3240,7 @@ SO:0000667|SO:0001522
 
 SO:0000188|SO:0001627
 SO:0000704
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000704
 
 
@@ -3249,10 +3249,10 @@ SO:0000704
 SO:0000188|SO:0001627
 SO:0000704
 SO:0000151
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000409
 SO:0000409
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000704
 SO:0000704
 SO:0000667|SO:0001522
@@ -3261,11 +3261,11 @@ SO:0000188|SO:0001627
 SO:0001026
 SO:0000667|SO:0001522
 SO:0000188|SO:0001627
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0001023
 SO:0000704
 SO:0001023
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000147
 SO:0000704
 SO:0000357
@@ -3279,7 +3279,7 @@ SO:0000357
 SO:0000346
 SO:0000359
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 
@@ -3292,7 +3292,7 @@ SO:0001023
 
 SO:0000051
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 SO:0001023
@@ -3302,43 +3302,43 @@ SO:0001023
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000359
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+CHEBI_SO_EXT:mRNA|SO:0000234
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0000756|SO:EXT#:cDNA
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0000756|SO_EXT:cDNA
 SO:0000051
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-CHEBI:SO:EXT#:RNA|SO:0000356
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+CHEBI_SO_EXT:RNA|SO:0000356
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:mRNA|SO:0000234
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+CHEBI_SO_EXT:mRNA|SO:0000234
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000704
 SO:0000667|SO:0001522
 SO:0000346
@@ -3350,9 +3350,9 @@ SO:0000359
 SO:0000781|SO:0000902
 SO:0000781|SO:0000902
 SO:0000167
-SO:0000412|SO:EXT#:polymorphism
+SO:0000412|SO_EXT:polymorphism
 SO:0000159
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000346
 SO:0000051
 
@@ -3376,7 +3376,7 @@ SO:0001023
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
@@ -3390,20 +3390,20 @@ SO:0000346
 SO:0000159
 SO:0000147
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
-SO:1000008|SO:EXT#:point:mutation:entity:or:process
-SO:0001568|SO:EXT#:alternative:splice:variant
+SO:1000008|SO_EXT:point_mutation_entity_or_process
+SO:0001568|SO_EXT:alternative_splice_variant
 SO:0000781|SO:0000902
-SO:0001568|SO:EXT#:alternative:splice:variant
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+SO:0001568|SO_EXT:alternative_splice_variant
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000667|SO:0001522
 SO:0000188|SO:0001627
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0001023
 SO:0001023
 SO:0000704
@@ -3413,43 +3413,43 @@ SO:0000667|SO:0001522
 SO:0001023
 SO:0000976
 SO:0000704
-GO:SO:EXT#:frameshift:entity:or:process|SO:0000865|SO:0001589
+GO_SO_EXT:frameshift_entity_or_process|SO:0000865|SO:0001589
 SO:0000704
 SO:0000704
 SO:0001023
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 SO:0000667|SO:0001522
 SO:0000188|SO:0001627
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000704
 
 
 SO:0000409
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:1000008|SO:EXT#:point:mutation:entity:or:process
-SO:1000008|SO:EXT#:point:mutation:entity:or:process
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:1000008|SO_EXT:point_mutation_entity_or_process
+SO:1000008|SO_EXT:point_mutation_entity_or_process
 SO:0000409
 
 
-SO:0001568|SO:EXT#:alternative:splice:variant
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-CHEBI:SO:EXT#:mRNA|SO:0000234
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+SO:0001568|SO_EXT:alternative_splice_variant
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+CHEBI_SO_EXT:mRNA|SO:0000234
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000781|SO:0000902
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000147
 SO:0000704
 SO:0000151
 SO:0001026
-CHEBI:SO:EXT#:oligonucleotide|SO:0000696
+CHEBI_SO_EXT:oligonucleotide|SO:0000696
 SO:0000346
 SO:0000667|SO:0001522
 
@@ -3466,47 +3466,47 @@ SO:0000704
 SO:0000667|SO:0001522
 
 SO:0000151
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000804
 SO:0000987
 SO:0000704
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000051
 SO:0000804
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000051
 
 SO:0001644
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_GO_SO_EXT:enzyme
 SO:0000151
 SO:0001023
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
 SO:0000151
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000051
 SO:0000051
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-CHEBI:SO:EXT#:lysine|SO:0001450
-CHEBI:SO:EXT#:peptide:or:peptide:region
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+CHEBI_SO_EXT:lysine|SO:0001450
+CHEBI_SO_EXT:peptide_or_peptide_region
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 SO:0000409
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0000704
 SO:0000704
 
@@ -3519,33 +3519,33 @@ SO:0000147
 SO:0000346
 SO:0000155
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000051
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0000756|SO:EXT#:cDNA
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0000756|SO_EXT:cDNA
 SO:0000051
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000409
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -3555,7 +3555,7 @@ SO:0000704
 
 
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000001
 
 SO:0000704
@@ -3572,9 +3572,9 @@ SO:0000806
 SO:0000236
 
 SO:0000159
-SO:EXT#:coding:sequence
+SO_EXT:coding_sequence
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 SO:0001023
@@ -3591,7 +3591,7 @@ SO:0001023
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -3599,7 +3599,7 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 SO:0000704
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -3608,7 +3608,7 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 SO:0000814
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -3616,7 +3616,7 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 SO:0001023
 SO:0001023
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -3634,7 +3634,7 @@ SO:0001023
 SO:0001023
 SO:0000243
 SO:0000243
-SO:EXT#:coding:sequence
+SO_EXT:coding_sequence
 SO:0001023
 SO:0000357
 
@@ -3647,9 +3647,9 @@ SO:0000167
 
 SO:0001023
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 SO:0001023
 SO:0000704
@@ -3661,12 +3661,12 @@ SO:0000704
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 
@@ -3681,7 +3681,7 @@ SO:0000814
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 SO:0001023
@@ -3704,7 +3704,7 @@ SO:0000814
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 SO:0001023
@@ -3715,14 +3715,14 @@ SO:0001023
 
 
 SO:0000853|SO:0000857
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000141
 
 SO:0000704
 SO:0000855|SO:0000858
 SO:0000704
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 SO:0000855|SO:0000858
 SO:0000704
@@ -3738,7 +3738,7 @@ SO:0000704
 
 SO:0001023
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 
@@ -3755,8 +3755,8 @@ SO:0000704
 SO:0000667|SO:0001522
 SO:0000147
 SO:0000806
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
 SO:0000001
 SO:0000001
@@ -3768,7 +3768,7 @@ SO:0000167
 
 SO:0000051
 SO:0000151
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000159
 
@@ -3788,21 +3788,21 @@ SO:0000987
 
 SO:0001023
 SO:0000159
-SO:EXT#:coding:sequence
+SO_EXT:coding_sequence
 SO:0001023
 SO:0000155
 SO:0001023
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000051
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000051
 
 
 SO:0000151
 SO:0000151
 SO:0000440
-CHEBI:SO:EXT#:oligonucleotide|SO:0000696
-CHEBI:SO:EXT#:oligonucleotide|SO:0000696
+CHEBI_SO_EXT:oligonucleotide|SO:0000696
+CHEBI_SO_EXT:oligonucleotide|SO:0000696
 SO:0001635
 SO:0000051
 
@@ -3811,26 +3811,26 @@ SO:0000051
 
 
 SO:0000051
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0000781|SO:0000902
 
@@ -3839,53 +3839,53 @@ SO:0000243
 SO:0000243
 SO:0001023
 SO:0000667|SO:0001522
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_GO_SO_EXT:enzyme
 SO:0000147
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000051
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000704
 SO:0000167
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
-SO:EXT#:coding:sequence
+SO_EXT:coding_sequence
 SO:0000243
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_GO_SO_EXT:enzyme
 
 SO:0000243
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000051
 
 
@@ -3893,11 +3893,11 @@ SO:0000051
 
 SO:0001023
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 
@@ -3905,17 +3905,17 @@ SO:0001023
 SO:0000814
 SO:0001023
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 
 
 
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 SO:0001026
 SO:0001024
@@ -3926,67 +3926,67 @@ SO:0000704
 SO:0000771
 SO:0000704
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000771
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0001024
 SO:0000771
 SO:0000704
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 SO:0000771
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0001026
-GO:SO:EXT#:chromosomal:part:or:position:or:region:or:site
+GO_SO_EXT:chromosomal_part_or_position_or_region_or_site
 SO:0000001|SO:0000856
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0000704
 SO:0000771
 SO:0000771
 SO:0000704
 SO:0000771
-CHEBI:SO:EXT#:DNA|SO:0000352
-SO:0000991|SO:EXT#:genomic:DNA
-SO:0000991|SO:EXT#:genomic:DNA
-CHEBI:SO:EXT#:DNA|SO:0000352
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+CHEBI_SO_EXT:DNA|SO:0000352
+SO:0000991|SO_EXT:genomic_DNA
+SO:0000991|SO_EXT:genomic_DNA
+CHEBI_SO_EXT:DNA|SO:0000352
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 SO:0001026
 
 SO:0000112
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000112
-SO:0000991|SO:EXT#:genomic:DNA
-CHEBI:SO:EXT#:DNA|SO:0000352
+SO:0000991|SO_EXT:genomic_DNA
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000006
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0001026
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0000771
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0001026
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000771
 
-GO:SO:EXT#:chromosome|SO:0000340
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0001024
 SO:0001024
 SO:0000771
@@ -3999,68 +3999,68 @@ SO:0000771
 SO:0000771
 SO:0001024
 SO:0000771
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0001026
-SO:0000771
-SO:0001026
-SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
 SO:0000771
 SO:0001026
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
+SO:0000771
+SO:0001026
+SO:0000771
+GO_SO_EXT:chromosome|SO:0000340
 
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
-GO:SO:EXT#:chromosome|SO:0000340
-
-SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
-GO:SO:EXT#:chromosome|SO:0000340
-SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
-SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
-GO:SO:EXT#:chromosome|SO:0000340
-SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
-GO:SO:EXT#:chromosome|SO:0000340
-SO:0001024
-SO:0001024
-SO:0001024
-SO:0000771
-SO:0000771
-
-
-SO:0001024
-SO:0001024
+GO_SO_EXT:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 
 SO:0000771
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+GO_SO_EXT:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
+SO:0000771
+GO_SO_EXT:chromosome|SO:0000340
+SO:0000771
+GO_SO_EXT:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
+SO:0000771
+GO_SO_EXT:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0001024
 SO:0001024
 SO:0001024
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+SO:0000771
+
+
+SO:0001024
+SO:0001024
+
+SO:0000771
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001024
+SO:0001024
+SO:0001024
+SO:0000771
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000771
 SO:0001024
 
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 
 SO:0001024
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000704
 SO:0000771
 SO:0000704
@@ -4071,21 +4071,21 @@ SO:0000704
 SO:0000704
 SO:0000704
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000771
 SO:0000771
 SO:0000771
@@ -4097,118 +4097,118 @@ SO:0000771
 SO:0001024
 SO:0001023
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0001024
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000771
 SO:0000704
 SO:0000704
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000704
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000704
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000704
 
 
 SO:0000704
 SO:0000704
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 
 SO:0000704
 SO:0000704
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000704
 SO:0000704
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:mRNA|SO:0000234
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000704
 SO:0000704
 
 
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
-GO:SO:EXT#:chromosome|SO:0000340
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0001024
 SO:0000771
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 SO:0000771
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000855|SO:0000858
 SO:0000856
 
 SO:0000853|SO:0000857
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000704
 SO:0000855|SO:0000858
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000856
 SO:0000001
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000855|SO:0000858
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 SO:0000855|SO:0000858
 SO:0000856
 SO:0000001
 SO:0000853|SO:0000857
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000855|SO:0000858
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000853|SO:0000857
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 SO:0000855|SO:0000858
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000704
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 
 SO:0000704
 SO:0000112
 SO:0000153
 SO:0000151
-SO:0000756|SO:EXT#:cDNA
-SO:0000756|SO:EXT#:cDNA
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
+SO:0000756|SO_EXT:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000112
 SO:0000151
 SO:0000440
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000704
 SO:0000153
 SO:0000151
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000155
 SO:0000324
 SO:0000159
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000667|SO:0001522
 SO:0000006
 SO:0000155
@@ -4217,58 +4217,58 @@ SO:0000324
 
 SO:0000667|SO:0001522
 SO:0000155
-CHEBI:SO:EXT#:histidine|SO:0001452
+CHEBI_SO_EXT:histidine|SO:0001452
 SO:0000324
-SO:0000316|SO:EXT#:coding:sequence
+SO:0000316|SO_EXT:coding_sequence
 SO:0000151
 
-SO:1000008|SO:EXT#:point:mutation:entity:or:process
+SO:1000008|SO_EXT:point_mutation_entity_or_process
 SO:0001148
-CHEBI:SO:EXT#:nucleotide
+CHEBI_SO_EXT:nucleotide
 SO:0000001
 
 SO:0000155
 SO:0000324
-SO:EXT#:coding:sequence
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+SO_EXT:coding_sequence
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000440
 SO:0000155
 SO:0000155
 SO:0000324
 
 SO:0000806
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000806
 
 SO:0000167
 SO:0000324
 SO:0000001
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-CHEBI:SO:EXT#:nucleotide
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+CHEBI_SO_EXT:nucleotide
 SO:0000001
 SO:0000001
 SO:0000704
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000704
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000147
 SO:0000704
 SO:0000853|SO:0000857
 SO:0000345
 SO:0000345
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000853|SO:0000857
 SO:0000153
 SO:0000151
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 
 SO:0000317
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000188|SO:0001627
 SO:0000001
 SO:0000153
 SO:0000151
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0001026
 SO:0000001
 SO:0000147
@@ -4280,75 +4280,75 @@ SO:0000195
 
 SO:0000147
 SO:0000001
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000001
 SO:0000704
 SO:0000153
 SO:0000151
 SO:0000345
 SO:0000853|SO:0000857
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000147
 SO:0000704
 SO:0000147
 
 
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000317
 SO:0000001|SO:0000343
 SO:0000147
 SO:0000001
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 
 SO:0000001
 SO:0000853|SO:0000857
 
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
+CHEBI_SO_EXT:amino_acid|SO:0001237
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
 
 
-CHEBI:SO:EXT#:valine|SO:0001436
-SO:0001568|SO:EXT#:alternative:splice:variant
+CHEBI_SO_EXT:valine|SO:0001436
+SO:0001568|SO_EXT:alternative_splice_variant
 SO:0000147
 SO:0000159
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000001
 SO:0000704
 SO:0000001
 SO:0000704
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000704
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000853|SO:0000857
 SO:0000855|SO:0000858
 SO:0000853|SO:0000857
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
-CHEBI:SO:EXT#:leucine|SO:0001437
+CHEBI_SO_EXT:leucine|SO:0001437
 
 
 
 SO:0000001
 SO:0000667|SO:0001522
-SO:0000705|SO:EXT#:tandem:repeat:unit:or:region
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-CHEBI:SO:EXT#:C:terminus:or:C:terminal:region
+SO:0000705|SO_EXT:tandem_repeat_unit_or_region
+CHEBI_SO_EXT:amino_acid|SO:0001237
+CHEBI_SO_EXT:C_terminus_or_C_terminal_region
 
 SO:0000324
 SO:0000324
-CHEBI:SO:EXT#:histidine|SO:0001452
+CHEBI_SO_EXT:histidine|SO:0001452
 SO:0000324
 SO:0000324
 SO:0000324
 SO:0000324
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000155
 SO:0000324
 SO:0000806
@@ -4359,19 +4359,19 @@ SO:0000324
 SO:0000159
 
 
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-CHEBI:SO:EXT#:C:terminus:or:C:terminal:region
+CHEBI_SO_EXT:amino_acid|SO:0001237
+CHEBI_SO_EXT:C_terminus_or_C_terminal_region
 SO:0000856
 
 
 SO:0000159
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
 SO:0001528
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
+CHEBI_SO_EXT:amino_acid|SO:0001237
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
 SO:0000324
-CHEBI:SO:EXT#:polypeptide|SO:0000104
+CHEBI_SO_EXT:polypeptide|SO:0000104
 SO:0000806
 SO:0000324
 SO:0000806
@@ -4381,47 +4381,47 @@ SO:0000141
 SO:0000324
 SO:0000806
 SO:0000806
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0001528
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000159
 
 SO:0000141
 SO:0000159
 
 SO:0000159
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
 SO:0000159
 SO:0000806
 SO:0000159
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-CHEBI:SO:EXT#:C:terminus:or:C:terminal:region
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
+CHEBI_SO_EXT:C_terminus_or_C_terminal_region
+CHEBI_SO_EXT:amino_acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000141
 SO:0000141
 SO:0001528
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-CHEBI:SO:EXT#:peptide:or:peptide:region
+CHEBI_SO_EXT:amino_acid|SO:0001237
+CHEBI_SO_EXT:peptide_or_peptide_region
 SO:0001528
 SO:0001528
 SO:0000141
 SO:0000141
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0001528
-CHEBI:SO:EXT#:alanine|SO:0001435
+CHEBI_SO_EXT:alanine|SO:0001435
 SO:1000002
 
 
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000141
 SO:0001528
 
 SO:0001528
 
-CHEBI:SO:EXT#:alanine|SO:0001435
+CHEBI_SO_EXT:alanine|SO:0001435
 SO:1000002
 SO:0000141
 SO:0001528
@@ -4429,21 +4429,21 @@ SO:0001528
 SO:0001528
 
 SO:0001528
-CHEBI:SO:EXT#:alanine|SO:0001435
+CHEBI_SO_EXT:alanine|SO:0001435
 SO:1000002
 SO:0001528
 SO:0001528
 SO:0001528
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0001528
 SO:0001528
 SO:0000141
 SO:0000141
 SO:0001528
 SO:0001528
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
 SO:0000806
 SO:0000141
 
@@ -4451,9 +4451,9 @@ SO:0000806
 SO:0000159
 
 SO:0000159
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
-CHEBI:SO:EXT#:C:terminus:or:C:terminal:region
+CHEBI_SO_EXT:C_terminus_or_C_terminal_region
 SO:0000856
 SO:0000001
 SO:0000324
@@ -4478,73 +4478,73 @@ SO:0000159
 
 
 SO:0000141
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000155
 SO:0000155
-SO:0000316|SO:EXT#:coding:sequence
+SO:0000316|SO_EXT:coding_sequence
 SO:0000188|SO:0001627
 SO:0000357
-SO:0000164|SO:EXT#:splice:acceptor
-SO:0000163|SO:EXT#:splice:donor
+SO:0000164|SO_EXT:splice_acceptor
+SO:0000163|SO_EXT:splice_donor
 SO:0000673
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_GO_SO_EXT:enzyme
 SO:0000673
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 SO:1000035
 SO:0000409
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-GO:SO:EXT#:post:translational:modification:entity:or:process|SO:0001089
+CHEBI_SO_EXT:mRNA|SO:0000234
+GO_SO_EXT:post_translational_modification_entity_or_process|SO:0001089
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000704
 
 SO:0000704
 SO:0000704
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000673
 SO:0000673
 SO:0000976
 SO:0001528
 SO:0000806
 SO:0000324
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:amino_acid|SO:0001237
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000856
 SO:0000673
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000853|SO:0000857
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000155
 SO:0000147
 SO:0000188|SO:0001627
 SO:0000704
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000001
 SO:0001026
 SO:0000147
@@ -4555,9 +4555,9 @@ SO:0000360
 SO:0000001
 SO:0000104
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
-CHEBI:SO:EXT#:leucine|SO:0001437
+CHEBI_SO_EXT:leucine|SO:0001437
 
 
 
@@ -4574,7 +4574,7 @@ SO:0000141
 SO:0000159
 
 SO:0001528
-CHEBI:SO:EXT#:alanine|SO:0001435
+CHEBI_SO_EXT:alanine|SO:0001435
 
 
 SO:0000001
@@ -4590,7 +4590,7 @@ SO:0000159
 SO:0000324
 SO:0000159
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000155
 SO:0000324
 SO:0000155
@@ -4602,8 +4602,8 @@ SO:0000704
 SO:0000704
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 SO:0000853|SO:0000857
@@ -4612,7 +4612,7 @@ SO:0000853|SO:0000857
 SO:0000704
 
 SO:0000704
-SO:1000008|SO:EXT#:point:mutation:entity:or:process
+SO:1000008|SO_EXT:point_mutation_entity_or_process
 SO:0000704
 
 SO:0001023
@@ -4653,7 +4653,7 @@ SO:0001023
 SO:0001023
 
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 
 SO:0000112
 SO:0000359
@@ -4682,21 +4682,21 @@ SO:0000704
 
 SO:0000112
 SO:0000001
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000051
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 SO:0000112
 SO:0000147
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000159
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 
@@ -4706,7 +4706,7 @@ SO:0000359
 SO:0000359
 SO:0001023
 SO:0001023
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 SO:0000359
 
@@ -4722,17 +4722,17 @@ SO:0001023
 SO:0000147
 SO:0000051
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 SO:0000359
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0000704
 
@@ -4746,25 +4746,25 @@ SO:0000704
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -4809,9 +4809,9 @@ SO:0000153
 SO:0000151
 SO:0001026
 SO:0000153
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000051
 SO:0001644
 
@@ -4850,11 +4850,11 @@ SO:0001644
 SO:0000359
 SO:0000804
 SO:0000987
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000151
 SO:0000112
 SO:0000151
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 SO:0000804
 SO:0000051
@@ -4893,7 +4893,7 @@ SO:0001023
 SO:0001023
 SO:0000359
 SO:0000359
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 SO:0000359
 
@@ -4918,9 +4918,9 @@ SO:0000112
 SO:0001030
 SO:0001031
 SO:0000132
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0000359
 
@@ -4938,61 +4938,61 @@ SO:0000051
 SO:0000147
 SO:0000112
 SO:0000440
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0000756|SO:EXT#:cDNA
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0000756|SO_EXT:cDNA
 SO:0000112
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000112
 SO:0000357
 SO:0000147
 
 
 SO:0000704
-SO:EXT#:alternative:splice:variant
+SO_EXT:alternative_splice_variant
 SO:0000141
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000147
 
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000167
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0001026
 SO:0000704
-SO:EXT#:alternative:splice:variant
+SO_EXT:alternative_splice_variant
 
 
 
 SO:0000704
 SO:0000167
 
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
 SO:0001023
-CHEBI:SO:EXT#:serine|SO:0001444
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
+CHEBI_SO_EXT:serine|SO:0001444
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
 
 SO:0000804
 
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
 SO:0000147
 SO:0000704
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 
 
 
 SO:0000001
 SO:0001026
-GO:SO:EXT#:chromosomal:part:or:position:or:region:or:site
+GO_SO_EXT:chromosomal_part_or_position_or_region_or_site
 SO:0000153
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000149
-GO:SO:EXT#:chromosomal:part:or:position:or:region:or:site
+GO_SO_EXT:chromosomal_part_or_position_or_region_or_site
 SO:0001026
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000147
 SO:0001026
 SO:0000001
@@ -5016,16 +5016,16 @@ SO:0001026
 SO:0000112
 
 
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000147
 SO:0000001
 SO:0000730
-SO:0000991|SO:EXT#:genomic:DNA
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:RNA|SO:0000356
+SO:0000991|SO_EXT:genomic_DNA
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000147
-SO:0000756|SO:EXT#:cDNA
-CHEBI:SO:EXT#:nonanucleotide
+SO:0000756|SO_EXT:cDNA
+CHEBI_SO_EXT:nonanucleotide
 SO:0000112
 SO:0000001
 
@@ -5041,15 +5041,15 @@ SO:0000001
 
 
 SO:0000006
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000001
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000147
 SO:0000147
 
 SO:0000704
 SO:0000112
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000006
 SO:0000112
 SO:0000151
@@ -5072,14 +5072,14 @@ SO:0000188|SO:0001627
 
 SO:0000188|SO:0001627
 
-GO:SO:EXT#:transcriptional:stop:entity:or:process
+GO_SO_EXT:transcriptional_stop_entity_or_process
 SO:0001644
 SO:0000781|SO:0000902
 SO:0001026
 SO:0000151
 SO:0000112
 SO:0000001
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 SO:0001026
@@ -5089,15 +5089,15 @@ SO:0001635
 SO:0000147
 SO:0000147
 SO:0000147
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000147
 
 
 SO:0000147
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000147
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000147
 SO:0000147
 SO:0000121
@@ -5107,15 +5107,15 @@ SO:0000077
 SO:0000112
 SO:0000167
 SO:0000147
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0001635
 SO:0000147
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000001
 SO:0000147
 SO:0000147
 SO:0000717
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 
 SO:0000147
 SO:0000147
@@ -5130,10 +5130,10 @@ SO:0000141
 
 
 SO:0000318
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000147
 SO:0000167
 
@@ -5142,9 +5142,9 @@ SO:0000167
 SO:0001026
 SO:0000147
 
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000001
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000001
 SO:0000853|SO:0000857
 SO:0000147
@@ -5152,8 +5152,8 @@ SO:0000730
 SO:0001026
 SO:0000001
 SO:0000730
-SO:0000991|SO:EXT#:genomic:DNA
-CHEBI:SO:EXT#:DNA|SO:0000352
+SO:0000991|SO_EXT:genomic_DNA
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000001
 
 SO:0000147
@@ -5180,32 +5180,32 @@ SO:0000147
 
 SO:0000147
 SO:0000159
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000147
 SO:0000147
 SO:0000001
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0001635
 SO:0001633
 SO:0000147
 SO:0000112
 SO:0000147
 
-SO:0000756|SO:EXT#:cDNA
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000756|SO_EXT:cDNA
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 
 SO:0001023
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 
 SO:0000147
 SO:0000147
 SO:0000147
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000159
 SO:0000147
 SO:0000318
@@ -5219,23 +5219,23 @@ SO:0001023
 
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 SO:0001026
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-CHEBI:SO:EXT#:mRNA|SO:0000234
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0001023
 
 
 SO:0000781|SO:0000902
 SO:0000141
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000141
 SO:0000704
 SO:0000704
 SO:0000704
-SO:EXT#:alternative:splice:variant
+SO_EXT:alternative_splice_variant
 SO:0000167
 SO:0001635
 SO:0000147
@@ -5245,8 +5245,8 @@ SO:0000704
 SO:0000704
 SO:0001026
 SO:0000856
-CHEBI:SO:EXT#:mRNA|SO:0000234
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+CHEBI_SO_EXT:mRNA|SO:0000234
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000141
 
@@ -5254,7 +5254,7 @@ SO:0000141
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000704
 
 
@@ -5272,8 +5272,8 @@ SO:0000001|SO:0100020
 
 
 SO:0000781|SO:0000902
-CHEBI:SO:EXT#:DNA|SO:0000352
-CHEBI:SO:EXT#:peptide:or:peptide:region
+CHEBI_SO_EXT:DNA|SO:0000352
+CHEBI_SO_EXT:peptide_or_peptide_region
 SO:0000147
 
 SO:0000147
@@ -5291,8 +5291,8 @@ SO:0000147
 SO:0000188|SO:0001627
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0000756|SO:EXT#:cDNA
+CHEBI_SO_EXT:mRNA|SO:0000234
+SO:0000756|SO_EXT:cDNA
 SO:0000112
 
 
@@ -5303,41 +5303,41 @@ SO:0000112
 
 SO:0000112
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
 SO:0000167
-CHEBI:SO:EXT#:proline|SO:0001439
+CHEBI_SO_EXT:proline|SO:0001439
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000167
-CHEBI:SO:EXT#:proline|SO:0001439
+CHEBI_SO_EXT:proline|SO:0001439
 
 SO:0000673
 
 
 SO:0000147
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000147
 
 SO:0000147
-GO:SO:EXT#:frameshift:entity:or:process|SO:0000865|SO:0001589
-SO:0000756|SO:EXT#:cDNA
-SO:0000147|SO:0000316|SO:EXT#:coding:sequence
+GO_SO_EXT:frameshift_entity_or_process|SO:0000865|SO:0001589
+SO:0000756|SO_EXT:cDNA
+SO:0000147|SO:0000316|SO_EXT:coding_sequence
 SO:0000147
 
-SO:0000756|SO:EXT#:cDNA
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+SO:0000756|SO_EXT:cDNA
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000001
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
 
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000141
 
-CHEBI:SO:EXT#:peptide:or:peptide:region
+CHEBI_SO_EXT:peptide_or_peptide_region
 SO:0000147
 
 SO:0000147
@@ -5352,7 +5352,7 @@ SO:0000318
 SO:0001026
 SO:0000188|SO:0001627
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 
 
@@ -5364,30 +5364,30 @@ CHEBI:SO:EXT#:DNA|SO:0000352
 SO:0001023
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000112
 SO:0000147
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000006
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000043
 SO:0000001
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000159
 SO:0000147
 SO:0000147
 SO:0000147
 
 SO:0000150
-GO:SO:EXT#:frameshift:entity:or:process|SO:0000865|SO:0001589
+GO_SO_EXT:frameshift_entity_or_process|SO:0000865|SO:0001589
 SO:0000318
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+CHEBI_SO_EXT:mRNA|SO:0000234
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0001023
 
 
@@ -5407,19 +5407,19 @@ SO:0000359
 SO:0000704
 
 SO:0000856
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
-CHEBI:SO:EXT#:cysteine|SO:0001447
-CHEBI:SO:EXT#:cysteine|SO:0001447
-CHEBI:SO:EXT#:cysteine|SO:0001447
-CHEBI:SO:EXT#:cysteine|SO:0001447
+CHEBI_SO_EXT:cysteine|SO:0001447
+CHEBI_SO_EXT:cysteine|SO:0001447
+CHEBI_SO_EXT:cysteine|SO:0001447
+CHEBI_SO_EXT:cysteine|SO:0001447
 
-CHEBI:SO:EXT#:nucleotide
+CHEBI_SO_EXT:nucleotide
 SO:0000001
 
 SO:0000814
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -5452,24 +5452,24 @@ SO:0000151
 
 
 
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000051
 SO:0001644
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-CHEBI:SO:EXT#:DNA|SO:0000352
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+CHEBI_SO_EXT:DNA|SO:0000352
 
-CHEBI:SO:EXT#:DNA|SO:0000352
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000346
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 SO:0000151
 
 SO:0001023
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 
 SO:0001023
@@ -5506,16 +5506,16 @@ SO:0000350
 
 
 SO:0000731
-CHEBI:SO:EXT#:base|SO:0001236
+CHEBI_SO_EXT:base|SO:0001236
 
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 
 SO:0001023
 
 SO:0001023
 SO:0000147
 SO:0000159
-SO:EXT#:sequence:deletion:entity:or:process
+SO_EXT:sequence_deletion_entity_or_process
 
 SO:0000159
 SO:0000147
@@ -5526,14 +5526,14 @@ SO:0000357
 SO:0000781|SO:0000902
 SO:0000412
 SO:0000051
-CHEBI:SO:EXT#:DNA|SO:0000352
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0000991|SO:EXT#:genomic:DNA
+CHEBI_SO_EXT:DNA|SO:0000352
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000112
 
 
 
-SO:EXT#:sequence:deletion:entity:or:process
+SO_EXT:sequence_deletion_entity_or_process
 
 SO:0001023
 
@@ -5568,25 +5568,25 @@ SO:0000781|SO:0000902
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000112
-CHEBI:SO:EXT#:nucleotide
+CHEBI_SO_EXT:nucleotide
 SO:0000001
 SO:0000159
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 
 
@@ -5599,12 +5599,12 @@ SO:0000704
 
 
 SO:0000167
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 
 SO:0000159
@@ -5612,10 +5612,10 @@ SO:0000159
 
 SO:0000159
 SO:0001023
-SO:EXT#:sequence:deletion:entity:or:process
+SO_EXT:sequence_deletion_entity_or_process
 
 
-SO:EXT#:sequence:deletion:entity:or:process
+SO_EXT:sequence_deletion_entity_or_process
 
 
 
@@ -5624,44 +5624,44 @@ SO:0000781|SO:0000902
 
 SO:0000346
 
-SO:EXT#:sequence:deletion:entity:or:process
-CHEBI:SO:EXT#:DNA|SO:0000352
+SO_EXT:sequence_deletion_entity_or_process
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000051
 
 
 
 SO:0001023
 
-SO:EXT#:sequence:deletion:entity:or:process
+SO_EXT:sequence_deletion_entity_or_process
 SO:0001023
 
-SO:EXT#:sequence:deletion:entity:or:process
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0000991|SO:EXT#:genomic:DNA
+SO_EXT:sequence_deletion_entity_or_process
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0000991|SO_EXT:genomic_DNA
 
 
 
-SO:EXT#:sequence:deletion:entity:or:process
-SO:EXT#:sequence:deletion:entity:or:process
-SO:EXT#:sequence:deletion:entity:or:process
+SO_EXT:sequence_deletion_entity_or_process
+SO_EXT:sequence_deletion_entity_or_process
+SO_EXT:sequence_deletion_entity_or_process
 
 
 
-SO:EXT#:sequence:deletion:entity:or:process
+SO_EXT:sequence_deletion_entity_or_process
 SO:0000781|SO:0000902
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 
-SO:EXT#:sequence:deletion:entity:or:process
+SO_EXT:sequence_deletion_entity_or_process
 
 
 
-SO:EXT#:sequence:deletion:entity:or:process
+SO_EXT:sequence_deletion_entity_or_process
 SO:0000155
 SO:0000153
 SO:0000153
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000155
 SO:0000151
 
@@ -5676,7 +5676,7 @@ SO:0000155
 SO:0000155
 
 SO:0000112
-CHEBI:SO:EXT#:oligonucleotide|SO:0000696
+CHEBI_SO_EXT:oligonucleotide|SO:0000696
 
 SO:0000001
 SO:0000188|SO:0001627
@@ -5689,7 +5689,7 @@ SO:0000346
 
 
 SO:0000112
-CHEBI:SO:EXT#:oligonucleotide|SO:0000696
+CHEBI_SO_EXT:oligonucleotide|SO:0000696
 
 
 SO:0000001
@@ -5700,7 +5700,7 @@ SO:0000188|SO:0001627
 SO:0001644
 SO:0000987
 SO:0001644
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 SO:0001023
 
@@ -5715,7 +5715,7 @@ SO:0000781|SO:0000902
 
 
 
-SO:EXT#:sequence:deletion:entity:or:process
+SO_EXT:sequence_deletion_entity_or_process
 
 
 
@@ -5724,10 +5724,10 @@ SO:0000781|SO:0000902
 
 SO:0000781|SO:0000902
 
-SO:EXT#:sequence:deletion:entity:or:process
+SO_EXT:sequence_deletion_entity_or_process
 SO:0000051
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-CHEBI:SO:EXT#:oligonucleotide|SO:0000696
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+CHEBI_SO_EXT:oligonucleotide|SO:0000696
 SO:0000112
 
 
@@ -5736,13 +5736,13 @@ SO:0000112
 
 SO:0001644
 SO:0000155
-CHEBI:SO:EXT#:peptide:or:peptide:region
+CHEBI_SO_EXT:peptide_or_peptide_region
 SO:0000155
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000159
 SO:0000704
 SO:0000159
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -5779,9 +5779,9 @@ SO:0000001
 SO:0000704
 SO:0000704
 SO:0000147
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000051
 SO:0000147
 SO:0000001
@@ -5802,65 +5802,65 @@ SO:0000147
 
 SO:0000804
 SO:0000159
-SO:0000147|SO:0000316|SO:EXT#:coding:sequence
+SO:0000147|SO:0000316|SO_EXT:coding_sequence
 SO:0000147
-CHEBI:SO:EXT#:DNA|SO:0000352
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:DNA|SO:0000352
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 SO:0000151
 SO:0000051
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 SO:0001023
 
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000051
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 SO:0001023
 
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000051
 
 SO:0001023
 SO:0000151
-CHEBI:SO:EXT#:DNA|SO:0000352
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:DNA|SO:0000352
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 SO:0000147
 SO:0000159
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000704
 SO:0000159
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0000704
 SO:0000159
 SO:0000147
 
 SO:0000112
 SO:0000001|SO:0000673
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000112
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000159
 SO:0000673
 SO:0000673
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
 
 
@@ -5872,59 +5872,59 @@ SO:0000673
 SO:0000112
 SO:0000001|SO:0000673
 SO:0000673
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -5946,18 +5946,18 @@ SO:0000704
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
@@ -5971,42 +5971,42 @@ OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
 SO:0000147
 
 SO:0000673
-CHEBI:SO:EXT#:polypeptide|SO:0000104
+CHEBI_SO_EXT:polypeptide|SO:0000104
 SO:0000315
 SO:0000323
 
-CHEBI:SO:EXT#:polypeptide|SO:0000104
-CHEBI:SO:EXT#:polypeptide|SO:0000104
+CHEBI_SO_EXT:polypeptide|SO:0000104
+CHEBI_SO_EXT:polypeptide|SO:0000104
 
 
 
 SO:0000141
-CHEBI:SO:EXT#:polypeptide|SO:0000104
-CHEBI:SO:EXT#:polypeptide|SO:0000104
+CHEBI_SO_EXT:polypeptide|SO:0000104
+CHEBI_SO_EXT:polypeptide|SO:0000104
 
 SO:0000704
 
-CHEBI:SO:EXT#:polypeptide|SO:0000104
-CHEBI:SO:EXT#:polypeptide|SO:0000104
+CHEBI_SO_EXT:polypeptide|SO:0000104
+CHEBI_SO_EXT:polypeptide|SO:0000104
 SO:0001644
 
-CHEBI:SO:EXT#:deoxyoligonucleotide
+CHEBI_SO_EXT:deoxyoligonucleotide
 SO:0000112
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000001
 SO:0000856
-SO:0000756|SO:EXT#:cDNA
-CHEBI:SO:EXT#:RNA|SO:0000356
+SO:0000756|SO_EXT:cDNA
+CHEBI_SO_EXT:RNA|SO:0000356
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000001
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000051
 SO:0001026
 SO:0001026
 SO:0000153
 SO:0000151
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 SO:0000153
 SO:0000151
@@ -6017,7 +6017,7 @@ SO:0000147
 SO:0000001
 SO:0000153
 SO:0000151
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0001026
 SO:0000149
 
@@ -6031,7 +6031,7 @@ SO:0000667|SO:0001522
 
 SO:0000359
 
-CHEBI:SO:EXT#:nucleotide
+CHEBI_SO_EXT:nucleotide
 
 SO:0000804
 SO:0001644
@@ -6041,14 +6041,14 @@ SO:0000151
 
 SO:0000151
 SO:0001023
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-CHEBI:SO:EXT#:DNA|SO:0000352
-CHEBI:SO:EXT#:DNA|SO:0000352
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+CHEBI_SO_EXT:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000112
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000112
 SO:0000077
 SO:0000112
@@ -6060,15 +6060,15 @@ SO:0000112
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 
 SO:0000151
 
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0000756|SO:EXT#:cDNA
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0000756|SO_EXT:cDNA
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000673
 SO:0000112
 SO:0000673
@@ -6099,9 +6099,9 @@ SO:0000132
 
 
 SO:0001644
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000001
 SO:0000153
 SO:0001644
@@ -6115,7 +6115,7 @@ SO:0000147
 SO:0000804
 SO:0000704
 SO:0000704
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000101
 SO:0000667|SO:0001522
 SO:0001148
@@ -6129,31 +6129,31 @@ SO:0000101
 SO:0000704
 SO:0000704
 SO:0000101
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000704
 SO:0000167
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
 
 SO:0000151
 SO:0000781|SO:0000902
 SO:0000781|SO:0000902
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
 SO:0000704
 SO:0000667|SO:0001522
 SO:0000440
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000704
 SO:0000704
 
 SO:0000704
 SO:0000440
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000704
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 SO:0000001
 SO:0000101
@@ -6165,17 +6165,17 @@ SO:0000101
 
 
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 SO:0000704
 SO:0000704
 SO:0000704
 
-SO:EXT#:gene:product
+SO_EXT:gene_product
 SO:0000101
 SO:0000101
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000704
 SO:0000101
 SO:0000667|SO:0001522
@@ -6186,18 +6186,18 @@ SO:0000101
 SO:0000440
 SO:0000440
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0000316|SO:EXT#:coding:sequence
+CHEBI_SO_EXT:mRNA|SO:0000234
+SO:0000316|SO_EXT:coding_sequence
 SO:0000704
 SO:0000781|SO:0000902
 SO:0000167
 SO:0000167
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000101
 SO:0000440
 SO:0000667|SO:0001522
 SO:0000704
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 
 SO:0000704
 SO:0000781|SO:0000902
@@ -6206,24 +6206,24 @@ SO:0000101
 SO:0000781|SO:0000902
 SO:0000814
 
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000101
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
 SO:0000781|SO:0000902
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 
-SO:EXT#:splice:acceptor
+SO_EXT:splice_acceptor
 SO:0000243
 SO:0000243
-SO:0000316|SO:EXT#:coding:sequence
+SO:0000316|SO_EXT:coding_sequence
 SO:0000246
 
-SO:EXT#:terminal:inverted:repeat:unit:or:region
+SO_EXT:terminal_inverted_repeat_unit_or_region
 SO:0000001
-SO:EXT#:terminal:inverted:repeat:unit:or:region
+SO_EXT:terminal_inverted_repeat_unit_or_region
 
 SO:0000319
 SO:0000001
@@ -6233,33 +6233,33 @@ SO:0000243
 SO:0000101
 SO:0000440
 
-SO:EXT#:splice:acceptor
+SO_EXT:splice_acceptor
 SO:0000704
-CHEBI:SO:EXT#:epitope|SO:0001018
+CHEBI_SO_EXT:epitope|SO:0001018
 SO:0000324
 SO:0000101
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000704
 SO:0000667|SO:0001522
 SO:0000704
 SO:0000236
 SO:0000856
 SO:0000147
-CHEBI:SO:EXT#:epitope|SO:0001018
+CHEBI_SO_EXT:epitope|SO:0001018
 
-CHEBI:SO:EXT#:peptide:or:peptide:region
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+CHEBI_SO_EXT:peptide_or_peptide_region
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000704
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000101
 SO:0000188|SO:0001627
 SO:0000704
 SO:0001635
 SO:0000147
 SO:0000243
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000704
-CHEBI:SO:EXT#:peptide:or:peptide:region
+CHEBI_SO_EXT:peptide_or_peptide_region
 
 SO:0000319
 SO:0001635
@@ -6267,15 +6267,15 @@ SO:0000243
 SO:0000243
 SO:0000146|SO:0000581
 SO:0000236
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000440
 SO:0000667|SO:0001522
 SO:0000704
 
 SO:0000704
-SO:EXT#:splice:acceptor
+SO_EXT:splice_acceptor
 SO:0000781|SO:0000902
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000704
 
 SO:0000151
@@ -6284,20 +6284,20 @@ SO:0000440
 SO:0000781|SO:0000902
 SO:0000101
 SO:0000155|SO:0000440
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 
 SO:0001026
 
 SO:0000101
 SO:0000440
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 
 SO:0000101
 SO:0000704
 SO:0000151
 SO:0000101
 
-SO:EXT#:splice:acceptor
+SO_EXT:splice_acceptor
 SO:0000243
 
 SO:0000781|SO:0000902
@@ -6306,29 +6306,29 @@ SO:0000151
 SO:0000151
 SO:0000151
 SO:0000151
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0001635
 SO:0000147
 SO:0000704
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000112
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
-CHEBI:SO:EXT#:mRNA|SO:0000234
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000151
 SO:0000001
 SO:0000324
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000704
 SO:0000151
 SO:0001635
 SO:0000147
 SO:0000704
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
 SO:0000704
 SO:0000781|SO:0000902
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000781|SO:0000902
 SO:0000101
 SO:0000440
@@ -6336,24 +6336,24 @@ SO:0000781|SO:0000902
 SO:0001026
 
 SO:0000781|SO:0000902
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000101
 SO:0000781|SO:0000902
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000101
-SO:0000781|SO:0000902
-SO:0000101
-
 SO:0000781|SO:0000902
 SO:0000101
 
+SO:0000781|SO:0000902
+SO:0000101
+
 
 SO:0000101
 SO:0000781|SO:0000902
 SO:0000781|SO:0000902
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
-CHEBI:SO:EXT#:DNA|SO:0000352
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000101
 SO:0000667|SO:0001522
 SO:0000667|SO:0001522
@@ -6373,12 +6373,12 @@ SO:0001026
 
 SO:0000667|SO:0001522
 SO:0000667|SO:0001522
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000667|SO:0001522
 SO:0000101
 
-GO:SO:EXT#:chromosomal:part:or:position:or:region:or:site
-CHEBI:SO:EXT#:DNA|SO:0000352
+GO_SO_EXT:chromosomal_part_or_position_or_region_or_site
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000028
 SO:0000985
 SO:0000667|SO:0001522
@@ -6401,12 +6401,12 @@ SO:0000667|SO:0001522
 SO:0000346
 SO:0000440
 SO:0000357
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
 
 
 SO:0000667|SO:0001522
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000704
 SO:0000814
 
@@ -6426,13 +6426,13 @@ SO:0000101
 SO:0000667|SO:0001522
 SO:0000151
 SO:0000101
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000001
-GO:SO:EXT#:chromosomal:part:or:position:or:region:or:site
+GO_SO_EXT:chromosomal_part_or_position_or_region_or_site
 
 SO:0001026
 
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000667|SO:0001522
 SO:0000101
 SO:0000667|SO:0001522
@@ -6442,63 +6442,63 @@ SO:0000704
 SO:0000112
 SO:0000101
 SO:0000667|SO:0001522
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
 SO:0000704
 SO:0000667|SO:0001522
 SO:0000704
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000667|SO:0001522
 SO:0000188|SO:0001627
 SO:0000704
 SO:0000667|SO:0001522
 SO:0000188|SO:0001627
 SO:0000996
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000112
 SO:0000147
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000243
 SO:0000001
 
 SO:0000147
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000243
 SO:0000673
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000667|SO:0001522
 SO:0000806
 SO:0000673
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-CHEBI:SO:EXT#:mRNA|SO:0000234
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000806
 SO:0000673
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000806
 SO:0000673
-SO:EXT#:wild:type:entity:or:quality
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:EXT#:splice:acceptor
+SO_EXT:wild_type_entity_or_quality
+CHEBI_SO_EXT:RNA|SO:0000356
+SO_EXT:splice_acceptor
 
 SO:0000704
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0001635
 SO:0000147
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000667|SO:0001522
 SO:0000673
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000667|SO:0001522
 SO:0000667|SO:0001522
-SO:EXT#:splice:acceptor
+SO_EXT:splice_acceptor
 
-CHEBI:SO:EXT#:peptide:or:peptide:region
-CHEBI:SO:EXT#:peptide:or:peptide:region
+CHEBI_SO_EXT:peptide_or_peptide_region
+CHEBI_SO_EXT:peptide_or_peptide_region
 SO:0000167
 SO:0000781|SO:0000902
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
 SO:0000167
 SO:0000781|SO:0000902
@@ -6528,8 +6528,8 @@ SO:0000667|SO:0001522
 
 SO:0000781|SO:0000902
 SO:0000667|SO:0001522
-SO:EXT#:splice:acceptor
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:splice_acceptor
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 
 SO:0000781|SO:0000902
 
@@ -6539,7 +6539,7 @@ SO:0000781|SO:0000902
 
 SO:0000667|SO:0001522
 
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000667|SO:0001522
 SO:0000704
 
@@ -6554,8 +6554,8 @@ SO:0000147
 SO:0000357
 SO:0000667|SO:0001522
 SO:0000673
-SO:0001568|SO:EXT#:alternative:splice:variant
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0001568|SO_EXT:alternative_splice_variant
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000667|SO:0001522
 SO:0000704
 SO:0000243
@@ -6564,21 +6564,21 @@ SO:0000667|SO:0001522
 SO:0000704
 SO:0000667|SO:0001522
 SO:0000101
-GO:SO:EXT#:chromosome|SO:0000340
-GO:SO:EXT#:chromosome|SO:0000340
-GO:SO:EXT#:chromosome|SO:0000340
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000667|SO:0001522
-GO:SO:EXT#:chromosome|SO:0000340
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+GO_SO_EXT:chromosome|SO:0000340
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000101
 
 SO:0000667|SO:0001522
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000667|SO:0001522
 SO:0000151
 SO:0000001
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 
 SO:0000667|SO:0001522
 
@@ -6586,18 +6586,18 @@ SO:0000667|SO:0001522
 SO:0000146|SO:0000581
 SO:0000243
 SO:0000704
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 
 SO:0000101
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
 SO:0000704
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000667|SO:0001522
 SO:0000704
 SO:0000704
 SO:0000781|SO:0000902
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000101
 SO:0000667|SO:0001522
 SO:0000704
@@ -6618,7 +6618,7 @@ SO:0001026
 
 
 SO:0000101
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
 SO:0000704
 SO:0000440
@@ -6633,23 +6633,23 @@ SO:0000667|SO:0001522
 
 SO:0000704
 SO:0000440
-SO:EXT#:splice:acceptor
+SO_EXT:splice_acceptor
 SO:0000704
 SO:0000001
 SO:0000246
 SO:0000001
 SO:0000155
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
 SO:0000704
 SO:0000440
 SO:0000704
 SO:0000243
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
 SO:0000243
-CHEBI:SO:EXT#:nucleotide
+CHEBI_SO_EXT:nucleotide
 SO:0000243
 SO:0000704
 SO:0000243
@@ -6657,50 +6657,50 @@ SO:0000667|SO:0001522
 SO:0000704
 SO:0000704
 SO:0000704
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000667|SO:0001522
 SO:0000667|SO:0001522
 SO:0000101
 SO:0000667|SO:0001522
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 
 SO:0001026
 
 
-GO:SO:EXT#:chromosomal:part:or:position:or:region:or:site
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+GO_SO_EXT:chromosomal_part_or_position_or_region_or_site
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000667|SO:0001522
 SO:0000667|SO:0001522
 SO:0000101
 SO:0000101
 SO:0000987
 SO:0000155
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000101
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0001026
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000781|SO:0000902
 SO:0000667|SO:0001522
 SO:0001026
 SO:0000018
 SO:0000667|SO:0001522
-SO:EXT#:enhancer:trap:or:trap:construct
+SO_EXT:enhancer_trap_or_trap_construct
 SO:0000704
 SO:0000781|SO:0000902
 SO:0000165
 SO:0000167
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000667|SO:0001522
 SO:0000781|SO:0000902
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000101
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000167
 SO:0000781|SO:0000902
 SO:0000704
@@ -6708,28 +6708,28 @@ SO:0000704
 SO:0000101
 SO:0000440
 SO:0001026
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000781|SO:0000902
 SO:0000804
 SO:0000704
 SO:0000781|SO:0000902
 SO:0000151
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000101
 SO:0000440
 SO:0000112
-CHEBI:SO:EXT#:oligonucleotide|SO:0000696
+CHEBI_SO_EXT:oligonucleotide|SO:0000696
 SO:0000001
 SO:0000151
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
 SO:0000147
 SO:0000147
 SO:0000319
 SO:0000717
-CHEBI:SO:EXT#:oligonucleotide|SO:0000696
-CHEBI:SO:EXT#:DNA|SO:0000352
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:oligonucleotide|SO:0000696
+CHEBI_SO_EXT:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000155
 SO:0000112
 
@@ -6740,10 +6740,10 @@ SO:0000155
 SO:0000001|SO:0000068
 SO:0000155
 SO:0000346
-CHEBI:SO:EXT#:oligonucleotide|SO:0000696
+CHEBI_SO_EXT:oligonucleotide|SO:0000696
 
 SO:0000001
-CHEBI:SO:EXT#:base|SO:0001236
+CHEBI_SO_EXT:base|SO:0001236
 SO:0000151
 SO:0000001
 
@@ -6752,9 +6752,9 @@ SO:0000101
 SO:0000440
 SO:0000151
 
-CHEBI:SO:EXT#:oligonucleotide|SO:0000696
-SO:EXT#:splice:acceptor
-CHEBI:SO:EXT#:epitope|SO:0001018
+CHEBI_SO_EXT:oligonucleotide|SO:0000696
+SO_EXT:splice_acceptor
+CHEBI_SO_EXT:epitope|SO:0001018
 SO:0000324
 SO:0000151
 
@@ -6762,7 +6762,7 @@ SO:0000151
 
 SO:0000141|SO:0000673
 SO:0000704
-CHEBI:SO:EXT#:oligonucleotide|SO:0000696
+CHEBI_SO_EXT:oligonucleotide|SO:0000696
 SO:0000151
 
 
@@ -6770,14 +6770,14 @@ SO:0000001
 SO:0000755
 SO:0001633
 SO:0000246
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000346
-CHEBI:SO:EXT#:oligonucleotide|SO:0000696
+CHEBI_SO_EXT:oligonucleotide|SO:0000696
 
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000155
 SO:0000151
 SO:0000151
@@ -6786,16 +6786,16 @@ SO:0000151
 SO:0000151
 SO:0000151
 SO:0000151
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000112
-CHEBI:SO:EXT#:oligonucleotide|SO:0000696
+CHEBI_SO_EXT:oligonucleotide|SO:0000696
 SO:0000001
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000112
 SO:0000112
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000112
 
 SO:0000155
@@ -6809,9 +6809,9 @@ SO:0000781|SO:0000902
 
 SO:0000155
 SO:0000153
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000051
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 
 SO:0000236
 SO:0000051
@@ -6823,25 +6823,25 @@ SO:0001026
 SO:0001026
 SO:0000781|SO:0000902
 SO:0000440
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000781|SO:0000902
 SO:0000781|SO:0000902
 SO:0000814
 SO:0000667|SO:0001522
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000667|SO:0001522
 SO:0000781|SO:0000902
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000151
 SO:0000001
 SO:0000704
 SO:0000704
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000151
 SO:0000001
 SO:0000324
 SO:0000611
-SO:EXT#:splice:acceptor
+SO_EXT:splice_acceptor
 SO:0000704
 SO:0000001
 
@@ -6851,22 +6851,22 @@ SO:0000704
 SO:0000667|SO:0001522
 SO:0001026
 SO:0000667|SO:0001522
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000996
 SO:0000667|SO:0001522
 SO:0000667|SO:0001522
 SO:0000151
 SO:0000667|SO:0001522
 SO:0000781|SO:0000902
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 
-SO:EXT#:transgenesis
+SO_EXT:transgenesis
 SO:0000112
 SO:0000001
 SO:0000101
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
 SO:0000440
 
@@ -6876,18 +6876,18 @@ SO:0000704
 SO:0000667|SO:0001522
 SO:0000704
 SO:0000101
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000440
 SO:0000667|SO:0001522
 SO:0000704
 SO:0000243
 SO:0000001
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 SO:0000246
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000146|SO:0000581
-CHEBI:SO:EXT#:peptide:or:peptide:region
+CHEBI_SO_EXT:peptide_or_peptide_region
 
 SO:0001635
 SO:0000147
@@ -6896,7 +6896,7 @@ SO:0000440
 SO:0000155
 SO:0000151
 SO:0000151
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000151
 SO:0000151
 SO:0000814
@@ -6910,7 +6910,7 @@ SO:0000667|SO:0001522
 
 SO:0000667|SO:0001522
 SO:0000101
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000667|SO:0001522
 SO:0000704
 SO:0000667|SO:0001522
@@ -6919,9 +6919,9 @@ SO:0000704
 SO:0000147
 SO:0000667|SO:0001522
 SO:0000243
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000704
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -6929,7 +6929,7 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 SO:0000667|SO:0001522
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000667|SO:0001522
 
 SO:0000704
@@ -6943,7 +6943,7 @@ SO:0000243
 
 SO:0000781|SO:0000902
 
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000781|SO:0000902
 
 SO:0000781|SO:0000902
@@ -6951,7 +6951,7 @@ SO:0000028
 SO:0000667|SO:0001522
 SO:0000112
 SO:0000667|SO:0001522
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 SO:0000101
 SO:0000101
 
@@ -6964,10 +6964,10 @@ SO:0000667|SO:0001522
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
-CHEBI:SO:EXT#:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
 
 SO:0000704
 
@@ -7002,7 +7002,7 @@ SO:0000704
 
 
 SO:0000704
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 
 SO:0000806
 SO:0000167
@@ -7029,7 +7029,7 @@ SO:0000167
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -7040,7 +7040,7 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 SO:0001023
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -7050,27 +7050,17 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-
-
-
-
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -7078,13 +7068,18 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -7096,34 +7091,39 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 SO:0001023
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0000814
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000814
 SO:0000781|SO:0000902
 
 
 SO:0000781|SO:0000902
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 SO:0000781|SO:0000902
@@ -7148,14 +7148,14 @@ SO:0000704
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -7173,7 +7173,7 @@ SO:0000704
 
 
 SO:0000814
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000704
 
@@ -7183,19 +7183,19 @@ SO:0000151
 
 
 
-CHEBI:SO:EXT#:tyrosine|SO:0001446
-CHEBI:SO:EXT#:tyrosine|SO:0001446
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:tyrosine|SO:0001446
+CHEBI_SO_EXT:tyrosine|SO:0001446
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000804
-SO:1000008|SO:EXT#:point:mutation:entity:or:process
+SO:1000008|SO_EXT:point_mutation_entity_or_process
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000814
 
 SO:0000781|SO:0000902
 SO:0001023
 SO:0000667|SO:0001522
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 
 SO:0000147
 SO:0000318
@@ -7218,7 +7218,7 @@ SO:0001023
 SO:0000440
 SO:0000151
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000781|SO:0000902
 SO:0000781|SO:0000902
 SO:0000781|SO:0000902
@@ -7229,10 +7229,10 @@ SO:0000440
 SO:0000051
 SO:0000440
 SO:0000804
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -7242,7 +7242,7 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 SO:0001023
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000051
 SO:0000704
 
@@ -7254,7 +7254,7 @@ SO:0000704
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -7264,15 +7264,15 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 
 
 
 
-CHEBI:SO:EXT#:DNA|SO:0000352
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:DNA|SO:0000352
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -7305,9 +7305,9 @@ SO:0000159
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000051
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 SO:0000051
@@ -7317,43 +7317,43 @@ SO:0001023
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 SO:0000155
 SO:0000804
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000155
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000814
 
 
@@ -7373,21 +7373,21 @@ SO:0000781|SO:0000902
 
 
 SO:0000781|SO:0000902
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
-SO:0001583|SO:EXT#:missense:quality:or:entity
+SO:0001583|SO_EXT:missense_quality_or_entity
 
 SO:0000141
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000704
 
 SO:0000704
@@ -7396,20 +7396,20 @@ SO:0000704
 SO:0000704
 
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000704
 
 SO:0001148
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 SO:0001026
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000151
 
@@ -7418,53 +7418,53 @@ SO:0001148
 
 
 SO:0000104
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 SO:0000151
 
 SO:0001148
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0001026
-SO:0000001|SO:EXT#:polymorphism
+SO:0000001|SO_EXT:polymorphism
 
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 
-SO:0000289|SO:EXT#:microsatellite:unit:or:region
+SO:0000289|SO_EXT:microsatellite_unit_or_region
 
 SO:0000001
-SO:EXT#:coding:sequence
+SO_EXT:coding_sequence
 SO:1000017
 
 SO:0000104
 SO:0000001
 
-SO:0000316|SO:EXT#:coding:sequence
+SO:0000316|SO_EXT:coding_sequence
 
 
 SO:0000704
 
 SO:0000001
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:1000017
 
 
-CHEBI:SO:EXT#:peptide:or:peptide:region
+CHEBI_SO_EXT:peptide_or_peptide_region
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
-CHEBI:SO:EXT#:proline|SO:0001439
+CHEBI_SO_EXT:proline|SO:0001439
 
 
-CHEBI:SO:EXT#:C:terminus:or:C:terminal:region
-CHEBI:SO:EXT#:peptide:or:peptide:region
+CHEBI_SO_EXT:C_terminus_or_C_terminal_region
+CHEBI_SO_EXT:peptide_or_peptide_region
 SO:0000001
 
 SO:0000856
 SO:0000855|SO:0000858
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 SO:0000159
 
@@ -7475,7 +7475,7 @@ SO:0000673
 
 
 SO:0000141
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 
 
@@ -7484,17 +7484,17 @@ CHEBI:SO:EXT#:DNA|SO:0000352
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -7507,17 +7507,17 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -7534,7 +7534,7 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -7544,29 +7544,29 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -7576,11 +7576,11 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
@@ -7589,7 +7589,7 @@ OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
@@ -7600,9 +7600,9 @@ SO:1000036
 
 
 SO:0000993
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000001
-CHEBI:SO:EXT#:proline|SO:0001439
+CHEBI_SO_EXT:proline|SO:0001439
 
 SO:0000167
 
@@ -7610,12 +7610,12 @@ SO:0000167
 
 
 SO:0001148
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0001117
 
 
@@ -7627,22 +7627,22 @@ SO:0001023
 SO:0000673
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
 
 SO:0000704
 SO:0000704
-CHEBI:SO:EXT#:methionine|SO:0001442
-CHEBI:SO:EXT#:leucine|SO:0001437
-CHEBI:SO:EXT#:phenylalanine|SO:0001441
+CHEBI_SO_EXT:methionine|SO:0001442
+CHEBI_SO_EXT:leucine|SO:0001437
+CHEBI_SO_EXT:phenylalanine|SO:0001441
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -7651,31 +7651,29 @@ SO:0000141
 
 SO:0000704
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000704
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0001148
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0001026
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-SO:0000289|SO:EXT#:microsatellite:unit:or:region
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+SO:0000289|SO_EXT:microsatellite_unit_or_region
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-
-
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -7709,18 +7707,15 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-CHEBI:SO:EXT#:C:terminus:or:C:terminal:region
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-
-
+CHEBI_SO_EXT:C_terminus_or_C_terminal_region
 
 
 
@@ -7732,7 +7727,12 @@ CHEBI:SO:EXT#:C:terminus:or:C:terminal:region
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+
+
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000856
 
 SO:0000704
@@ -7740,11 +7740,11 @@ SO:0000781|SO:0000902
 SO:0000814
 SO:0000814
 SO:0001185
-CHEBI:SO:EXT#:dinucleotide
+CHEBI_SO_EXT:dinucleotide
 SO:0000856
-GO:SO:EXT#:telomere:or:telomeric:region:or:telomeric:orientation
+GO_SO_EXT:telomere_or_telomeric_region_or_telomeric_orientation
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 
 SO:0000856
@@ -7760,7 +7760,7 @@ SO:0000147
 SO:0000704
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000704
 SO:0000112
 SO:0000112
@@ -7781,14 +7781,14 @@ SO:0000147
 SO:0000856
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0001023
 SO:0001023
 SO:0000781|SO:0000902
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0000781|SO:0000902
 SO:0000159
 SO:0000147
@@ -7796,7 +7796,7 @@ SO:0001023
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000159
 
 
@@ -7809,43 +7809,43 @@ SO:0000159
 SO:0000147
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000985
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000985
-GO:SO:EXT#:chromosome|SO:0000340
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-CHEBI:SO:EXT#:DNA|SO:0000352
+GO_SO_EXT:chromosome|SO:0000340
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+CHEBI_SO_EXT:DNA|SO:0000352
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000814
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000814
 
-CHEBI:SO:EXT#:deoxyribonucleotide
+CHEBI_SO_EXT:deoxyribonucleotide
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000814
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 SO:0000704
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000704
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0000704
 SO:0000856
@@ -7857,8 +7857,8 @@ SO:0000704
 SO:0000167
 SO:0000704
 SO:0000781|SO:0000902
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000814
 SO:0000814
@@ -7867,84 +7867,84 @@ SO:0000814
 SO:0001185
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 
 SO:0001023
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-CHEBI:SO:EXT#:deoxyribonucleotide
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+CHEBI_SO_EXT:deoxyribonucleotide
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 SO:0001023
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 SO:0000814
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0001023
 
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0001023
 SO:0000704
 
 SO:0001023
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000704
 
@@ -7955,15 +7955,15 @@ SO:0001023
 SO:0000856
 
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 SO:0000704
 
 
-SO:EXT#:gene:trap:or:trap:construct|SO:EXT#:gene:trapping:process
+SO_EXT:gene_trap_or_trap_construct|SO_EXT:gene_trapping_process
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0001023
 
@@ -7971,34 +7971,34 @@ SO:0000141
 SO:0000319
 SO:0001023
 
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
 SO:0001023
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000646
 SO:0000001
 SO:0000646
 SO:0000646
 SO:0000001
 SO:0000646
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000646
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000646
 SO:0000141
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000236
 SO:0000646
 SO:0000704
 SO:0000704
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000704
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000704
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000646
 SO:0000646
 SO:0000646
@@ -8013,40 +8013,40 @@ SO:0000704
 
 SO:0000236
 
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000814
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 
 SO:0000141
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000147
 SO:0000646
 SO:0000646
 SO:0000001
 SO:0000704
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000673
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
 SO:0000646
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000646
 SO:0000814
-SO:0000756|SO:EXT#:cDNA
-CHEBI:SO:EXT#:mRNA|SO:0000234
+SO:0000756|SO_EXT:cDNA
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000147|SO:0000699
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000673
-SO:0000756|SO:EXT#:cDNA
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000673
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0000756|SO:EXT#:cDNA
+CHEBI_SO_EXT:mRNA|SO:0000234
+SO:0000756|SO_EXT:cDNA
 
 SO:0000673
 SO:0000646
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 
 SO:0001023
 SO:0000704
@@ -8058,66 +8058,66 @@ SO:0000704
 
 
 SO:0000141
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0001023
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+CHEBI_SO_EXT:mRNA|SO:0000234
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0000319
 SO:0001023
 SO:0000704
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+CHEBI_SO_EXT:mRNA|SO:0000234
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 SO:0000673
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000646
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000704
 SO:0001026
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000001
-CHEBI:SO:EXT#:leucine|SO:0001437
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
+CHEBI_SO_EXT:leucine|SO:0001437
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
 SO:0000806
-CHEBI:SO:EXT#:C:terminus:or:C:terminal:region
+CHEBI_SO_EXT:C_terminus_or_C_terminal_region
 SO:0000141
 
 SO:0000704
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000646
 SO:0000646
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000646
 SO:0000646
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000646
 SO:0000814
 SO:0000646
@@ -8128,32 +8128,32 @@ SO:0000646
 
 
 SO:0001023
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000319
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
 
 
 SO:0001023
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000814
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 
 SO:0000141
-CHEBI:SO:EXT#:amino:acid|SO:0001237
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
-SO:0001587|SO:EXT#:nonsense:quality:or:entity
-GO:SO:EXT#:frameshift:entity:or:process|SO:0000865|SO:0001589
+CHEBI_SO_EXT:amino_acid|SO:0001237
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
+SO:0001587|SO_EXT:nonsense_quality_or_entity
+GO_SO_EXT:frameshift_entity_or_process|SO:0000865|SO:0001589
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0001023
 
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
 
 
 SO:0000147
@@ -8161,42 +8161,42 @@ SO:0001023
 
 SO:0001023
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000704
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 SO:0001148
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0001023
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-CHEBI:SO:EXT#:glutamine|SO:0001448
-CHEBI:SO:EXT#:RNA|SO:0000356
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+CHEBI_SO_EXT:glutamine|SO:0001448
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000646
 SO:0000646
 SO:0000001
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000804
-SO:0000756|SO:EXT#:cDNA
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:N:terminus:or:N:terminal:region
+SO:0000756|SO_EXT:cDNA
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:N_terminus_or_N_terminal_region
 
 SO:0000151
 SO:0000440
 
 SO:0000155
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
 SO:0000646
 SO:0000646
@@ -8204,10 +8204,10 @@ SO:0000646
 SO:0000704
 SO:0000646
 SO:0000646
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0000756|SO:EXT#:cDNA
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0000756|SO_EXT:cDNA
+CHEBI_SO_EXT:RNA|SO:0000356
 
 SO:0000704
 SO:0000704
@@ -8217,27 +8217,27 @@ SO:0000646
 SO:0000646
 SO:0000051
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-CHEBI:SO:EXT#:peptide:or:peptide:region
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+CHEBI_SO_EXT:peptide_or_peptide_region
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000051
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0001023
 SO:0001023
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 SO:0001026
 SO:0001248
 SO:0000704
 
-SO:0001587|SO:EXT#:nonsense:quality:or:entity
+SO:0001587|SO_EXT:nonsense_quality_or_entity
 
 SO:0000147
 SO:0001026
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0001026
 
 
@@ -8248,9 +8248,9 @@ SO:0000704
 SO:0000704
 SO:0000646
 SO:0000646
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000646
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000646
 SO:0000646
 SO:0000646
@@ -8258,8 +8258,8 @@ SO:0000051
 SO:0000147|SO:0000699
 SO:0000147|SO:0000699
 SO:0000646
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000646
 SO:0000646
 SO:0000646
@@ -8269,85 +8269,85 @@ SO:0000646
 SO:0000704
 SO:0000646
 SO:0000646
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000646
 SO:0000646
 SO:0000141
 SO:0000646
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000804
 SO:0000814
 SO:0000646
 SO:0000141
-SO:0000756|SO:EXT#:cDNA
-CHEBI:SO:EXT#:mRNA|SO:0000234
+SO:0000756|SO_EXT:cDNA
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000646
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0000756|SO:EXT#:cDNA
+CHEBI_SO_EXT:mRNA|SO:0000234
+SO:0000756|SO_EXT:cDNA
 SO:0000646
-SO:0000756|SO:EXT#:cDNA
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000646
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0001023
 SO:0000704
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000141
 
 SO:0000646
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
+
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-
-SO:0001568|SO:EXT#:alternative:splice:variant
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+
+SO:0001568|SO_EXT:alternative_splice_variant
+
+
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 SO:0000159
 SO:0000159
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
 
 SO:0000704
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-
-
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+
+
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 SO:0000704
@@ -8359,18 +8359,18 @@ SO:0000704
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0000704
 SO:0000704
 SO:0000704
 SO:0000704
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 SO:0000704
 SO:0001861
-CHEBI:GO:SO:EXT#:enzyme
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_GO_SO_EXT:enzyme
+CHEBI_GO_SO_EXT:enzyme
 
 
 SO:0000704
@@ -8383,9 +8383,9 @@ SO:0000704
 SO:0000704
 SO:0000704
 SO:0000704
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000704
 SO:0000704
 
@@ -8400,9 +8400,9 @@ SO:0000704
 
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
@@ -8418,11 +8418,11 @@ SO:0000147
 
 
 
-SO:1000008|SO:EXT#:point:mutation:entity:or:process
+SO:1000008|SO_EXT:point_mutation_entity_or_process
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 
@@ -8437,16 +8437,16 @@ SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
 
 
 SO:0000159
-SO:1000008|SO:EXT#:point:mutation:entity:or:process
+SO:1000008|SO_EXT:point_mutation_entity_or_process
 SO:0000704
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0001185
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 SO:0000704
@@ -8454,11 +8454,9 @@ SO:0000704
 SO:0000704
 
 SO:0000704
-SO:EXT#:gene:product
+SO_EXT:gene_product
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -8466,51 +8464,16 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
 
-SO:0000704
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-SO:0000704
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 SO:0000704
 
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000704
 
-
-
-
-
-
-
-
 SO:0000704
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-
-
-
-
-
-
-
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-CHEBI:SO:EXT#:arginine|SO:0001451
-SO:EXT#:polymorphism
-
-SO:EXT#:polymorphism
-SO:EXT#:polymorphism
-SO:EXT#:polymorphism
-
-
-SO:0000704
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
-
-
-SO:0000704
-
-CHEBI:SO:EXT#:nucleotide
 
 SO:0000704
 
@@ -8521,6 +8484,35 @@ SO:0000704
 
 
 
+SO:0000704
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+
+
+
+
+
+
+
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+CHEBI_SO_EXT:arginine|SO:0001451
+SO_EXT:polymorphism
+
+SO_EXT:polymorphism
+SO_EXT:polymorphism
+SO_EXT:polymorphism
+
+
+SO:0000704
+SO:0000817|SO_EXT:wild_type_entity_or_quality
+
+
+SO:0000704
+
+CHEBI_SO_EXT:nucleotide
+
+SO:0000704
 
 
 
@@ -8532,8 +8524,16 @@ SO:0000704
 
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+
+
+
+
+
+
+
+
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 
 
@@ -8545,13 +8545,13 @@ CHEBI:SO:EXT#:mRNA|SO:0000234
 
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
-CHEBI:SO:EXT#:peptide:or:peptide:region
+CHEBI_SO_EXT:peptide_or_peptide_region
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000195
 SO:0000001
@@ -8561,25 +8561,25 @@ SO:0000318
 
 
 
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000112
 
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 SO:0000112
 SO:0000001
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000112
 
 
 
-CHEBI:SO:EXT#:aspartate:or:aspartic:acid|SO:0001453
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_SO_EXT:aspartate_or_aspartic_acid|SO:0001453
+CHEBI_GO_SO_EXT:enzyme
 
 SO:0000051
 SO:0000051
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0000756|SO:EXT#:cDNA
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0000756|SO_EXT:cDNA
 
 SO:0000077
 SO:0000112
@@ -8593,7 +8593,7 @@ SO:0000112
 
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 
 SO:0000704
@@ -8624,66 +8624,66 @@ SO:0000346
 
 
 
-CHEBI:SO:EXT#:DNA|SO:0000352
-CHEBI:GO:SO:EXT#:enzyme
+CHEBI_SO_EXT:DNA|SO:0000352
+CHEBI_GO_SO_EXT:enzyme
 SO:0000112
 SO:0001023
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000001
 SO:0000006
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-
-SO:0000704
-
-CHEBI:SO:EXT#:RNA|SO:0000356
-
-SO:0000704
-CHEBI:SO:EXT#:RNA|SO:0000356
-
-
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-SO:0000704
-SO:0000704
-
-
-SO:0000704
-SO:0000704
-SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000704
 
-SO:0000704
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0000704
-CHEBI:SO:EXT#:RNA|SO:0000356
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
-CHEBI:SO:EXT#:mRNA|SO:0000234
+SO:0000704
+CHEBI_SO_EXT:RNA|SO:0000356
+
+
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+SO:0000704
+SO:0000704
+
+
+SO:0000704
+SO:0000704
+SO:0000704
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+SO:0000704
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+
+
+SO:0000704
+
+SO:0000704
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0000704
+CHEBI_SO_EXT:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
+
+CHEBI_SO_EXT:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 SO:0000116
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000855|SO:0000858
-CHEBI:SO:EXT#:amino:acid|SO:0001237
+CHEBI_SO_EXT:amino_acid|SO:0001237
 SO:0000855|SO:0000858
 SO:0000814
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 SO:0000781|SO:0000902
@@ -8709,7 +8709,7 @@ SO:0001023
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 
 
 
@@ -8719,12 +8719,12 @@ SO:0001023
 
 
 
-SO:EXT#:polymorphism
+SO_EXT:polymorphism
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000781|SO:0000902
 SO:0000667|SO:0001522
@@ -8737,7 +8737,7 @@ SO:0000781|SO:0000902
 SO:0001026
 SO:0000188|SO:0001627
 SO:0000704
-GO:SO:EXT#:chromosome
+GO_SO_EXT:chromosome
 SO:0000781|SO:0000902
 SO:0000667|SO:0001522
 SO:0000667|SO:0001522
@@ -8747,13 +8747,13 @@ SO:0000188|SO:0001627
 SO:0001635
 SO:0000147
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
-SO:0000164|SO:EXT#:splice:acceptor
-SO:0000163|SO:EXT#:splice:donor
+SO:0000164|SO_EXT:splice_acceptor
+SO:0000163|SO_EXT:splice_donor
 SO:0000781|SO:0000902
 SO:0000667|SO:0001522
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000673
 
 SO:0000781|SO:0000902
@@ -8772,12 +8772,12 @@ SO:0000704
 SO:0001023
 
 SO:0000667|SO:0001522
-SO:0001249|SO:EXT#:physical:mapping:process
+SO:0001249|SO_EXT:physical_mapping_process
 SO:0000781|SO:0000902
 SO:0000667|SO:0001522
 SO:0000188|SO:0001627
 SO:0000704
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 
 SO:0000781|SO:0000902
 SO:0000667|SO:0001522
@@ -8803,17 +8803,17 @@ SO:0000001
 
 SO:0000781|SO:0000902
 SO:0000366
-GO:SO:EXT#:telomere:or:telomeric:region:or:telomeric:orientation|SO:0000624
+GO_SO_EXT:telomere_or_telomeric_region_or_telomeric_orientation|SO:0000624
 SO:0000667|SO:0000699|SO:0001522
 SO:0000781|SO:0000902
 
 SO:0000147
-SO:EXT#:splice:donor
-GO:SO:EXT#:centromere:or:centromeric:region:or:centromeric:orientation|SO:0000577
+SO_EXT:splice_donor
+GO_SO_EXT:centromere_or_centromeric_region_or_centromeric_orientation|SO:0000577
 SO:0000699
 
 SO:0000147
-SO:EXT#:splice:acceptor
+SO_EXT:splice_acceptor
 SO:0000147
 SO:0000188|SO:0001627
 SO:0000704
@@ -8821,47 +8821,47 @@ SO:0000704
 SO:0000236
 SO:0000147
 SO:0000147
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
-CHEBI:SO:EXT#:peptide:or:peptide:region
+CHEBI_SO_EXT:peptide_or_peptide_region
 SO:0000001
 SO:0000195
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000673
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000051
 SO:0000051
 SO:0000673
 
 
 SO:0000673
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+CHEBI_SO_EXT:RNA|SO:0000356
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000051
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
 SO:0000077
-CHEBI:SO:EXT#:riboprobe
+CHEBI_SO_EXT:riboprobe
 SO:0000051
 
 SO:0000077
-CHEBI:SO:EXT#:riboprobe
+CHEBI_SO_EXT:riboprobe
 SO:0000051
 
 
 
-CHEBI:SO:EXT#:mRNA|SO:0000234
+CHEBI_SO_EXT:mRNA|SO:0000234
 
 SO:0000704
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 SO:0000673
@@ -8877,7 +8877,7 @@ SO:0000704
 
 SO:0000673
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
 
 
@@ -8885,10 +8885,10 @@ CHEBI:SO:EXT#:RNA|SO:0000356
 SO:0000704
 SO:0000704
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000051
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000051
 SO:0000673
 
@@ -8903,10 +8903,10 @@ SO:0000673
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
@@ -8916,22 +8916,10 @@ SO:0000704
 
 
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-
-
-
-
-
-
-
-
-
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 
 
@@ -8941,62 +8929,74 @@ SO:0000817|SO:EXT#:wild:type:entity:or:quality
 
 
 
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 
 
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+
+
+
+
+
+
+
+
+
+CHEBI_SO_EXT:RNA|SO:0000356
 
 SO:0000781|SO:0000902
 SO:0000667|SO:0001522
 SO:0000704
 SO:0000673
 SO:0000673
-SO:0000294|SO:EXT#:inverted:repeat:unit:or:region
+SO:0000294|SO_EXT:inverted_repeat_unit_or_region
 SO:0000781|SO:0000902
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
-CHEBI:SO:EXT#:RNA|SO:0000356
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000704
-OBI:SO:EXT#:gene:or:genetic:investigation:or:genetic:process
+OBI_SO_EXT:gene_or_genetic_investigation_or_genetic_process
 
 SO:0000673
 
 
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
 
 
 SO:0000704
 
 SO:0000673
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0001568|SO:EXT#:alternative:splice:variant
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0001568|SO_EXT:alternative_splice_variant
 
 SO:0000673
 SO:0000704
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000116
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000673
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000704
 
 SO:0000704
 SO:0000704
-GO:SO:EXT#:chromosome|SO:0000001|SO:0000340
+GO_SO_EXT:chromosome|SO:0000001|SO:0000340
 SO:0000704
 SO:0000781|SO:0000902
 SO:0000804
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000568
-SO:EXT#:coding:sequence
-SO:0000756|SO:EXT#:cDNA
+SO_EXT:coding_sequence
+SO:0000756|SO_EXT:cDNA
 SO:0000151
 SO:0000440
 SO:0000987
@@ -9007,15 +9007,15 @@ SO:0000781|SO:0000902
 
 
 
-SO:0001027|SO:EXT#:genotype:or:entity:with:genotype
+SO:0001027|SO_EXT:genotype_or_entity_with_genotype
 SO:0000781|SO:0000902
 SO:0000366
-SO:0000991|SO:EXT#:genomic:DNA
+SO:0000991|SO_EXT:genomic_DNA
 SO:0000781|SO:0000902
 SO:0000051
 SO:0000781|SO:0000902
 SO:0001026
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352
 
 
 SO:0000151
@@ -9023,7 +9023,7 @@ SO:0000440
 SO:0000440
 SO:0000112
 SO:0000112
-SO:0000756|SO:EXT#:cDNA
+SO:0000756|SO_EXT:cDNA
 SO:0000440
 SO:0000001
 
@@ -9032,7 +9032,7 @@ SO:0000001
 SO:0001026
 SO:0000188|SO:0001627
 SO:0000704
-GO:SO:EXT#:chromosome|SO:0000340
+GO_SO_EXT:chromosome|SO:0000340
 SO:0000667|SO:0000699|SO:0001522
 SO:0000781|SO:0000902
 SO:0000151
@@ -9045,58 +9045,58 @@ SO:0001414
 SO:0001023
 SO:0000112
 SO:0001023
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 SO:0000112
 SO:0000112
 
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0001023
 SO:0000112
 
 
 SO:0001023
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000051
 SO:0000203|SO:0001622
 SO:0000366
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
 SO:0000051
 SO:0000673
 SO:0000051
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
 
 
-CHEBI:SO:EXT#:RNA|SO:0000356
-SO:0000756|SO:EXT#:cDNA
+CHEBI_SO_EXT:RNA|SO:0000356
+SO:0000756|SO_EXT:cDNA
 SO:0000112
 SO:0000147
 SO:0001030
 SO:0000147
 SO:0001031
 SO:0000001
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000051
 SO:0000051
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
 
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 SO:0000704
 SO:0000673
 SO:0000673
 SO:0000051
 SO:0000051
-CHEBI:SO:EXT#:RNA|SO:0000356
+CHEBI_SO_EXT:RNA|SO:0000356
 
 
 
 
 SO:0000051
 SO:0000147
-CHEBI:SO:EXT#:nucleotide
+CHEBI_SO_EXT:nucleotide
 
 SO:0000319
 
@@ -9104,7 +9104,7 @@ SO:0000051
 
 SO:0000051
 SO:0000147
-CHEBI:SO:EXT#:nucleotide
+CHEBI_SO_EXT:nucleotide
 
 SO:0000318
 SO:0000051
@@ -9112,25 +9112,25 @@ SO:0000673
 
 SO:0000051
 SO:0000147
-CHEBI:SO:EXT#:nucleotide
+CHEBI_SO_EXT:nucleotide
 
 SO:0000319
 
 SO:0000051
-SO:0000316|SO:EXT#:coding:sequence
-CHEBI:SO:EXT#:nucleotide
+SO:0000316|SO_EXT:coding_sequence
+CHEBI_SO_EXT:nucleotide
 
 SO:0000319
 
 
 
 SO:0000704
-SO:0000817|SO:EXT#:wild:type:entity:or:quality
+SO:0000817|SO_EXT:wild_type_entity_or_quality
 SO:0000673
 SO:0000673
-CHEBI:SO:EXT#:nucleotide
+CHEBI_SO_EXT:nucleotide
 SO:0000188|SO:0001627
 SO:0000704
-GO:SO:EXT#:chromosome
+GO_SO_EXT:chromosome
 SO:0000704
-CHEBI:SO:EXT#:DNA|SO:0000352
+CHEBI_SO_EXT:DNA|SO:0000352

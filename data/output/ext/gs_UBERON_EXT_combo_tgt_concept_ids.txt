@@ -23,7 +23,7 @@ UBERON:0002435
 
 
 
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0002435
 UBERON:0001017
 UBERON:0000955
@@ -104,7 +104,7 @@ UBERON:0000955
 
 UBERON:0000955
 
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0002435
 
 
@@ -123,13 +123,13 @@ UBERON:0002435
 UBERON:0000955
 UBERON:0002435
 UBERON:0001017
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0002435
 UBERON:0001017
 
 UBERON:0000119|UBERON:0001885
-UBERON:0000119|UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
-UBERON:0000119|UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON:0000119|UBERON_EXT:hippocampus_proper_or_hippocampal_formation
+UBERON:0000119|UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 UBERON:0001016
 UBERON:0009050
 
@@ -137,13 +137,13 @@ UBERON:0000045
 UBERON:0001017
 UBERON:0002435
 
-UBERON:0002304|UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON:0002304|UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 UBERON:0000119
 UBERON:0002435
 UBERON:0001017
 UBERON:0002435
 
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0000955
 
 UBERON:0000955
@@ -189,15 +189,15 @@ UBERON:0000955
 UBERON:0000955
 
 UBERON:0001017
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0000955
 UBERON:0000955
 UBERON:0000955
 UBERON:0000955
 UBERON:0000955
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0000955
 UBERON:0000955
 UBERON:0002084
@@ -231,25 +231,25 @@ UBERON:0002435
 UBERON:0000955
 UBERON:0000955
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000473
-GO:UBERON:EXT#:cellular:component:or:cell:part
+GO_UBERON_EXT:cellular_component_or_cell_part
 UBERON:0000473
 UBERON:0000473
 
-GO:UBERON:EXT#:cellular:component:or:cell:part
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+GO_UBERON_EXT:cellular_component_or_cell_part
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
-GO:UBERON:EXT#:cellular:component:or:cell:part
+GO_UBERON_EXT:cellular_component_or_cell_part
 UBERON:0007023
 UBERON:0000479
 UBERON:0000473
@@ -270,7 +270,7 @@ UBERON:0000473
 
 UBERON:0000922
 
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0000479
 UBERON:0000473
 UBERON:0002106
@@ -284,13 +284,13 @@ UBERON:0007023
 UBERON:0000479
 UBERON:0000479
 
-GO:UBERON:EXT#:cellular:component:or:cell:part
+GO_UBERON_EXT:cellular_component_or_cell_part
 UBERON:0000473
 UBERON:0007023
 
 UBERON:0000473
 UBERON:0000955
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000926
 UBERON:0000108
 UBERON:0000479
@@ -308,7 +308,7 @@ UBERON:0007023
 
 UBERON:0004237
 UBERON:0004237
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0004237
 UBERON:0003104
 UBERON:0001981
@@ -317,7 +317,7 @@ UBERON:0002113
 
 
 UBERON:0002101
-UBERON:0000014|UBERON:EXT#:zone:of:skin:or:skin:of:body
+UBERON:0000014|UBERON_EXT:zone_of_skin_or_skin_of_body
 
 UBERON:0000055
 
@@ -328,32 +328,32 @@ UBERON:0000922
 UBERON:0000479
 UBERON:0002113
 UBERON:0000955
-UBERON:0000014|UBERON:EXT#:zone:of:skin:or:skin:of:body
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON:0000014|UBERON_EXT:zone_of_skin_or_skin_of_body
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 
 UBERON:0001981
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0000922
 UBERON:0007023
 UBERON:0007023
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 UBERON:0000479
 UBERON:0000970
 UBERON:0000948
 UBERON:0000955
 UBERON:0000479
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0002113
 
-UBERON:0000014|UBERON:EXT#:zone:of:skin:or:skin:of:body
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON:0000014|UBERON_EXT:zone_of_skin_or_skin_of_body
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0002113
 UBERON:0000479
 UBERON:0000479
 UBERON:0000479
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0003104
 UBERON:0002113
 UBERON:0000970
@@ -365,23 +365,23 @@ UBERON:0001638
 UBERON:0000970
 UBERON:0000955
 UBERON:0002113
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0002113
 UBERON:0002113
 
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0000479
 UBERON:0000970
 UBERON:0000955
 UBERON:0000922
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0000479
 UBERON:0002240
 
 UBERON:0002049
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0000922
 UBERON:0000922
 UBERON:0000922
@@ -425,7 +425,7 @@ UBERON:0001981
 
 
 UBERON:0004864
-UBERON:0000965|UBERON_EXT:lens
+UBERON:0000965|UBERON:EXT:lens
 UBERON:0000483
 UBERON:0000970
 UBERON:0000970
@@ -436,13 +436,13 @@ UBERON:0000948
 UBERON:0000948
 UBERON:0000970
 UBERON:0001016
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 UBERON:0001621
 UBERON:0004148
 UBERON:0000948
 
 UBERON:0000948
-UBERON_EXT:body
+UBERON:EXT:body
 UBERON:0002081
 UBERON:0001621
 UBERON:0001016
@@ -450,13 +450,13 @@ UBERON:0000970
 UBERON:0000922
 UBERON:0002405
 UBERON:0000922
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 UBERON:0000922
 UBERON:0000922
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0000922
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 UBERON:0007023
 
 UBERON:0003915
@@ -492,13 +492,13 @@ UBERON:0002113
 UBERON:0001049
 UBERON:0000966
 UBERON:0000483
-UBERON:0000965|UBERON_EXT:lens
+UBERON:0000965|UBERON:EXT:lens
 UBERON:0000966
 UBERON:0000922
 UBERON:0000922
 UBERON:0000479
 UBERON:0000948
-NCBITaxon_UBERON_EXT:child
+NCBITaxon:UBERON:EXT:child
 
 
 UBERON:0001135
@@ -507,10 +507,10 @@ UBERON:0004237
 UBERON:0000970
 UBERON:0000970
 UBERON:0000970
-UBERON:0000965|UBERON:0000970|UBERON_EXT:lens
+UBERON:0000965|UBERON:0000970|UBERON:EXT:lens
 UBERON:0000970
 
-UBERON:0000965|UBERON_EXT:lens
+UBERON:0000965|UBERON:EXT:lens
 
 UBERON:0000966
 UBERON:0000966
@@ -558,7 +558,7 @@ UBERON:0002100
 UBERON:0000922
 UBERON:0000479|UBERON:0005253
 
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 
 
 
@@ -801,7 +801,7 @@ UBERON:0000922
 
 
 
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 UBERON:0000922
 
 UBERON:0001987
@@ -877,7 +877,7 @@ UBERON:0002049
 UBERON:0001987
 UBERON:0000922
 UBERON:0000033
-GO_UBERON_EXT:lumen
+GO:UBERON:EXT:lumen
 UBERON:0000922
 UBERON:0000479|UBERON:0005253
 UBERON:0000922
@@ -1093,15 +1093,15 @@ UBERON:0005253
 
 
 UBERON:0000358
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
 UBERON:0002415
 UBERON:0000922
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0000922
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0001040
 UBERON:0000922
 UBERON:0000922
@@ -1136,22 +1136,22 @@ UBERON:0002367
 UBERON:0002367
 
 UBERON:0002367
-UBERON:0000014|UBERON:EXT#:zone:of:skin:or:skin:of:body
+UBERON:0000014|UBERON_EXT:zone_of_skin_or_skin_of_body
 UBERON:0007023
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0002367
 
 
 UBERON:0000358
 
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0002367
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 
@@ -1167,7 +1167,7 @@ UBERON:0002367
 UBERON:0002367
 UBERON:0000998
 UBERON:0002367
-UBERON_EXT:body
+UBERON:EXT:body
 
 UBERON:0002367
 UBERON:3010752
@@ -1178,7 +1178,7 @@ UBERON:0002530
 UBERON:0004529
 
 UBERON:0002367
-GO:UBERON:EXT#:basement:membrane
+GO_UBERON_EXT:basement_membrane
 UBERON:0002530
 UBERON:0003891
 UBERON:0002367
@@ -1203,23 +1203,23 @@ UBERON:3010752
 
 UBERON:0002367
 
-GO_UBERON_EXT:lumen
+GO:UBERON:EXT:lumen
 
-GO:UBERON:EXT#:basement:membrane
+GO_UBERON_EXT:basement_membrane
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0001328
 UBERON:3010752
 UBERON:0002367
 UBERON:0000428
 UBERON:0000428
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0002367
 
 UBERON:0002367
 UBERON:0002367
 
 UBERON:0002367
-UBERON_EXT:body
+UBERON:EXT:body
 UBERON:0002367
 UBERON:0002367
 UBERON:0000483
@@ -1242,17 +1242,17 @@ UBERON:0002367
 UBERON:0002367
 UBERON:0002367
 UBERON:0002367
-UBERON_EXT:body
+UBERON:EXT:body
 UBERON:0000479
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0000428
 
 
 UBERON:0002367
-UBERON_EXT:body
+UBERON:EXT:body
 UBERON:0000428
 UBERON:0002367
-UBERON_EXT:body
+UBERON:EXT:body
 UBERON:0002367
 UBERON:0002367
 UBERON:0000428
@@ -1275,13 +1275,13 @@ UBERON:0002415
 UBERON:0002415
 UBERON:0002367
 UBERON:0000358
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0002415
 
 UBERON:0002415
 UBERON:0002415
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0002367
 UBERON:0000479
 UBERON:0000479
@@ -1304,11 +1304,11 @@ UBERON:0002367
 UBERON:0002415
 UBERON:0002415
 UBERON:0002415
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0002415
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0002415
 UBERON:0002367
 UBERON:0002367
@@ -1332,7 +1332,7 @@ UBERON:0002367
 UBERON:0002367
 UBERON:0002367
 UBERON:0002367
-GO:UBERON:EXT#:basement:membrane
+GO_UBERON_EXT:basement_membrane
 UBERON:0002367
 UBERON:0003891
 UBERON:0000428
@@ -1371,13 +1371,13 @@ UBERON:0000922
 UBERON:0000922
 UBERON:0000992
 UBERON:0007023
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0000991
 UBERON:0007023
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0001305
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0000991
 UBERON:0000922
 UBERON:0007023
@@ -1387,14 +1387,14 @@ UBERON:0000992
 UBERON:0005291
 UBERON:0007023
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-NCBITaxon_UBERON_EXT:pup
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-NCBITaxon_UBERON_EXT:pup
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+NCBITaxon:UBERON:EXT:pup
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+NCBITaxon:UBERON:EXT:pup
 UBERON:0000107
 UBERON:0000922
 UBERON:0007232
@@ -1408,20 +1408,20 @@ UBERON:0000107
 UBERON:0000922
 UBERON:0000922
 UBERON:0000922
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000922
 UBERON:0000358
 UBERON:0000922
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000358
 UBERON:0000922
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0007233
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000922
 UBERON:0007232
 UBERON:0000922
@@ -1461,21 +1461,21 @@ UBERON:0001833
 
 
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 UBERON:0000479
 UBERON:0000479
-NCBITaxon_UBERON_EXT:chick
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
+NCBITaxon:UBERON:EXT:chick
 
 
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue
 UBERON:0001017
 
 
 UBERON:0000922
-UBERON:0000068|UBERON:EXT#:embryonic:stage:or:stage:part
+UBERON:0000068|UBERON_EXT:embryonic_stage_or_stage_part
 
 UBERON:0001017
 UBERON:0001017
@@ -1514,7 +1514,7 @@ UBERON:0001132
 UBERON:0000159
 UBERON:0001052
 UBERON:0000483
-GO_UBERON_EXT:lumen
+GO:UBERON:EXT:lumen
 
 UBERON:0000922
 UBERON:0001017
@@ -1576,7 +1576,7 @@ UBERON:0001017
 UBERON:0002336
 UBERON:0004720
 UBERON:0001017
-UBERON:EXT#:face:or:skull
+UBERON_EXT:face_or_skull
 UBERON:0001017
 
 UBERON:0000970
@@ -1588,7 +1588,7 @@ UBERON:0001049
 
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 
-UBERON:EXT#:face:or:skull
+UBERON_EXT:face_or_skull
 
 
 
@@ -1604,146 +1604,146 @@ UBERON:0001977
 UBERON:0001977
 UBERON:0001977
 UBERON:0000479|UBERON:0000922
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0000479
 UBERON:0000479
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002329
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000023
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-NCBITaxon_UBERON_EXT:chick
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+NCBITaxon:UBERON:EXT:chick
 UBERON:0004347
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0006907
 UBERON:0004347
 UBERON:0006907
 UBERON:0002329
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
-NCBITaxon_UBERON_EXT:chick
+UBERON_EXT:muscle_structure_or_tissue
+NCBITaxon:UBERON:EXT:chick
 UBERON:0002101
 UBERON:0004288
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON_EXT:body
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON:EXT:body
 UBERON:0006908
 UBERON:0006907
 UBERON:0006908
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002329
 UBERON:0000479
 UBERON:0009571
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0002329
 UBERON:0002329
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0003082
 UBERON:0009571
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000922
 UBERON:0006907
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0006907
 UBERON:0002329
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0002329
 UBERON:0000479
 UBERON:0002329
 UBERON:0000479
 UBERON:0002329
 UBERON:0002329
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0004347
 UBERON:0002101
 UBERON:0004347
 UBERON:0002329
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0004347
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0004347
 UBERON:0002329
 UBERON:0004347
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
 
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
 UBERON:0002101
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000479
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
 UBERON:0000023
 UBERON:0004347
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0000023
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0004347
 UBERON:0002101
 UBERON:0002329
 UBERON:0000023
 UBERON:0000023
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0004347
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000023
 
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000023
 UBERON:0007023
-UBERON:0014778|UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON:0014778|UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0001977
 UBERON:0000023
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000023
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
-NCBITaxon_UBERON_EXT:chick
-NCBITaxon_UBERON_EXT:chick
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
+NCBITaxon:UBERON:EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000023
 UBERON:0002471
 UBERON:0002386
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0007023
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000922
-PATO:UBERON:EXT#:neonate:or:newborn
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+PATO_UBERON_EXT:neonate_or_newborn
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0006907
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000023
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0002471
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000023
 
 UBERON:0002471
-UBERON:EXT#:muscle:structure:or:tissue
-PATO:UBERON:EXT#:neonate:or:newborn
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+PATO_UBERON_EXT:neonate_or_newborn
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 
 UBERON:0007612
 
@@ -1760,8 +1760,8 @@ UBERON:0002101
 UBERON:0000023
 UBERON:0005414
 UBERON:0002471
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 
 UBERON:0001424
 
@@ -1771,45 +1771,45 @@ UBERON:0002101
 UBERON:0005414
 UBERON:0005414
 UBERON:0000023
-UBERON:EXT#:cartilage:element:or:tissue
+UBERON_EXT:cartilage_element_or_tissue
 UBERON:0007688
 UBERON:0000479
 UBERON:0002222
 UBERON:0009749
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0006907
 UBERON:0000023
-UBERON:EXT#:muscle:structure:or:tissue
-NCBITaxon_UBERON_EXT:chick
+UBERON_EXT:muscle_structure_or_tissue
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000922
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0004347
 UBERON:0000922
 UBERON:0002544
 UBERON:0002101
 UBERON:0006907
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000023
-UBERON:EXT#:muscle:structure:or:tissue
-NCBITaxon_UBERON_EXT:chick
+UBERON_EXT:muscle_structure_or_tissue
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000922
 UBERON:0003104
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000023
 UBERON:0000922
 UBERON:0000023
 UBERON:0000023
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0003104
 UBERON:0000023
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
 UBERON:0002101
 UBERON:0002101
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
 UBERON:0002101
 
@@ -1822,48 +1822,48 @@ UBERON:0001424
 UBERON:0000023
 UBERON:0000023
 UBERON:0002385
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000023
 UBERON:0000023
 UBERON:0000023
 UBERON:0000023
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000023
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000023
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0006907
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000922
 UBERON:0002101
 UBERON:0002101
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000023
 
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
 UBERON:0002471
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000023
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
-NCBITaxon_UBERON_EXT:chick
+UBERON_EXT:muscle_structure_or_tissue
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000023
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
 UBERON:0002101
 UBERON:0002101
@@ -1884,32 +1884,32 @@ UBERON:0005414
 UBERON:0001461
 UBERON:0002472
 UBERON:0002472
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002471
 UBERON:0002472
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002471
-UBERON:EXT#:muscle:structure:or:tissue
-NCBITaxon_UBERON_EXT:chick
+UBERON_EXT:muscle_structure_or_tissue
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000023
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000023
 UBERON:0002101
 UBERON:0000023
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000023
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000023
 
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
 UBERON:0002101
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
 UBERON:0001461
 UBERON:0002101
@@ -1917,17 +1917,17 @@ UBERON:0001461
 UBERON:0002101
 UBERON:0006907
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
 UBERON:0002495
-GO:UBERON:EXT#:innervation:entity:or:process
+GO_UBERON_EXT:innervation_entity_or_process
 UBERON:0002103
 UBERON:0002385
 UBERON:0002102
 UBERON:0003661
 UBERON:0002103
 UBERON:0003661
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0002101
 UBERON:0002103
 UBERON:0002102
@@ -1950,268 +1950,268 @@ UBERON:0002445
 
 UBERON:0001423
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002329
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002329
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002329
 UBERON:0002329
 UBERON:0002329
 
 
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002329
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002329
 UBERON:0002329
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-NCBITaxon_UBERON_EXT:chick
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+NCBITaxon:UBERON:EXT:chick
 UBERON:0004347
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0007023
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
-NCBITaxon_UBERON_EXT:chick
+UBERON_EXT:muscle_structure_or_tissue
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000023
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
 UBERON:0002329
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000023
 UBERON:0002101
-NCBITaxon_UBERON_EXT:chick
-UBERON:EXT#:muscle:structure:or:tissue
+NCBITaxon:UBERON:EXT:chick
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000023
 UBERON:0002329
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
-UBERON:EXT#:cartilage:element:or:tissue
+UBERON_EXT:cartilage_element_or_tissue
 UBERON:0007688
 UBERON:0002102
 UBERON:0002103
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002495
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0003661
 UBERON:0002101
 UBERON:0002329
-UBERON:EXT#:muscle:structure:or:tissue
-NCBITaxon_UBERON_EXT:chick
+UBERON_EXT:muscle_structure_or_tissue
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000023
 UBERON:0000023
 UBERON:0002329
 UBERON:0000922
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
 UBERON:0000479
 UBERON:0000023
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-NCBITaxon_UBERON_EXT:chick
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+NCBITaxon:UBERON:EXT:chick
 UBERON:0004347
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0002101
 UBERON:0003661
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002471
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002329
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002471
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0004347
 UBERON:0002101
 UBERON:0002101
 UBERON:0002101
 UBERON:0000479
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000479
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0002329
 UBERON:0000023
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000479
 UBERON:0006907
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000922
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000023
-UBERON:EXT#:cartilage:element:or:tissue
+UBERON_EXT:cartilage_element_or_tissue
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-NCBITaxon_UBERON_EXT:chick
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+NCBITaxon:UBERON:EXT:chick
 UBERON:0004347
 UBERON:0006907
 UBERON:0006908
 UBERON:0006907
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0004347
 UBERON:0006907
 UBERON:0002101
 UBERON:0002101
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0002102
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000922
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000922
 UBERON:0000023
 
 
 UBERON:0000922
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000922
 UBERON:0000023
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002101
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002102
 UBERON:0000922
 UBERON:0002101
 UBERON:0001977
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000922
 UBERON:0001977
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0001977
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0001977
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0004347
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0000479
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001977
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002385
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0000479
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0000479
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0000479
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001388
 
 UBERON:0000479
 
 
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001389
 UBERON:0000178
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001015
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001977
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0001388
 UBERON:0000479
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000479
 UBERON:0000479
 UBERON:0000479
 UBERON:0000479
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001977
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001977
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000479
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0002415
 UBERON:0001388
 UBERON:0000948
 UBERON:0002107
 UBERON:0000995
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001388
 UBERON:0001388
 UBERON:0003701
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001322
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001388
 UBERON:0001388
 UBERON:0000479
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000479
 UBERON:0001977
 UBERON:0001977
@@ -2223,45 +2223,45 @@ UBERON:0002415
 
 
 UBERON:0000178
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000366
 UBERON:0000479
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 
 
 
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 
 UBERON:0000479
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0000178
 UBERON:0000178
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001388
 UBERON:0001388
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000366
 UBERON:0001977
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001977
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001388
-UBERON:EXT#:muscle:structure:or:tissue
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001388
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001388
 UBERON:0000178
 UBERON:0000178
@@ -2270,7 +2270,7 @@ UBERON:0000479
 UBERON:0001388
 UBERON:0001389
 UBERON:0001388
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0000170|UBERON:0002048
 UBERON:0000310
 UBERON:0000170|UBERON:0002048
@@ -2333,9 +2333,9 @@ UBERON:0002012
 UBERON:0002370
 
 UBERON:0000922
-UBERON:EXT#:heart:or:lung
+UBERON_EXT:heart_or_lung
 UBERON:0000948
-UBERON_EXT:childhood
+UBERON:EXT:childhood
 UBERON:0000948
 
 
@@ -2572,7 +2572,7 @@ UBERON:0001043
 
 UBERON:0004363
 
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 UBERON:0003126
 
 UBERON:0001043
@@ -2758,10 +2758,10 @@ UBERON:0000922
 
 UBERON:0000922
 UBERON:0000922
-UBERON:EXT#:cranium:or:head
+UBERON_EXT:cranium_or_head
 UBERON:0000922
 
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 
 UBERON:0002084
 UBERON:0002080
@@ -2808,7 +2808,7 @@ UBERON:0000947
 UBERON:0002012
 UBERON:0002137
 
-UBERON:EXT#:cranium:or:head
+UBERON_EXT:cranium_or_head
 UBERON:0000922
 UBERON:0000947
 UBERON:0002080
@@ -2828,7 +2828,7 @@ UBERON:0000922
 UBERON:0002370
 UBERON:0000922
 UBERON:0000922
-UBERON:EXT#:heart:or:lung
+UBERON_EXT:heart_or_lung
 UBERON:0000922
 UBERON:0000948
 UBERON:0000922
@@ -2838,7 +2838,7 @@ UBERON:0000948
 UBERON:0000948
 
 
-UBERON:0000948|UBERON:EXT#:muscle:structure:or:tissue
+UBERON:0000948|UBERON_EXT:muscle_structure_or_tissue
 
 UBERON:0001133
 
@@ -2936,21 +2936,21 @@ UBERON:0000948
 
 
 
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
-GO:UBERON:EXT#:cellular:component:or:cell:part
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
+GO_UBERON_EXT:cellular_component_or_cell_part
 
-GO:UBERON:EXT#:cellular:component:or:cell:part
+GO_UBERON_EXT:cellular_component_or_cell_part
 
 UBERON:0000922
 UBERON:0007023
 UBERON:0014374
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0014374
 UBERON:0000104
 UBERON:0000922
 UBERON:0007023
 UBERON:0000062|UBERON:0000468|UBERON:0003062
-GO:UBERON:EXT#:cellular:component:or:cell:part
+GO_UBERON_EXT:cellular_component_or_cell_part
 UBERON:0000922
 
 UBERON:0000922
@@ -3028,13 +3028,13 @@ UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0007023
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0007023
-GO:UBERON:EXT#:cellular:component:or:cell:part
+GO_UBERON_EXT:cellular_component_or_cell_part
 UBERON:0000922
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0007023
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0007023
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0000955
 UBERON:0000948
@@ -3073,7 +3073,7 @@ UBERON:0002532
 UBERON:0000926
 UBERON:0004341
 
-GO:UBERON:EXT#:cellular:component:or:cell:part
+GO_UBERON_EXT:cellular_component_or_cell_part
 UBERON:0000922
 UBERON:0007023
 UBERON:0000479
@@ -3087,18 +3087,18 @@ UBERON:0004341
 UBERON:0004340
 UBERON:0000922
 
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 
 UBERON:0014374
 UBERON:0014374
 UBERON:0000479
 UBERON:0000358
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:neonate_or_newborn
 UBERON:0002415
 UBERON:0000922
 UBERON:0000062|UBERON:0000468|UBERON:0003062
-NCBITaxon_UBERON_EXT:calf
+NCBITaxon:UBERON:EXT:calf
 UBERON:0001977
 UBERON:0000479
 UBERON:0000922
@@ -3127,7 +3127,7 @@ UBERON:0002415
 UBERON:0000922
 UBERON:0000948
 UBERON:0000479
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 
 
 UBERON:0007023
@@ -3142,28 +3142,28 @@ UBERON:0007023
 UBERON:0000479
 
 UBERON:0000922|UBERON:0007236
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0002415
 UBERON:0001690
 UBERON:0005291
 UBERON:0007023
 UBERON:0000922
 UBERON:0000104
-NCBITaxon_UBERON_EXT:pup
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+NCBITaxon:UBERON:EXT:pup
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0001016
 UBERON:0019248
 UBERON:0000922
 UBERON:0000922
 
 UBERON:0000922
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:neonate_or_newborn
 
 UBERON:0019248
 UBERON:0000922
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0000922
 UBERON:0000922
 UBERON:0000178
@@ -3244,7 +3244,7 @@ UBERON:0001016
 
 UBERON:0000055
 UBERON:0000922
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 UBERON:0002240
 UBERON:0000955
 UBERON:0000922
@@ -3268,7 +3268,7 @@ UBERON:0000479
 UBERON:0000479
 
 UBERON:0000479
-NCBITaxon_UBERON_EXT:pup
+NCBITaxon:UBERON:EXT:pup
 UBERON:0001016
 UBERON:0000479
 UBERON:0000922
@@ -3350,8 +3350,8 @@ UBERON:0002240
 UBERON:0025534
 
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0007023
 UBERON:0000955
 UBERON:0000955
@@ -3362,13 +3362,13 @@ UBERON:0000955
 UBERON:0000955
 UBERON:0002956
 UBERON:0000955
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 UBERON:0002956
 UBERON:0000955
 UBERON:0002956
-PATO:UBERON:EXT#:neonate:or:newborn
-PATO:UBERON:EXT#:neonate:or:newborn
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:neonate_or_newborn
+PATO_UBERON_EXT:neonate_or_newborn
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000955
 UBERON:0000955
 UBERON:0000955
@@ -3381,8 +3381,8 @@ UBERON:0000955
 
 
 UBERON:0000358
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 UBERON:0000955
 UBERON:0000955
@@ -3390,9 +3390,9 @@ UBERON:0000955
 UBERON:0000955
 UBERON:0000955
 
-UBERON_EXT:body
-UBERON_EXT:body
-UBERON_EXT:paw
+UBERON:EXT:body
+UBERON:EXT:body
+UBERON:EXT:paw
 UBERON:0002415
 UBERON:0007023
 UBERON:0000955
@@ -3400,7 +3400,7 @@ UBERON:0002264
 
 UBERON:0000956
 
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 
 UBERON:0002038
 
@@ -3412,7 +3412,7 @@ UBERON:0001851
 
 
 
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 
 UBERON:0005383
 
@@ -3423,7 +3423,7 @@ UBERON:0002956
 UBERON:0002974
 UBERON:0001893
 UBERON:0000204
-UBERON:EXT#:neural:tissue:or:nerve:or:nervous:system
+UBERON_EXT:neural_tissue_or_nerve_or_nervous_system
 
 UBERON:0005403
 
@@ -3447,7 +3447,7 @@ UBERON:0000204
 UBERON:0004023
 UBERON:0004023
 UBERON:0002264
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 UBERON:0001950
 UBERON:0004025
 
@@ -3462,21 +3462,21 @@ UBERON:0001883
 
 
 
-UBERON:EXT#:neural:tissue:or:nerve:or:nervous:system
+UBERON_EXT:neural_tissue_or_nerve_or_nervous_system
 
 UBERON:0001893
 
 
 UBERON:0000204
 UBERON:0001016
-UBERON:EXT#:neural:tissue:or:nerve:or:nervous:system
+UBERON_EXT:neural_tissue_or_nerve_or_nervous_system
 UBERON:0034705
 UBERON:0001017
 UBERON:0001017
-UBERON:EXT#:neural:tissue:or:nerve:or:nervous:system
-UBERON:EXT#:neural:tissue:or:nerve:or:nervous:system
-UBERON:EXT#:neural:tissue:or:nerve:or:nervous:system
-CL:UBERON:EXT#:lens:fiber|UBERON:0002444
+UBERON_EXT:neural_tissue_or_nerve_or_nervous_system
+UBERON_EXT:neural_tissue_or_nerve_or_nervous_system
+UBERON_EXT:neural_tissue_or_nerve_or_nervous_system
+CL_UBERON_EXT:lens_fiber|UBERON:0002444
 
 UBERON:0000204
 
@@ -3486,7 +3486,7 @@ UBERON:0000204
 
 UBERON:0007023
 UBERON:0000955
-UBERON:0000965|UBERON_EXT:lens
+UBERON:0000965|UBERON:EXT:lens
 UBERON:0000922
 
 UBERON:0000955
@@ -3501,7 +3501,7 @@ UBERON:0000935
 UBERON:0001882
 
 
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 
 
 
@@ -3518,12 +3518,12 @@ UBERON:0000955
 UBERON:0012170
 
 
-UBERON:EXT#:neural:tissue:or:nerve:or:nervous:system
+UBERON_EXT:neural_tissue_or_nerve_or_nervous_system
 UBERON:0002435
 
 UBERON:0007023
 
-UBERON:0000068|UBERON:EXT#:embryonic:stage:or:stage:part
+UBERON:0000068|UBERON_EXT:embryonic_stage_or_stage_part
 UBERON:0001882
 
 UBERON:0002435
@@ -3539,7 +3539,7 @@ UBERON:0004922
 
 UBERON:0000922
 
-UBERON:0000068|UBERON:EXT#:embryonic:stage:or:stage:part
+UBERON:0000068|UBERON_EXT:embryonic_stage_or_stage_part
 
 
 
@@ -3576,7 +3576,7 @@ UBERON:0000955
 UBERON:0002894
 
 
-UBERON:EXT#:neural:tissue:or:nerve:or:nervous:system
+UBERON_EXT:neural_tissue_or_nerve_or_nervous_system
 
 
 
@@ -3591,7 +3591,7 @@ UBERON:0001882
 UBERON:0000922
 
 
-UBERON:EXT#:neural:tissue:or:nerve:or:nervous:system
+UBERON_EXT:neural_tissue_or_nerve_or_nervous_system
 
 
 
@@ -3604,13 +3604,13 @@ UBERON:0004922
 UBERON:0000922
 UBERON:0001017
 UBERON:0003309
-UBERON_EXT:placode
+UBERON:EXT:placode
 
 UBERON:0004922
 
 
 
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:neonate_or_newborn
 UBERON:0000204
 UBERON:0000955
 UBERON:0000479
@@ -3693,7 +3693,7 @@ UBERON:0034705
 
 
 
-UBERON:EXT#:neural:tissue:or:nerve:or:nervous:system
+UBERON_EXT:neural_tissue_or_nerve_or_nervous_system
 UBERON:0001021
 
 UBERON:0004922
@@ -3735,16 +3735,16 @@ UBERON:0004922
 UBERON:0000922
 
 
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 
 
 
 UBERON:0000955
-UBERON:0000965|UBERON_EXT:lens
+UBERON:0000965|UBERON:EXT:lens
 UBERON:0000479
 
 
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:neonate_or_newborn
 UBERON:0007023
 UBERON:0000955
 UBERON:0000922
@@ -3754,14 +3754,14 @@ UBERON:0000955
 UBERON:0000955
 UBERON:0000955
 UBERON:0001179
-UBERON_EXT:body
+UBERON:EXT:body
 UBERON:0000955
 UBERON:0000955
 UBERON:0005291
 UBERON:0000955
 UBERON:0001977
 UBERON:0000479
-UBERON:0000965|UBERON_EXT:lens
+UBERON:0000965|UBERON:EXT:lens
 UBERON:0000955
 
 UBERON:0001851
@@ -3819,7 +3819,7 @@ UBERON:0003053
 UBERON:0005403
 
 UBERON:0000922
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:neonate_or_newborn
 UBERON:0000204
 UBERON:0001890
 
@@ -3937,7 +3937,7 @@ UBERON:0001893
 
 
 
-UBERON:EXT#:alveolus:or:bronchus
+UBERON_EXT:alveolus_or_bronchus
 
 
 
@@ -3952,10 +3952,10 @@ UBERON:0000170|UBERON:0002048
 
 
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
-UBERON:EXT#:alveolus:or:bronchus
+UBERON_EXT:alveolus_or_bronchus
 
 UBERON:0001516
 UBERON:0000170|UBERON:0002048
@@ -3994,11 +3994,11 @@ UBERON:0000170|UBERON:0002048
 UBERON:0000955
 UBERON:0000955
 UBERON:0000955
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0000955
-GO:UBERON:EXT#:cellular:component:or:cell:part
+GO_UBERON_EXT:cellular_component_or_cell_part
 
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0000479
 UBERON:0000955
 UBERON:0000955
@@ -4016,9 +4016,9 @@ UBERON:0000479
 UBERON:0000473
 UBERON:0000955
 UBERON:0000955
-GO:UBERON:EXT#:cellular:component:or:cell:part
-GO:UBERON:EXT#:cellular:component:or:cell:part
-GO:UBERON:EXT#:cellular:component:or:cell:part
+GO_UBERON_EXT:cellular_component_or_cell_part
+GO_UBERON_EXT:cellular_component_or_cell_part
+GO_UBERON_EXT:cellular_component_or_cell_part
 UBERON:0000955
 
 UBERON:0000955
@@ -4031,7 +4031,7 @@ UBERON:0000955
 UBERON:0000955
 UBERON:0000955
 UBERON:0000955
-GO:UBERON:EXT#:cellular:component:or:cell:part
+GO_UBERON_EXT:cellular_component_or_cell_part
 UBERON:0000955
 UBERON:0000479
 UBERON:0001977
@@ -4043,7 +4043,7 @@ UBERON:0000955
 UBERON:0000479
 UBERON:0001977
 UBERON:0000479
-GO:UBERON:EXT#:cellular:component:or:cell:part
+GO_UBERON_EXT:cellular_component_or_cell_part
 UBERON:0001846
 UBERON:0001846
 UBERON:0000020
@@ -4061,10 +4061,10 @@ UBERON:0000062|UBERON:0000468|UBERON:0003062
 
 UBERON:0001846
 
-UBERON:EXT#:vestibule:or:vestibular:system
+UBERON_EXT:vestibule_or_vestibular_system
 UBERON:0001846
 UBERON:0007023
-UBERON:EXT#:vestibule:or:vestibular:system
+UBERON_EXT:vestibule_or_vestibular_system
 UBERON:0001846
 UBERON:0001846
 UBERON:0001846
@@ -4104,7 +4104,7 @@ UBERON:0000020
 UBERON:0001846
 UBERON:0000020|UBERON:0001032
 UBERON:0000020|UBERON:0001032
-UBERON:EXT#:neural:tissue:or:nerve:or:nervous:system
+UBERON_EXT:neural_tissue_or_nerve_or_nervous_system
 UBERON:0001017
 UBERON:0000020
 UBERON:0001690
@@ -4114,7 +4114,7 @@ UBERON:0000020
 UBERON:0001690
 UBERON:0000922
 
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 UBERON:0001846
 
 UBERON:0001690
@@ -4122,22 +4122,22 @@ UBERON:0001846
 UBERON:0001846
 UBERON:0001846
 UBERON:0001846
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000922
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 UBERON:0000922
 UBERON:0000922
 UBERON:0001040
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
-UBERON:EXT#:cranium:or:head
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
+UBERON_EXT:cranium_or_head
 UBERON:0002406
 UBERON:0000922
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 UBERON:0000922
 UBERON:0000922
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 UBERON:0000922
 UBERON:0001981
 UBERON:0001040
@@ -4256,7 +4256,7 @@ UBERON:0004681
 UBERON:0000054
 UBERON:0001854
 UBERON:0000062|UBERON:0000468|UBERON:0003062
-UBERON:0000020|UBERON:EXT#:vestibule:or:vestibular:system
+UBERON:0000020|UBERON_EXT:vestibule_or_vestibular_system
 UBERON:0001846
 UBERON:0001840
 
@@ -4292,7 +4292,7 @@ UBERON:0001844
 UBERON:0001844
 UBERON:0001846
 UBERON:0001844
-UBERON:EXT#:neural:tissue:or:nerve:or:nervous:system
+UBERON_EXT:neural_tissue_or_nerve_or_nervous_system
 UBERON:0001844
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0000062|UBERON:0000468|UBERON:0003062
@@ -4318,15 +4318,15 @@ UBERON:0001844
 UBERON:0001981
 
 UBERON:0001855
-UBERON:EXT#:vestibule:or:vestibular:system
+UBERON_EXT:vestibule_or_vestibular_system
 UBERON:0001846
 UBERON:0000922
 UBERON:0000020
-UBERON:EXT#:vestibule:or:vestibular:system
+UBERON_EXT:vestibule_or_vestibular_system
 UBERON:0001690
 
 
-UBERON:EXT#:vestibule:or:vestibular:system
+UBERON_EXT:vestibule_or_vestibular_system
 UBERON:0000054
 UBERON:0001854
 UBERON:0002212
@@ -4339,7 +4339,7 @@ UBERON:0001846
 
 UBERON:0001349
 UBERON:0001349
-UBERON:EXT#:vestibule:or:vestibular:system
+UBERON_EXT:vestibule_or_vestibular_system
 UBERON:0001846
 UBERON:0001846
 
@@ -4375,7 +4375,7 @@ UBERON:0001844
 UBERON:0001844
 UBERON:0001844
 
-UBERON:EXT#:vestibule:or:vestibular:system
+UBERON_EXT:vestibule_or_vestibular_system
 UBERON:0001844
 UBERON:0001844
 UBERON:0001844
@@ -4396,14 +4396,14 @@ UBERON:0001017
 UBERON:0001016
 UBERON:0001846
 UBERON:0001016
-NCBITaxon_UBERON_EXT:chick
+NCBITaxon:UBERON:EXT:chick
 UBERON:0000054
 UBERON:0001690
 UBERON:0001846
 UBERON:0001690
 
-UBERON:EXT#:vestibule:or:vestibular:system
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:vestibule_or_vestibular_system
+UBERON_EXT:bone_element_or_tissue
 
 
 UBERON:0001690
@@ -4444,13 +4444,13 @@ UBERON:0001844
 UBERON:0001844
 UBERON:0001844
 UBERON:0001846
-UBERON:EXT#:vestibule:or:vestibular:system
+UBERON_EXT:vestibule_or_vestibular_system
 
 UBERON:0000358
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0001846
 UBERON:0001846
 UBERON:0008816
@@ -4460,13 +4460,13 @@ UBERON:0000922
 
 UBERON:0001846
 UBERON:0000033
-PATO:UBERON:EXT#:bone:or:boniness
+PATO_UBERON_EXT:bone_or_boniness
 UBERON:0006612
 
 UBERON:0001844
 UBERON:0000922
 UBERON:0000358
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 
 
 UBERON:0001846
@@ -4503,8 +4503,8 @@ UBERON:0000922
 
 UBERON:0002106
 UBERON:0000479
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0000479
@@ -4522,7 +4522,7 @@ UBERON:0000317
 UBERON:0000104
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0001155
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
 
 
@@ -4535,9 +4535,9 @@ UBERON:0000479
 UBERON:0002415
 UBERON:0002106
 UBERON:0002106
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON_EXT:body
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON:EXT:body
 UBERON:0001155
 
 
@@ -4579,20 +4579,20 @@ UBERON:0000483
 
 UBERON:0002108
 UBERON:0001902
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000160
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0002415
 UBERON:0000160
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000160
 UBERON:0000160
 UBERON:0000160
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
 UBERON:0000160
 UBERON:0000160
@@ -4619,7 +4619,7 @@ UBERON:0000922
 UBERON:0007023
 
 UBERON:0000085
-NCBITaxon_UBERON_EXT:mare
+NCBITaxon:UBERON:EXT:mare
 UBERON:0001977
 
 UBERON:0000925
@@ -4674,7 +4674,7 @@ UBERON:0004345
 
 
 
-UBERON:EXT#:face:or:skull
+UBERON_EXT:face_or_skull
 UBERON:0000970
 UBERON:0001690
 UBERON:0001049
@@ -4683,7 +4683,7 @@ UBERON:0000922
 
 UBERON:0000358
 UBERON:0000358
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0002415
 
 UBERON:0000922
@@ -4756,7 +4756,7 @@ UBERON:0000922
 UBERON:0000922
 UBERON:0000922
 UBERON:0000948
-UBERON:EXT#:neural:tissue:or:nerve:or:nervous:system
+UBERON_EXT:neural_tissue_or_nerve_or_nervous_system
 UBERON:0009746
 UBERON:0010190
 UBERON:0002329
@@ -4791,7 +4791,7 @@ UBERON:0000055
 UBERON:0000922
 UBERON:0000055
 UBERON:0001040
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 UBERON:0001981
 UBERON:0000922
 UBERON:0001040
@@ -4827,7 +4827,7 @@ UBERON:0000922
 UBERON:0001040
 UBERON:0001981
 UBERON:0001040
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 
 UBERON:0002049
 UBERON:0001981
@@ -4840,7 +4840,7 @@ UBERON:0002049
 
 UBERON:0004877
 
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0005439
 
 UBERON:0005439
@@ -4965,7 +4965,7 @@ UBERON:0003077
 UBERON:0019248
 UBERON:0002329
 UBERON:0001040
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 UBERON:0000948
 UBERON:0000922
 UBERON:0000305
@@ -5002,7 +5002,7 @@ UBERON:0007023
 UBERON:0002113
 
 UBERON:0000358
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000922
 UBERON:0000922
 UBERON:0000922
@@ -5013,7 +5013,7 @@ UBERON:0000479
 UBERON:0000922
 UBERON:0000922
 UBERON:0000922
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0000922
 UBERON:0000479
 UBERON:0000922
@@ -5042,15 +5042,15 @@ UBERON:0000479
 UBERON:0000922
 UBERON:0000479
 UBERON:0002415
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
 UBERON:0000479
 UBERON:0000479
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000479
 UBERON:0000479
 UBERON:0000479
@@ -5090,7 +5090,7 @@ UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0000948
 
-UBERON:0000068|UBERON:EXT#:embryonic:stage:or:stage:part
+UBERON:0000068|UBERON_EXT:embryonic_stage_or_stage_part
 UBERON:0007023
 UBERON:0000479
 
@@ -5144,7 +5144,7 @@ UBERON:0002108
 
 UBERON:0000992
 
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 
 UBERON:0000948
 UBERON:0000479
@@ -5176,94 +5176,94 @@ UBERON:0001155
 
 
 
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 
 UBERON:0000992
 
 
 UBERON:0002370
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
 UBERON:0002342
 
 
 UBERON:0000922
 UBERON:0000479
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
-UBERON_EXT:body
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
+UBERON:EXT:body
 UBERON:0000479
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON:EXT#:face:or:skull
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON_EXT:face_or_skull
 UBERON:0004766
 UBERON:0001681
 UBERON:0002489
-UBERON:EXT#:cranium:or:head
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cranium_or_head
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 UBERON:0001892
 UBERON:0001892
 
-UBERON:EXT#:cranium:or:head
+UBERON_EXT:cranium_or_head
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 UBERON:0002342
 
 UBERON:0000479
-UBERON:EXT#:face:or:skull
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON:EXT#:face:or:skull
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+UBERON_EXT:face_or_skull
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON_EXT:face_or_skull
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0000479
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:bone:element:or:tissue
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:bone:element:or:tissue
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON:EXT#:bone:element:or:tissue
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:bone_element_or_tissue
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:bone_element_or_tissue
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON_EXT:bone_element_or_tissue
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
-UBERON:EXT#:cranium:or:head
-UBERON:EXT#:face:or:skull
+UBERON_EXT:cranium_or_head
+UBERON_EXT:face_or_skull
 UBERON:0004288
 
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
 UBERON:0002489
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON:EXT#:bone:element:or:tissue
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON_EXT:bone_element_or_tissue
 UBERON:0002489
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:4200215
 UBERON:0003104
 UBERON:0004288
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0002489
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
 
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0002489
 
 UBERON:0000922
@@ -5271,45 +5271,45 @@ UBERON:0000922
 UBERON:0000922
 UBERON:0000922
 
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0002360
 UBERON:0002342
 
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0005253
 
 UBERON:0000922
 UBERON:0000922
-UBERON:EXT#:face:or:skull
+UBERON_EXT:face_or_skull
 UBERON:0003104
 UBERON:0001893
 
 UBERON:0004347
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0004347
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:face:or:skull
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:face_or_skull
 UBERON:0003104
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000479
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:bone:element:or:tissue
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:bone_element_or_tissue
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:bone_element_or_tissue
 
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
 
 UBERON:0003104
@@ -5326,9 +5326,9 @@ UBERON:0000922
 UBERON:0000922
 UBERON:0000922
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
 
 UBERON:0000922
@@ -5338,63 +5338,63 @@ UBERON:0000358
 UBERON:0000922
 UBERON:0000922
 UBERON:0003104
-GO:UBERON:EXT#:cellular:component:or:cell:part
+GO_UBERON_EXT:cellular_component_or_cell_part
 
 UBERON:0000922
 
 UBERON:0000922
 
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000975
 
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
 UBERON:0000358
 UBERON:0000922
 
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 
 
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
 UBERON:0004288
 
 
 
-UBERON:EXT#:bone:element:or:tissue
-PATO:UBERON:EXT#:neonate:or:newborn
-NCBITaxon_UBERON_EXT:pup
-UBERON:EXT#:bone:element:or:tissue
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-NCBITaxon_UBERON_EXT:pup
+UBERON_EXT:bone_element_or_tissue
+PATO_UBERON_EXT:neonate_or_newborn
+NCBITaxon:UBERON:EXT:pup
+UBERON_EXT:bone_element_or_tissue
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+NCBITaxon:UBERON:EXT:pup
 
-NCBITaxon_UBERON_EXT:pup
-NCBITaxon_UBERON_EXT:pup
+NCBITaxon:UBERON:EXT:pup
+NCBITaxon:UBERON:EXT:pup
 
-NCBITaxon_UBERON_EXT:pup
-UBERON:EXT#:bone:element:or:tissue
+NCBITaxon:UBERON:EXT:pup
+UBERON_EXT:bone_element_or_tissue
 
 UBERON:0000975
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0004339
-UBERON:EXT#:face:or:skull
+UBERON_EXT:face_or_skull
 
 UBERON:0001456
 UBERON:0008200
 UBERON:0000004
 UBERON:0003128
 
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 
 UBERON:0003128
 UBERON:0000004
 
 UBERON:0002489
 UBERON:0000922
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
 
 UBERON:0000922
@@ -5402,61 +5402,61 @@ UBERON:0002489
 
 
 
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0002489
 UBERON:0000922
 UBERON:4200215
 UBERON:0002489
 UBERON:4200215
-UBERON:EXT#:face:or:skull
+UBERON_EXT:face_or_skull
 UBERON:0003104
 
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:4200215
 UBERON:0002360
 UBERON:4200215
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
 UBERON:4200215
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
 UBERON:0000922
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON:EXT#:bone:element:or:tissue
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON:EXT#:face:or:skull
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON_EXT:face_or_skull
 UBERON:0002544
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:face:or:skull
-UBERON:EXT#:face:or:skull
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:face_or_skull
+UBERON_EXT:face_or_skull
 UBERON:0002544
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0000922
 UBERON:0001892
 UBERON:0001017
 UBERON:0000479
 
 UBERON:0000358
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
 
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0003104
 UBERON:0000922
 UBERON:0008896
@@ -5467,8 +5467,8 @@ UBERON:0001977
 UBERON:0000922
 UBERON:0000922
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0000922
 
 
@@ -5479,32 +5479,32 @@ UBERON:0003104
 UBERON:0004288
 UBERON:0000033
 UBERON:0000922
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON:EXT#:bone:element:or:tissue
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON_EXT:bone_element_or_tissue
 UBERON:4200215
 UBERON:0003104
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON:EXT#:bone:element:or:tissue
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:bone:element:or:tissue
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:bone_element_or_tissue
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
 UBERON:0003104
 UBERON:0003104
 UBERON:0000922
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
 UBERON:0000922
 UBERON:0000479
@@ -5524,62 +5524,62 @@ UBERON:0000922
 UBERON:0004288
 UBERON:0000033
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:cartilage:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:cartilage_element_or_tissue
 
-UBERON:EXT#:bone:element:or:tissue
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+UBERON_EXT:bone_element_or_tissue
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0004288
 UBERON:0000033
 UBERON:0000922
 UBERON:0000922
 UBERON:0000922
 UBERON:0002489
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON:EXT#:bone:element:or:tissue
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON_EXT:bone_element_or_tissue
 UBERON:0002489
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:4200215
 UBERON:0003104
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0002489
 UBERON:0000922
 UBERON:0002489
-UBERON:EXT#:bone:element:or:tissue
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+UBERON_EXT:bone_element_or_tissue
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
 
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0002360
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
 UBERON:0001893
-UBERON:EXT#:face:or:skull
+UBERON_EXT:face_or_skull
 UBERON:0003104
 UBERON:0000922
 
 
 UBERON:0000922
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0000922
 UBERON:0000922
 UBERON:0003104
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0003104
 
 UBERON:0000922
@@ -5589,30 +5589,30 @@ UBERON:0004347
 UBERON:0000922
 UBERON:0000358
 UBERON:0003104
-GO:UBERON:EXT#:cellular:component:or:cell:part
+GO_UBERON_EXT:cellular_component_or_cell_part
 UBERON:0004347
 UBERON:0000922
 UBERON:0000922
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 
 UBERON:0004288
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
-UBERON:EXT#:bone:element:or:tissue
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+UBERON_EXT:bone_element_or_tissue
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000922
 UBERON:0000922
 
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0000922
-NCBITaxon_UBERON_EXT:child
+NCBITaxon:UBERON:EXT:child
 
-UBERON:EXT#:face:or:skull
+UBERON_EXT:face_or_skull
 UBERON:0001756
 
 
@@ -5625,7 +5625,7 @@ UBERON:0001756
 UBERON:0001756
 UBERON:0001756
 
-UBERON:EXT#:baby:or:infant
+UBERON_EXT:baby_or_infant
 
 UBERON:0001756
 UBERON:0001756
@@ -5633,10 +5633,10 @@ UBERON:0001756
 
 
 
-UBERON:EXT#:face:or:skull
+UBERON_EXT:face_or_skull
 UBERON:0001756
 UBERON:0001846
-UBERON_EXT:childhood
+UBERON:EXT:childhood
 UBERON:0007023
 
 UBERON:0002544
@@ -5655,12 +5655,12 @@ UBERON:0004362
 UBERON:0003066
 UBERON:0002049
 UBERON:0001040
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0002103
 UBERON:0002406
 UBERON:0001890
-UBERON_EXT:body
+UBERON:EXT:body
 UBERON:0000922
 UBERON:0002544
 UBERON:0002102
@@ -5710,7 +5710,7 @@ UBERON:0001982
 
 UBERON:0000065
 
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 UBERON:0000160
 UBERON:0002107
 UBERON:0001264
@@ -5766,7 +5766,7 @@ UBERON:0000170|UBERON:0002048
 UBERON:0001756
 UBERON:0007780
 UBERON:0000170|UBERON:0002048
-UBERON:EXT#:vascular:system:or:vasculature:or:vessel
+UBERON_EXT:vascular_system_or_vasculature_or_vessel
 
 UBERON:0002186
 UBERON:0002012
@@ -5789,7 +5789,7 @@ UBERON:0002364
 UBERON:0000912
 
 UBERON:0003891
-CL:UBERON:EXT#:lymphocyte:or:lymphoid:progenitor:or:system:or:tissue
+CL_UBERON_EXT:lymphocyte_or_lymphoid_progenitor_or_system_or_tissue
 UBERON:0000025
 UBERON:0007780
 
@@ -5803,7 +5803,7 @@ UBERON:0000922
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0001756
 UBERON:0007023
-UBERON:0000014|UBERON:EXT#:zone:of:skin:or:skin:of:body
+UBERON:0000014|UBERON_EXT:zone_of_skin_or_skin_of_body
 UBERON:0000170|UBERON:0002048
 UBERON:0004122
 UBERON:0005409
@@ -5813,7 +5813,7 @@ UBERON:0000178
 UBERON:0000178
 UBERON:0000178
 UBERON:0005291
-UBERON_EXT:body
+UBERON:EXT:body
 UBERON:0001756
 UBERON:0000479
 UBERON:0000033
@@ -5835,9 +5835,9 @@ UBERON:0001756
 UBERON:0012429
 UBERON:0001756
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON:EXT#:vestibule:or:vestibular:system
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON_EXT:vestibule_or_vestibular_system
 
 
 
@@ -5848,7 +5848,7 @@ UBERON:0007023
 UBERON:0000922
 UBERON:0000479
 UBERON:0000033
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0001756
 UBERON:0001762
 UBERON:0001729
@@ -5863,13 +5863,13 @@ UBERON:0002107
 UBERON:0001756
 UBERON:0006333
 UBERON:0000170|UBERON:0002048
-UBERON_EXT:body
-UBERON_EXT:body
+UBERON:EXT:body
+UBERON:EXT:body
 UBERON:0000479
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0000033
 UBERON:0000955
 UBERON:0001684
@@ -5882,8 +5882,8 @@ UBERON:0001977
 UBERON:0001977
 
 UBERON:0000922
-UBERON:EXT#:bone:element:or:tissue
-UBERON:EXT#:cartilage:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
+UBERON_EXT:cartilage_element_or_tissue
 UBERON:0002405
 UBERON:0000178
 UBERON:0004711
@@ -5897,8 +5897,8 @@ UBERON:0001911
 UBERON:0001911
 
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
 
@@ -5916,14 +5916,14 @@ UBERON:0000479
 UBERON:0001911
 
 UBERON:0000970
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0001911
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0001911
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0000104
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
 
@@ -5947,7 +5947,7 @@ UBERON:0001911
 UBERON:0000922
 
 
-UBERON_EXT:body
+UBERON:EXT:body
 UBERON:0001977
 
 
@@ -5955,11 +5955,11 @@ UBERON:0001977
 
 
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 UBERON:0012282
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
-UBERON_EXT:body
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
+UBERON:EXT:body
 
 UBERON:0012282
 UBERON:0000479
@@ -5967,22 +5967,22 @@ UBERON:0001913
 UBERON:0001913
 
 UBERON:0000479
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:neonate_or_newborn
 UBERON:0001977
 UBERON:0000007
 UBERON:0001977
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-NCBITaxon_UBERON_EXT:pup
-NCBITaxon_UBERON_EXT:pup
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+NCBITaxon:UBERON:EXT:pup
+NCBITaxon:UBERON:EXT:pup
 UBERON:0001913
 UBERON:0000945
 UBERON:0001911
@@ -5991,15 +5991,15 @@ UBERON:0001911
 
 
 UBERON:0001911
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0001913
 UBERON:0001913
 UBERON:0001911
 UBERON:0001911
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
 
@@ -6007,7 +6007,7 @@ UBERON:0000058
 UBERON:0012282
 
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
 
@@ -6038,7 +6038,7 @@ UBERON:0000479
 
 
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
 
@@ -6068,7 +6068,7 @@ UBERON:0012282
 
 UBERON:0001913
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0000104
 
 UBERON:0000479
@@ -6076,11 +6076,11 @@ UBERON:0000479
 UBERON:0000483
 
 
-NCBITaxon_UBERON_EXT:pup
-NCBITaxon_UBERON_EXT:pup
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+NCBITaxon:UBERON:EXT:pup
+NCBITaxon:UBERON:EXT:pup
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
 
@@ -6112,7 +6112,7 @@ UBERON:0001911
 UBERON:0001911
 
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
 
@@ -6120,14 +6120,14 @@ UBERON:0000104
 
 
 
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:neonate_or_newborn
 
 UBERON:0001911
 UBERON:0001977
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0001977
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0001305
 
 
@@ -6144,7 +6144,7 @@ UBERON:0012282
 
 UBERON:0000479
 UBERON:0001911
-UBERON:0000068|UBERON:EXT#:embryonic:stage:or:stage:part
+UBERON:0000068|UBERON_EXT:embryonic_stage_or_stage_part
 
 
 
@@ -6174,10 +6174,10 @@ UBERON:0001013
 UBERON:0000310
 
 UBERON:0000310
-UBERON_EXT:body
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
-NCBITaxon_UBERON_EXT:woman
-NCBITaxon_UBERON_EXT:woman
+UBERON:EXT:body
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
+NCBITaxon:UBERON:EXT:woman
+NCBITaxon:UBERON:EXT:woman
 
 UBERON:0000310
 UBERON:0000310
@@ -6205,7 +6205,7 @@ UBERON:0001977
 UBERON:0000479
 
 UBERON:0000479
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0001913
 
 UBERON:0000479
@@ -6225,8 +6225,8 @@ UBERON:0001913
 
 
 UBERON:0000479
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
 UBERON:0000479
@@ -6256,10 +6256,10 @@ UBERON:0001013
 
 
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-NCBITaxon_UBERON_EXT:pup
-NCBITaxon_UBERON_EXT:pup
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+NCBITaxon:UBERON:EXT:pup
+NCBITaxon:UBERON:EXT:pup
 UBERON:0002113
 UBERON:0002113
 UBERON:0004134
@@ -6277,7 +6277,7 @@ UBERON:0002113
 
 
 UBERON:0002113
-GO_UBERON_EXT:lumen
+GO:UBERON:EXT:lumen
 UBERON:0001231
 
 UBERON:0002113
@@ -6287,7 +6287,7 @@ UBERON:0002113
 
 
 UBERON:0002113
-UBERON:EXT#:skin:or:dermis
+UBERON_EXT:skin_or_dermis
 UBERON:0001232
 
 UBERON:0002113
@@ -6295,7 +6295,7 @@ UBERON:0002113
 UBERON:0004205
 UBERON:0001977
 UBERON:0001977
-GO:UBERON:EXT#:cellular:component:or:cell:part
+GO_UBERON_EXT:cellular_component_or_cell_part
 UBERON:0002113
 
 UBERON:0002113
@@ -6305,12 +6305,12 @@ UBERON:0002113
 UBERON:0002113
 UBERON:0002113
 
-UBERON_EXT:body
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+UBERON:EXT:body
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0001347
 UBERON:0001348
 UBERON:0002107
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0001977
 
 UBERON:0000966
@@ -6349,12 +6349,12 @@ UBERON:0000006
 UBERON:0002113
 
 UBERON:0000483
-GO_UBERON_EXT:lumen
+GO:UBERON:EXT:lumen
 UBERON:0002113
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:neonate_or_newborn
 
 UBERON:0002113
-GO_UBERON_EXT:lumen
+GO:UBERON:EXT:lumen
 
 UBERON:0001088
 
@@ -6379,12 +6379,12 @@ UBERON:0002113
 
 
 
-UBERON_EXT:body
+UBERON:EXT:body
 
 
 UBERON:0000178
 UBERON:0001977
-UBERON_EXT:body
+UBERON:EXT:body
 UBERON:0000479
 UBERON:0000479
 UBERON:0002113
@@ -6399,7 +6399,7 @@ UBERON:0000479
 
 UBERON:0001977
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0001225
 UBERON:0001851
 
@@ -6412,7 +6412,7 @@ UBERON:0002113
 UBERON:0002113
 UBERON:0002113
 UBERON:0002113
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0002107
 UBERON:0000473
 UBERON:0001343
@@ -6435,7 +6435,7 @@ UBERON:0001225
 UBERON:0001225
 
 
-UBERON:EXT#:cell:clump:or:cluster:or:group:or:mass:or:population
+UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population
 
 UBERON:0002113
 
@@ -6444,27 +6444,27 @@ UBERON:0002113
 UBERON:0002113
 UBERON:0001088
 UBERON:0001013
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0001013
 UBERON:0002107
-UBERON:EXT#:muscle:structure:or:tissue
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+UBERON_EXT:muscle_structure_or_tissue
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0001013
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0001013
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0002107
 UBERON:0001264
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001013
 UBERON:0001013
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0002107
-UBERON:EXT#:muscle:structure:or:tissue
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+UBERON_EXT:muscle_structure_or_tissue
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0000479
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0001013
 UBERON:0001013
 UBERON:0001013
@@ -6472,87 +6472,87 @@ UBERON:0000479
 UBERON:0000479
 UBERON:0001347
 UBERON:0001348
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0002107
 
 UBERON:0001155
-UBERON:EXT#:bone:element:or:tissue
+UBERON_EXT:bone_element_or_tissue
 UBERON:0001987
 UBERON:0001347
 UBERON:0001348
 UBERON:0001013
 UBERON:0001013
 UBERON:0002107
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0002107
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000479
 UBERON:0001013
 UBERON:0000479
 UBERON:0002107
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 
 UBERON:0001013
 UBERON:0000479
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0001013
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0001347
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON_EXT:body
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON_EXT:body
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-UBERON_EXT:body
-UBERON_EXT:body
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON:EXT:body
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON:EXT:body
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+UBERON:EXT:body
+UBERON:EXT:body
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 UBERON:0001088
 UBERON:0001088
 UBERON:0001013
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-UBERON_EXT:body
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+UBERON:EXT:body
 UBERON:0001013
 UBERON:0000104
 UBERON:0000178
 
-UBERON_EXT:body
+UBERON:EXT:body
 UBERON:0000178
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0001013
 UBERON:0001013
 UBERON:0001013
 UBERON:0007023
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0007023
 UBERON:0007023
 
 
 
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
 UBERON:0001264
 
@@ -6569,59 +6569,59 @@ UBERON:0001264
 
 
 
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:neonate_or_newborn
 UBERON:0001264
 UBERON:0001264
 
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
 
 
 
 
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0002107
 UBERON:0002107
 UBERON:0001013
 UBERON:0000006
 UBERON:0002107
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0001013
 UBERON:0000006
 UBERON:0002107
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0001013
 UBERON:0001013
 UBERON:0001013
 
 
 
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue
 
 UBERON:0000006
 
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue
 
 UBERON:0002107
 UBERON:0002107
 UBERON:0002107
 UBERON:0002107
 UBERON:0002107
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0001013
 UBERON:0002107
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 
 
-UBERON_EXT:body
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+UBERON:EXT:body
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
 
@@ -6637,8 +6637,8 @@ UBERON:0002107
 UBERON:0002107
 UBERON:0002107
 UBERON:0002107
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue
 
 UBERON:0002107
 UBERON:0002107
@@ -6649,70 +6649,70 @@ UBERON:0002107
 UBERON:0002107
 UBERON:0002107
 
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0001013
 UBERON:0001013
 UBERON:0000479
 UBERON:0007023
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0001013
 UBERON:0001013
-UBERON_EXT:body
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+UBERON:EXT:body
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0001013
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
-UBERON:0001013
-UBERON:0001013
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
-UBERON:0001013
-UBERON_EXT:body
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
-UBERON_EXT:body
-UBERON:0001013
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
-UBERON:0001013
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
-UBERON_EXT:body
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0001013
 UBERON:0001013
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0001013
-UBERON_EXT:body
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+UBERON:EXT:body
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
+UBERON:EXT:body
+UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
+UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
+UBERON:EXT:body
+UBERON:0001013
+UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
+UBERON:0001013
+UBERON:EXT:body
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0000006
 
 
 
 UBERON:0000479
 UBERON:0001013
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 
 UBERON:0000479
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0002107
 UBERON:0002107
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0001013
 UBERON:0002107
 UBERON:0002107
 UBERON:0001013
 UBERON:0000006
 UBERON:0002107
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0001013
 UBERON:0001013
 UBERON:0001013
 UBERON:0001013
 
 UBERON:0002107
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue
 UBERON:0002107
 UBERON:0000479
 UBERON:0001013
@@ -6720,12 +6720,12 @@ UBERON:0001013
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0001264
 UBERON:0002107
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0001013
 UBERON:0002107
-UBERON:EXT#:muscle:structure:or:tissue
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+UBERON_EXT:muscle_structure_or_tissue
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0000479
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0002107
@@ -6734,23 +6734,23 @@ UBERON:0001013
 UBERON:0001013
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0001013
-UBERON:0000178
-UBERON:0001088
-UBERON_EXT:body
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
-
-UBERON_EXT:body
 UBERON:0000178
 UBERON:0001088
+UBERON:EXT:body
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
+
+UBERON:EXT:body
+UBERON:0000178
 UBERON:0001088
 UBERON:0001088
 UBERON:0001088
 UBERON:0001088
-UBERON_EXT:body
+UBERON:0001088
+UBERON:EXT:body
 
 UBERON:0000479
 UBERON:0000479
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0001913
 UBERON:0000479
 UBERON:0001013
@@ -6769,7 +6769,7 @@ UBERON:0001264
 
 
 
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000479
 UBERON:0002107
 
@@ -6786,67 +6786,67 @@ UBERON:0002107
 UBERON:0001013
 UBERON:0002107
 
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000479
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0001264
 
 UBERON:0001347
-UBERON_EXT:body
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON_EXT:body
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+UBERON:EXT:body
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON:EXT:body
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-UBERON_EXT:body
-UBERON_EXT:body
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+UBERON:EXT:body
+UBERON:EXT:body
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 UBERON:0001264
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
 UBERON:0001264
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
 
 
 
 UBERON:0002107
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0001013
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
 UBERON:0002107
 
 UBERON:0002107
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0002107
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0001013
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0002107
-UBERON:EXT#:skeletal:muscle:organ:or:tissue
+UBERON_EXT:skeletal_muscle_organ_or_tissue
 UBERON:0001264
 UBERON:0002107
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0002107
-UBERON:EXT#:muscle:structure:or:tissue
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+UBERON_EXT:muscle_structure_or_tissue
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 
 UBERON:0001013
 UBERON:0000006
@@ -6917,7 +6917,7 @@ UBERON:0001977
 
 
 
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
 
 
 
@@ -6951,7 +6951,7 @@ UBERON:0001211
 
 UBERON:0000444
 
-CL:UBERON:EXT#:lymphocyte:or:lymphoid:progenitor:or:system:or:tissue
+CL_UBERON_EXT:lymphocyte_or_lymphoid_progenitor_or_system_or_tissue
 
 
 
@@ -7003,7 +7003,7 @@ UBERON:0000104
 
 UBERON:0007023
 UBERON:0001155
-UBERON_EXT:body
+UBERON:EXT:body
 UBERON:0000160
 UBERON:0000160
 
@@ -7021,7 +7021,7 @@ UBERON:0002106
 
 UBERON:0002106
 
-UBERON_EXT:follicle
+UBERON:EXT:follicle
 UBERON:0000483
 
 
@@ -7059,7 +7059,7 @@ UBERON:0002116
 UBERON:0000331
 
 UBERON:0001155
-UBERON_EXT:body
+UBERON:EXT:body
 UBERON:0001155
 
 
@@ -7088,7 +7088,7 @@ UBERON:0002106
 
 
 
-UBERON:0000068|UBERON:EXT#:embryonic:stage:or:stage:part
+UBERON:0000068|UBERON_EXT:embryonic_stage_or_stage_part
 
 
 UBERON:0002405
@@ -7103,18 +7103,18 @@ UBERON:0002116
 
 
 
-UBERON_EXT:follicle
+UBERON:EXT:follicle
 
 
 
 UBERON:0000160
-CL:UBERON:EXT#:lymphocyte:or:lymphoid:progenitor:or:system:or:tissue
+CL_UBERON_EXT:lymphocyte_or_lymphoid_progenitor_or_system_or_tissue
 
 UBERON:0000483
 UBERON:0006909
 
 
-CL:UBERON:EXT#:lymphocyte:or:lymphoid:progenitor:or:system:or:tissue
+CL_UBERON_EXT:lymphocyte_or_lymphoid_progenitor_or_system_or_tissue
 
 UBERON:0001744
 
@@ -7194,11 +7194,11 @@ UBERON:0000178
 UBERON:0001155
 UBERON:0001155
 UBERON:0001245
-UBERON_EXT:body
-UBERON_EXT:body
+UBERON:EXT:body
+UBERON:EXT:body
 
 UBERON:0000160
-UBERON_EXT:body
+UBERON:EXT:body
 
 UBERON:0000160
 
@@ -7211,7 +7211,7 @@ UBERON:0001211
 
 UBERON:0002106
 
-CL:UBERON:EXT#:lymphocyte:or:lymphoid:progenitor:or:system:or:tissue
+CL_UBERON_EXT:lymphocyte_or_lymphoid_progenitor_or_system_or_tissue
 
 UBERON:0000160
 
@@ -7221,9 +7221,9 @@ UBERON:0002106
 UBERON:0001211
 
 UBERON:0002106
-UBERON_EXT:follicle
+UBERON:EXT:follicle
 UBERON:0000483
-UBERON_EXT:follicle
+UBERON:EXT:follicle
 UBERON:0000483
 
 UBERON:0002106
@@ -7240,15 +7240,15 @@ UBERON:0002116
 
 UBERON:0002116
 
-UBERON_EXT:body
+UBERON:EXT:body
 UBERON:0001155
 UBERON:0002106
 UBERON:0002106
 
 UBERON:0007023
 UBERON:0000955
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 UBERON:0000955
 UBERON:0001021
 UBERON:0000955
@@ -7260,46 +7260,46 @@ UBERON:0000955
 UBERON:0000955
 
 UBERON:0001016
-UBERON:EXT#:muscle:structure:or:tissue
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0001456
 UBERON:0000974
 UBERON:0002102
 UBERON:0001137
 UBERON:0002415
 UBERON:0002103
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:female:or:bearer:of:femaleness
-UBERON:EXT#:muscle:structure:or:tissue
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:female_or_bearer_of_femaleness
+UBERON_EXT:muscle_structure_or_tissue
 UBERON:0000974
 UBERON:0001690
 UBERON:0002102
 UBERON:0002415
-UBERON_EXT:body
-UBERON_EXT:body
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-UBERON_EXT:body
-UBERON:EXT#:cranium:or:head
-UBERON_EXT:body
+UBERON:EXT:body
+UBERON:EXT:body
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+UBERON:EXT:body
+UBERON_EXT:cranium_or_head
+UBERON:EXT:body
 UBERON:0000104
 UBERON:0000955
 
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 
 UBERON:0000955
 
 
 
 UBERON:0000104
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:neonate_or_newborn
 UBERON:0007023
 UBERON:0000955
 UBERON:0000955
 UBERON:0000955
 UBERON:0007023
 
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:neonate_or_newborn
 UBERON:0000955
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:neonate_or_newborn
 UBERON:0007023
 UBERON:0001851
 UBERON:0000955
@@ -7316,11 +7316,11 @@ UBERON:0000062|UBERON:0000468|UBERON:0003062
 UBERON:0000955
 UBERON:0000955
 UBERON:0000956
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 UBERON:0002264
 UBERON:0000119|UBERON:0002037
 UBERON:0000955
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 UBERON:0003882
 UBERON:0003883
 UBERON:0003881
@@ -7331,12 +7331,12 @@ UBERON:0000955
 UBERON:0000955
 UBERON:0002264
 UBERON:0000956
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 UBERON:0002037
 UBERON:0000955
 UBERON:0002037
 UBERON:0000955
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 UBERON:0003882
 UBERON:0003883
 
@@ -7345,21 +7345,21 @@ UBERON:0002037
 
 UBERON:0000956
 
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 
 UBERON:0002264
-PATO:UBERON:EXT#:neonate:or:newborn
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+PATO_UBERON_EXT:neonate_or_newborn
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 UBERON:0003882
 UBERON:0003883
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:neonate_or_newborn
 UBERON:0007023
 UBERON:0000955
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 UBERON:0007023
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 UBERON:0000955
 UBERON:0000955
 UBERON:0000955
@@ -7370,25 +7370,25 @@ UBERON:0000956
 
 UBERON:0002028
 
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 UBERON:0007023
 UBERON:0002103
 UBERON:0000955
 
 UBERON:0000955
 UBERON:0007023
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 UBERON:0000479
 UBERON:0000955
-UBERON:EXT#:hippocampus:proper:or:hippocampal:formation
+UBERON_EXT:hippocampus_proper_or_hippocampal_formation
 UBERON:0000922
-CHEBI:UBERON:EXT#:triglyceride:or:adipose:tissue|UBERON:0001013
+CHEBI_UBERON_EXT:triglyceride_or_adipose_tissue|UBERON:0001013
 UBERON:0000970
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0001890
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
 UBERON:0013406
 UBERON:0013406
 UBERON:0003129
@@ -7398,7 +7398,7 @@ UBERON:0000955
 
 
 
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:neonate_or_newborn
 UBERON:0000955
 UBERON:0007023
 UBERON:0000955
@@ -7406,11 +7406,11 @@ UBERON:0000955
 UBERON:0000956
 UBERON:0007023
 UBERON:0000955
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:neonate_or_newborn
 UBERON:0000033
 UBERON:0000955
 
-PATO:UBERON:EXT#:male:or:bearer:of:maleness
-PATO:UBERON:EXT#:neonate:or:newborn
+PATO_UBERON_EXT:male_or_bearer_of_maleness
+PATO_UBERON_EXT:neonate_or_newborn
