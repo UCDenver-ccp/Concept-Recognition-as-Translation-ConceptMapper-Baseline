@@ -311,12 +311,6 @@ public class BaselineFileGenerator {
 
 					System.out.println("PROCESSING " + input.name() + " -- " + ont.name());
 
-					// TODO: Uberon input files are missing. Remove this continue when the Uberon
-					// files are available to complete processing
-					if (ont == Ontology.UBERON) {
-						continue;
-					}
-
 					// create ConceptMapper instance
 					AnalysisEngine conceptMapper = createConceptMapperEngine(ont, input, dictionaryDirectory,
 							craftBaseDirectory);
