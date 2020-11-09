@@ -271,12 +271,15 @@ public class BaselineFileGenerator {
 	 * @param mentionName
 	 * @return id with OBO PURL removed
 	 */
-	private static String processId(String id) {
+	@VisibleForTesting
+	protected static String processId(String id) {
 		if (id.startsWith("http://purl.obolibrary.org/obo/")) {
 			id = StringUtils.removePrefix(id, "http://purl.obolibrary.org/obo/");
 		}
 		if (id.contains("EXT_")) {
 			id = id.replace("EXT_", "EXT:");
+		} if (id.contains("EXT#")) {
+			id = id.replace("EXT#_", "EXT:");
 		} else if (id.contains("_")) {
 			id = id.replace("_", ":");
 		}
@@ -303,11 +306,11 @@ public class BaselineFileGenerator {
 //			{
 //				File craftBaseDirectory = new File("/Users/bill/projects/craft-shared-task/craft.git");
 //				File dictionaryDirectory = new File(
-//						"/Users/bill/projects/one-offs/for-mayla-negacy-concept-recognition-paper/data/dictionaries");
+//						"/Users/bill/projects/one-offs/for-mayla-negacy-concept-recognition-paper/dictionaries");
 //				File dataDirectory = new File(
 //						"/Users/bill/projects/one-offs/for-mayla-negacy-concept-recognition-paper/data");
 //				Ontology ont = Ontology.UBERON;
-//				Input input = Input.CORE;
+//				Input input = Input.EXT;
 //
 //				// create ConceptMapper instance
 //				AnalysisEngine conceptMapper = createConceptMapperEngine(ont, input, dictionaryDirectory,
