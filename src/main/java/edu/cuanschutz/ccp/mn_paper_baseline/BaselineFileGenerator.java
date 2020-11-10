@@ -72,6 +72,7 @@ import edu.ucdenver.ccp.nlp.pipelines.conceptmapper.ConceptMapperDictionaryFileF
 import edu.ucdenver.ccp.nlp.pipelines.conceptmapper.ConceptMapperPipelineFactory;
 import edu.ucdenver.ccp.nlp.pipelines.conceptmapper.EntityFinder;
 import edu.ucdenver.ccp.nlp.uima.util.TypeSystemUtil;
+import edu.ucdenver.ccp.nlp.wrapper.conceptmapper.dictionary.obo.OboToDictionary.IncludeExt;
 
 public class BaselineFileGenerator {
 
@@ -154,6 +155,11 @@ public class BaselineFileGenerator {
 	protected static AnalysisEngine createConceptMapperEngine(Ontology ont, Input input, File dictionaryDirectory,
 			File craftBaseDirectory) throws UIMAException, IOException {
 
+		IncludeExt includeExt = IncludeExt.NO;
+		if (input == Input.EXT) {
+			includeExt = IncludeExt.YES;
+		}
+		
 		/*
 		 * The initialization code below builds a ConceptMapper dictionary for each
 		 * ontology unless one already exists. Because UBERON and MOP annotations were
@@ -174,7 +180,7 @@ public class BaselineFileGenerator {
 				.initConceptMapperAggregateDescriptions(TYPE_SYSTEM_DESCRIPTION,
 						ont.getConceptMapperDictionaryNamespace().name(),
 						ont.getOntologyFile(craftBaseDirectory, input, dictionaryDirectory), dictionaryDirectory,
-						false);
+						false, includeExt);
 
 		AnalysisEngine conceptMapperEngine = AnalysisEngineFactory.createEngine(AnalysisEngineFactory
 				.createEngineDescription(conceptMapperAeDescriptions.toArray(new AnalysisEngineDescription[0])));
@@ -276,9 +282,12 @@ public class BaselineFileGenerator {
 		if (id.startsWith("http://purl.obolibrary.org/obo/")) {
 			id = StringUtils.removePrefix(id, "http://purl.obolibrary.org/obo/");
 		}
-		if (id.contains("EXT_")) {
+		
+		if (id.contains("NCBITaxon_EXT_")) {
+			id = id.replace("NCBITaxon_EXT_", "NCBITaxon_EXT:");
+		} else if (id.contains("EXT_")) {
 			id = id.replace("EXT_", "EXT:");
-		} if (id.contains("EXT#")) {
+		} else if (id.contains("EXT#")) {
 			id = id.replace("EXT#_", "EXT:");
 		} else if (id.contains("_")) {
 			id = id.replace("_", ":");
@@ -309,7 +318,7 @@ public class BaselineFileGenerator {
 //						"/Users/bill/projects/one-offs/for-mayla-negacy-concept-recognition-paper/dictionaries");
 //				File dataDirectory = new File(
 //						"/Users/bill/projects/one-offs/for-mayla-negacy-concept-recognition-paper/data");
-//				Ontology ont = Ontology.UBERON;
+//				Ontology ont = Ontology.GO_MF;
 //				Input input = Input.EXT;
 //
 //				// create ConceptMapper instance

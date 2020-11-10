@@ -102,13 +102,16 @@ public class BaselineFileGeneratorTest {
 		String id = "http://purl.obolibrary.org/obo/CL_0000000";
 		String processedId = BaselineFileGenerator.processId(id);
 		String expectedId = "CL:0000000";
-		
 		assertEquals(expectedId, processedId);
 		
 		id = "http://purl.obolibrary.org/obo/UBERON_EXT#_cell_clump_or_cluster_or_group_or_mass_or_population";
 		processedId = BaselineFileGenerator.processId(id);
 		expectedId = "UBERON_EXT:cell_clump_or_cluster_or_group_or_mass_or_population";
+		assertEquals(expectedId, processedId);
 		
+		id = "http://purl.obolibrary.org/obo/NCBITaxon_EXT_HIV";
+		processedId = BaselineFileGenerator.processId(id);
+		expectedId = "NCBITaxon_EXT:HIV";
 		assertEquals(expectedId, processedId);
 	}
 
