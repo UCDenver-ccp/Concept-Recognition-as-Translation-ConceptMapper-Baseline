@@ -1,4 +1,4 @@
-# ConceptMapper baseline for Mayla/Negacy concept-recognition paper
+# Concept Recognition as Translation ConceptMapper Baseline
 
 ## Requirements
 * Docker
@@ -9,7 +9,7 @@
  1. Clone this repository
  
 ```bash
-> git clone XXXXXX ./baseline-repo.git
+> git clone https://github.com/UCDenver-ccp/Concept-Recognition-as-Translation-ConceptMapper-Baseline.git ./baseline-repo.git
 ```
 
  2. Build the Docker container
@@ -17,18 +17,18 @@ Execute the following from inside the `./baseline-repo.git` directory created wh
 
 ```bash
 > cd [BASELINE-REPO]
-> docker build -t mn-baseline:0.1 .
+> docker build -t cm-baseline:0.1 .
 ```
 
  3. Generate the baseline files
  
  ```bash
- docker run --rm -v [BASELINE-REPO]/data:/home/baseline/data mn-baseline:0.1 
+ docker run --rm -v [BASELINE-REPO]/data:/home/baseline/data cm-baseline:0.1 
  ```
  
-  Alternatively, if you want to cache the ConceptMapper directories to the host machine, run the following where `[DICTIONARY-DIR]` is the absolute path to a directory on the host machine where the ConceptMapper dictionaries will be stored:
+    Alternatively, if you want to cache the ConceptMapper directories to the host machine, run the following where `[DICTIONARY-DIR]` is the absolute path to a directory on the host machine where the ConceptMapper dictionaries will be stored:
  
- ```bash
- docker run --rm -v [BASELINE-REPO]/data:/home/baseline/data -v [DICTIONARY-DIR]:/home/baseline/dictionaries mn-baseline:0.1 
- ```
+   ```bash
+ docker run --rm -v [BASELINE-REPO]/data:/home/baseline/data -v [DICTIONARY-DIR]:/home/baseline/dictionaries cm-baseline:0.1 
+   ```
  
