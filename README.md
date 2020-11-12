@@ -26,7 +26,7 @@ Execute the following from inside the `./baseline-repo.git` directory created wh
  docker run --rm -v [BASELINE-REPO]/data:/home/baseline/data cm-baseline:0.1 
  ```
  
-    Alternatively, if you want to cache the ConceptMapper directories to the host machine, run the following where `[DICTIONARY-DIR]` is the absolute path to a directory on the host machine where the ConceptMapper dictionaries will be stored:
+   Alternatively, if you want to cache the ConceptMapper directories to the host machine, run the following where `[DICTIONARY-DIR]` is the absolute path to a directory on the host machine where the ConceptMapper dictionaries will be stored:
  
    ```bash
  docker run --rm -v [BASELINE-REPO]/data:/home/baseline/data -v [DICTIONARY-DIR]:/home/baseline/dictionaries cm-baseline:0.1 
